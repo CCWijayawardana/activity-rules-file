@@ -1,0 +1,133 @@
+[
+  {
+    "indicators": {
+      "energy_type": "type",
+      "energy_unit": "unit",
+      "energy_amount": "amount"
+    },
+    "extract": {
+      "activity": "'Supplier Energy use for owned or controlled equipment'",
+      "type": "{'Natural Gas Consumption':'Natural Gas','Electricity Consumption':'Electricity','Diesel (on-site / fleet)':'Diesel','Petrol (fleet)':'Petrol','Gas Oil / Red Diesel':'Gas Oil','LPG':'LPG'}[type] ?? type",
+      "amount": "amount",
+      "unit": "{'liters':'l','kWh':'kWh'}[unit] ?? unit"
+    }
+  },
+  {
+    "indicators": {
+      "food_type": "product_type",
+      "food_quantity": "quantity",
+      "food_unit": "unit",
+      "food_refrigeration": "refrigeration",
+      "food_pcf_value": "pcf_value",
+      "food_pcf_standard": "pcf_standard"
+    },
+    "extract": {
+      "activity": "'Supplier Food Product Emissions'",
+      "type": "{'Beef – Unprepared/Unprocessed':'Beef','Lamb – Unprepared/Unprocessed':'Lamb','Pork – Unprepared/Unprocessed':'Pork','Poultry – Unprepared/Unprocessed (Other Animal Species proxy)':'Poultry','Fish – Unprepared/Unprocessed':'Fish','Milk (Perishable)':'Dairy - Milk','Cheese (Perishable)':'Dairy - Cheese','Butter (Perishable)':'Dairy - Butter','In Shell Table Eggs':'Eggs','Grains/Flour':'Grains','Bread':'Bread','Fruits – Unprepared/Unprocessed (Fresh)':'Fruits','Vegetables (Non Leaf) – Unprepared/Unprocessed (Fresh)':'Vegetables','Edible Legume Crops':'Legumes','Oils Edible':'Oils','Sugars/Sugar Substitute Products':'Sugar','All Vegetarian Ready Meals':'Ready Meals','Sweet Snack Bars':'Snacks'}[product_type] ?? product_type",
+      "product_type": "{'Beef – Unprepared/Unprocessed':'Beef','Lamb – Unprepared/Unprocessed':'Lamb','Pork – Unprepared/Unprocessed':'Pork','Poultry – Unprepared/Unprocessed (Other Animal Species proxy)':'Poultry','Fish – Unprepared/Unprocessed':'Fish','Milk (Perishable)':'Dairy - Milk','Cheese (Perishable)':'Dairy - Cheese','Butter (Perishable)':'Dairy - Butter','In Shell Table Eggs':'Eggs','Grains/Flour':'Grains','Bread':'Bread','Fruits – Unprepared/Unprocessed (Fresh)':'Fruits','Vegetables (Non Leaf) – Unprepared/Unprocessed (Fresh)':'Vegetables','Edible Legume Crops':'Legumes','Oils Edible':'Oils','Sugars/Sugar Substitute Products':'Sugar','All Vegetarian Ready Meals':'Ready Meals','Sweet Snack Bars':'Snacks'}[product_type] ?? product_type",
+      "amount": "quantity",
+      "unit": "{'kg':'kg','liters':'litre','units':'units','portions':'portions'}[unit] ?? unit"
+    }
+  },
+  {
+    "indicators": {
+      "type": "product_type",
+      "amount": "quantity",
+      "unit": "unit",
+      "refrigeration": "refrigeration",
+      "pcf_value": "pcf_value",
+      "pcf_standard": "pcf_standard"
+    },
+    "extract": {
+      "activity": "'Supplier Beverage Product Emissions'",
+      "type": "{'Beer (Draught)':'Beer','Beer (Bottled)':'Beer','Wine (Still)':'Wine - Still','Wine (Sparkling)':'Wine - Sparkling','Spirits':'Spirits','Cider':'Cider','Soft Drinks':'Soft Drinks','Juice':'Juice','Water (Bottled)':'Water - Bottled','Coffee':'Coffee','Tea':'Tea'}[product_type] ?? product_type",
+      "product_type": "{'Beer (Draught)':'Beer','Beer (Bottled)':'Beer','Wine (Still)':'Wine - Still','Wine (Sparkling)':'Wine - Sparkling','Spirits':'Spirits','Cider':'Cider','Soft Drinks':'Soft Drinks','Juice':'Juice','Water (Bottled)':'Water - Bottled','Coffee':'Coffee','Tea':'Tea'}[product_type] ?? product_type",
+      "amount": "quantity",
+      "unit": "{'kg':'kg','liters':'litre','units':'units','portions':'portions'}[unit] ?? unit"
+    }
+  },
+  {
+    "indicators": {
+      "road_transport_mode": "type",
+      "road_transport_fuel": "fuel_type",
+      "road_transport_distance": "amount",
+      "road_transport_trips": "trips",
+      "road_transport_return": "return_status",
+      "road_transport_load_factor": "load_factor",
+      "road_transport_actual_fuel": "actual_fuel_liters",
+      "road_transport_weight": "weight_tonnes"
+    },
+    "extract": {
+      "activity": "'Supplier Inbound Transport - Road'",
+      "type": "{'VansClass I (up to 1.305 tonnes)':'Van Class I','VansClass II (1.305 to 1.74 tonnes)':'Van Class II','VansClass III (1.74 to 3.5 tonnes)':'Van Class III','VansAverage (up to 3.5 tonnes)':'Van','HGV (all diesel)Rigid (>3.5 - 7.5 tonnes)':'HGV Rigid (>3.5 - 7.5 tonnes)','HGV (all diesel)Rigid (>7.5 tonnes-17 tonnes)':'HGV Rigid (>7.5 tonnes-17 tonnes)','HGV (all diesel)Rigid (>17 tonnes)':'HGV Rigid (>17 tonnes)','HGV (all diesel)All rigids':'HGV Rigid All','HGV (all diesel)Articulated (>3.5 - 33t)':'HGV Articulated (>3.5 - 33t)','HGV (all diesel)Articulated (>33t)':'HGV Articulated (>33t)','HGV (all diesel)All artics':'HGV Articulated All','HGV (all diesel)All HGVs':'HGV All','HGV RefrigeratedRigid (>3.5 - 7.5 tonnes)':'Refrigerated HGV Rigid (>3.5 - 7.5 tonnes)','HGV RefrigeratedRigid (>7.5 tonnes-17 tonnes)':'Refrigerated HGV Rigid (>7.5 tonnes-17 tonnes)','HGV RefrigeratedRigid (>17 tonnes)':'Refrigerated HGV Rigid (>17 tonnes)','HGV RefrigeratedAll rigids':'Refrigerated HGV Rigid All','HGV RefrigeratedArticulated (>3.5 - 33t)':'Refrigerated HGV Articulated (>3.5 - 33t)','HGV RefrigeratedArticulated (>33t)':'Refrigerated HGV Articulated (>33t)','HGV RefrigeratedAll artics':'Refrigerated HGV Articulated All','HGV RefrigeratedAll HGVs':'Refrigerated HGV All'}[type] ?? type",
+      "amount": "weight_tonnes * 1000 * amount",
+      "unit": "\"kg-km\"",
+      "system": "({region: \"experienz-logistics\"})"
+    }
+  },
+  {
+    "indicators": {
+      "rail_transport_distance": "amount",
+      "rail_transport_weight": "weight_tonnes",
+      "rail_transport_trips": "trips",
+      "rail_transport_return": "return_status",
+      "rail_transport_load_factor": "load_factor"
+    },
+    "extract": {
+      "activity": "'Supplier Inbound Transport - Rail'",
+      "type": "'Train'",
+      "amount": "weight_tonnes * 1000 * amount",
+      "unit": "\"kg-km\"",
+      "system": "({region: \"experienz-logistics\"})"
+    }
+  },
+  {
+    "indicators": {
+      "ship_transport_mode": "type",
+      "ship_transport_distance": "amount",
+      "ship_transport_weight": "weight_tonnes",
+      "ship_transport_trips": "trips",
+      "ship_transport_return": "return_status",
+      "ship_transport_load_factor": "load_factor"
+    },
+    "extract": {
+      "activity": "'Supplier Inbound Transport - Sea'",
+      "type": "{'Cargo Ship - Bulk carrier':'Cargo Ship Bulk','Cargo Ship - General cargo':'Cargo Ship General','Cargo Ship - Container ship':'Cargo Ship Container','Cargo Ship - Vehicle transport':'Cargo Ship Vehicle','Cargo Ship - RoRo-Ferry':'Cargo Ship RoRo','Cargo Ship - Large RoPax ferry':'Cargo Ship Large RoPax','Cargo Ship - Refrigerated cargo':'Cargo Ship Refrigerated','Tanker - Crude tanker':'Tanker Crude','Tanker - Products tanker':'Tanker Products','Tanker - Chemical tanker':'Tanker Chemical','Tanker - LNG tanker':'Tanker LNG','Tanker - LPG Tanker':'Tanker LPG'}[type] ?? type",
+      "amount": "weight_tonnes * 1000 * amount",
+      "unit": "\"kg-km\"",
+      "system": "({region: \"experienz-logistics\"})"
+    }
+  },
+  {
+    "indicators": {
+      "air_transport_mode": "type",
+      "air_transport_distance": "amount",
+      "air_transport_weight": "weight_tonnes",
+      "air_transport_trips": "trips",
+      "air_transport_return": "return_status",
+      "air_transport_load_factor": "load_factor"
+    },
+    "extract": {
+      "activity": "'Supplier Inbound Transport - Air'",
+      "type": "{'Freight FlightsDomestic, to/from UK':'Flight Domestic','Freight FlightsShort-haul, to/from UK':'Flight Short-haul','Freight FlightsLong-haul, to/from UK':'Flight Long-haul','Freight FlightsInternational, to/from non-UK':'Flight International'}[type] ?? type",
+      "amount": "weight_tonnes * 1000 * amount",
+      "unit": "\"kg-km\"",
+      "system": "({region: \"experienz-logistics\"})"
+    }
+  },
+  {
+    "indicators": {
+      "commuting_transport_mode": "transport_mode",
+      "commuting_distance": "commute_distance",
+      "commuting_total_staff": "total_staff",
+      "commuting_working_days": "working_days",
+      "commuting_overnight_stays": "overnight_stays"
+    },
+    "extract": {
+      "activity": "'Employee Commuting - Vehicle'",
+      "type": "{'Small Car - Petrol':'Small car - Petrol','Small Car - Diesel':'Small car - Diesel','Small Car - Hybrid':'Small car - Hybrid','Small Car - Battery Electric Vehicle':'Small car - Battery Electric Vehicle','Small Car - Plug-in Hybrid Electric Vehicle':'Small car - Plug-in Hybrid Electric Vehicle','Medium Car - Petrol':'Medium car - Petrol','Medium Car - Diesel':'Medium car - Diesel','Medium Car - Hybrid':'Medium car - Hybrid','Medium Car - Battery Electric Vehicle':'Medium car - Battery Electric Vehicle','Medium Car - Plug-in Hybrid Electric Vehicle':'Medium car - Plug-in Hybrid Electric Vehicle','Large Car - Petrol':'Large car - Petrol','Large Car - Diesel':'Large car - Diesel','Large Car - Hybrid':'Large car - Hybrid','Large Car - Battery Electric Vehicle':'Large car - Battery Electric Vehicle','Large Car - Plug-in Hybrid Electric Vehicle':'Large car - Plug-in Hybrid Electric Vehicle','Average Car - Petrol':'Average car - Petrol','Average Car - Diesel':'Average car - Diesel','Average Car - Hybrid':'Average car - Hybrid','Average Car - Battery Electric Vehicle':'Average car - Battery Electric Vehicle','Average Car - Plug-in Hybrid Electric Vehicle':'Average car - Plug-in Hybrid Electric Vehicle','Average Car - Unknown':'Average car - Unknown'}[transport_mode] ?? transport_mode",
+      "amount": "(working_days - overnight_stays) * commute_distance",
+      "unit": "'km'"
+    }
+  }
+]
