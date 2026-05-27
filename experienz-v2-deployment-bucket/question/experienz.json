@@ -4329,8 +4329,36 @@
                         ]
                     },
                     "column4": {
-                        "type": "text",
+                        "type": "dropdown",
                         "index": 3,
+                        "label": "Distance Unit",
+                        "options": {
+                            "kms": {
+                                "index": 0,
+                                "value": "kms"
+                            },
+                            "miles": {
+                                "index": 1,
+                                "value": "miles"
+                            },
+                            "passenger.kms": {
+                                "index": 2,
+                                "value": "passenger.kms"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "unit",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "helpText": "Select measurement unit. Use passenger.kms only for public transport modes."
+                    },
+                    "column5": {
+                        "type": "text",
+                        "index": 4,
                         "label": "Average ONE-WAY Commute Distance",
                         "required": false,
                         "indicator": "commute_distance",
@@ -4345,178 +4373,58 @@
                             "sheetName": ""
                         }
                     },
-                    "column5": {
+                    "column6": {
                         "type": "dropdown",
-                        "index": 4,
+                        "index": 5,
                         "label": "Primary Transport Mode",
                         "options": {
-                            "Regular taxi": {
-                                "index": 40,
-                                "value": "Regular taxi"
-                            },
-                            "National rail": {
-                                "index": 39,
-                                "value": "National rail"
-                            },
-                            "Large Car - CNG": {
-                                "index": 11,
-                                "value": "Large Car - CNG"
-                            },
-                            "Large Car - LPG": {
-                                "index": 12,
-                                "value": "Large Car - LPG"
-                            },
-                            "Large Motorbike": {
-                                "index": 33,
-                                "value": "Large Motorbike"
-                            },
-                            "Small Car - CNG": {
-                                "index": 27,
-                                "value": "Small Car - CNG"
-                            },
-                            "Small Car - LPG": {
-                                "index": 28,
-                                "value": "Small Car - LPG"
-                            },
-                            "Small Motorbike": {
-                                "index": 35,
-                                "value": "Small Motorbike"
-                            },
-                            "Medium Car - CNG": {
-                                "index": 19,
-                                "value": "Medium Car - CNG"
-                            },
-                            "Medium Car - LPG": {
-                                "index": 20,
-                                "value": "Medium Car - LPG"
-                            },
-                            "Medium Motorbike": {
-                                "index": 34,
-                                "value": "Medium Motorbike"
-                            },
-                            "Average Car - CNG": {
-                                "index": 3,
-                                "value": "Average Car - CNG"
-                            },
-                            "Average Car - LPG": {
-                                "index": 4,
-                                "value": "Average Car - LPG"
-                            },
-                            "Average Motorbike": {
-                                "index": 32,
-                                "value": "Average Motorbike"
-                            },
-                            "Average local bus": {
-                                "index": 41,
-                                "value": "Average local bus"
-                            },
-                            "Large Car - Diesel": {
-                                "index": 8,
-                                "value": "Large Car - Diesel"
-                            },
-                            "Large Car - Hybrid": {
-                                "index": 10,
-                                "value": "Large Car - Hybrid"
-                            },
-                            "Large Car - Petrol": {
-                                "index": 9,
-                                "value": "Large Car - Petrol"
-                            },
-                            "Small Car - Diesel": {
-                                "index": 24,
-                                "value": "Small Car - Diesel"
-                            },
-                            "Small Car - Hybrid": {
-                                "index": 26,
-                                "value": "Small Car - Hybrid"
-                            },
-                            "Small Car - Petrol": {
-                                "index": 25,
-                                "value": "Small Car - Petrol"
-                            },
-                            "Large Car - Unknown": {
-                                "index": 13,
-                                "value": "Large Car - Unknown"
-                            },
-                            "Medium Car - Diesel": {
-                                "index": 16,
-                                "value": "Medium Car - Diesel"
-                            },
-                            "Medium Car - Hybrid": {
-                                "index": 18,
-                                "value": "Medium Car - Hybrid"
-                            },
-                            "Medium Car - Petrol": {
-                                "index": 17,
-                                "value": "Medium Car - Petrol"
-                            },
-                            "Small Car - Unknown": {
-                                "index": 29,
-                                "value": "Small Car - Unknown"
-                            },
-                            "Average Car - Diesel": {
+                            "Petrol (Small)": {
                                 "index": 0,
-                                "value": "Average Car - Diesel"
+                                "value": "Petrol (Small)"
                             },
-                            "Average Car - Hybrid": {
-                                "index": 2,
-                                "value": "Average Car - Hybrid"
-                            },
-                            "Average Car - Petrol": {
+                            "Petrol (Medium)": {
                                 "index": 1,
-                                "value": "Average Car - Petrol"
+                                "value": "Petrol (Medium)"
                             },
-                            "Medium Car - Unknown": {
-                                "index": 21,
-                                "value": "Medium Car - Unknown"
+                            "Petrol (Large)": {
+                                "index": 2,
+                                "value": "Petrol (Large)"
                             },
-                            "Average Car - Unknown": {
+                            "Petrol (Average)": {
+                                "index": 3,
+                                "value": "Petrol (Average)"
+                            },
+                            "Diesel (Small)": {
+                                "index": 4,
+                                "value": "Diesel (Small)"
+                            },
+                            "Diesel (Medium)": {
                                 "index": 5,
-                                "value": "Average Car - Unknown"
+                                "value": "Diesel (Medium)"
                             },
-                            "Van/Light truck - Diesel": {
-                                "index": 37,
-                                "value": "Van/Light truck - Diesel"
-                            },
-                            "Van/Light truck - Petrol": {
-                                "index": 36,
-                                "value": "Van/Light truck - Petrol"
-                            },
-                            "Van/Light truck - Electric": {
-                                "index": 38,
-                                "value": "Van/Light truck - Electric"
-                            },
-                            "Large Car - Battery Electric Vehicle": {
-                                "index": 15,
-                                "value": "Large Car - Battery Electric Vehicle"
-                            },
-                            "Small Car - Battery Electric Vehicle": {
-                                "index": 31,
-                                "value": "Small Car - Battery Electric Vehicle"
-                            },
-                            "Medium Car - Battery Electric Vehicle": {
-                                "index": 23,
-                                "value": "Medium Car - Battery Electric Vehicle"
-                            },
-                            "Average Car - Battery Electric Vehicle": {
-                                "index": 7,
-                                "value": "Average Car - Battery Electric Vehicle"
-                            },
-                            "Large Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 14,
-                                "value": "Large Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Small Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 30,
-                                "value": "Small Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Medium Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 22,
-                                "value": "Medium Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Average Car - Plug-in Hybrid Electric Vehicle": {
+                            "Diesel (Large)": {
                                 "index": 6,
-                                "value": "Average Car - Plug-in Hybrid Electric Vehicle"
+                                "value": "Diesel (Large)"
+                            },
+                            "Diesel (Average)": {
+                                "index": 7,
+                                "value": "Diesel (Average)"
+                            },
+                            "Hybrid (Average)": {
+                                "index": 8,
+                                "value": "Hybrid (Average)"
+                            },
+                            "Plug-in Hybrid Electric": {
+                                "index": 9,
+                                "value": "Plug-in Hybrid Electric"
+                            },
+                            "Battery Electric": {
+                                "index": 10,
+                                "value": "Battery Electric"
+                            },
+                            "Average (Unknown Fuel)": {
+                                "index": 11,
+                                "value": "Average (Unknown Fuel)"
                             }
                         },
                         "required": false,
@@ -4528,10 +4436,10 @@
                             }
                         ]
                     },
-                    "column6": {
+                    "column7": {
                         "step": 1,
                         "type": "number",
-                        "index": 5,
+                        "index": 6,
                         "label": "Vehicle Occupancy",
                         "required": false,
                         "indicator": "",
@@ -4542,9 +4450,9 @@
                             }
                         ]
                     },
-                    "column7": {
+                    "column8": {
                         "type": "dropdown",
-                        "index": 6,
+                        "index": 7,
                         "label": "Secondary Mode",
                         "options": {
                             "Regular taxi": {
@@ -4725,10 +4633,10 @@
                             }
                         ]
                     },
-                    "column8": {
+                    "column9": {
                         "step": 1,
                         "type": "number",
-                        "index": 7,
+                        "index": 8,
                         "label": "Primary percentage",
                         "required": false,
                         "indicator": "",
