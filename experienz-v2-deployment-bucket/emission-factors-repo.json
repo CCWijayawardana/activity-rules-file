@@ -285581,5 +285581,129 @@
         },
         "originalFactor": "0.26915",
         "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.03546,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/National rail",
+        "uom": "passenger.km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5461",
+            "ID": "25_315_3147_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Rail",
+            "Level 3": "National rail",
+            "Level 4": "",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.03546"
+        },
+        "unitConversion": {
+            "id": "25",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.03546",
+        "originalUom": "passenger.km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.00446,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/International rail",
+        "uom": "passenger.km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5465",
+            "ID": "25_315_3148_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Rail",
+            "Level 3": "International rail",
+            "Level 4": "",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.00446"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.00446",
+        "originalUom": "passenger.km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.0286,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/Light rail and tram",
+        "uom": "passenger.km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5469",
+            "ID": "25_315_3149_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Rail",
+            "Level 3": "Light rail and tram",
+            "Level 4": "",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.0286"
+        },
+        "unitConversion": {
+            "id": "27",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.0286",
+        "originalUom": "passenger.km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.0278,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/London Underground",
+        "uom": "passenger.km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5473",
+            "ID": "25_315_3150_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Rail",
+            "Level 3": "London Underground",
+            "Level 4": "",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.0278"
+        },
+        "unitConversion": {
+            "id": "28",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.0278",
+        "originalUom": "passenger.km"
     }
 ]

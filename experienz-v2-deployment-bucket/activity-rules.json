@@ -10785,6 +10785,30 @@
             "realm": "experienz",
             "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Unknown Fuel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown',scope:3,category:'Business travel - land',uom:'miles'}]"
+        },
+        {
+            "id": "EC025",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='National rail'&&unit=='passenger.kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/National rail',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC026",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='International Rail (Eurostar)'&&unit=='passenger.kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/International rail',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC027",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Light Rail / Tram'&&unit=='passenger.kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/Light rail and tram',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC028",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='London Underground'&&unit=='passenger.kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/London Underground',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
         }
     ],
     "emissionFactorResolve": [
