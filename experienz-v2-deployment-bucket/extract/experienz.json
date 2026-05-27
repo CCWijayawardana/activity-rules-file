@@ -117,15 +117,15 @@
   },
   {
     "indicators": {
-      "commuting_transport_mode": "transport_mode",
-      "commuting_distance": "commute_distance",
-      "commuting_total_staff": "total_staff",
-      "commuting_working_days": "working_days",
-      "commuting_overnight_stays": "overnight_stays"
+      "transport_mode": "type",
+      "commute_distance": "commute_distance",
+      "total_staff": "total_staff",
+      "working_days": "working_days",
+      "overnight_stays": "overnight_stays"
     },
     "extract": {
       "activity": "'Employee Commuting - Vehicle'",
-      "type": "{'Small Car - Petrol':'Small car - Petrol','Small Car - Diesel':'Small car - Diesel','Small Car - Hybrid':'Small car - Hybrid','Small Car - Battery Electric Vehicle':'Small car - Battery Electric Vehicle','Small Car - Plug-in Hybrid Electric Vehicle':'Small car - Plug-in Hybrid Electric Vehicle','Medium Car - Petrol':'Medium car - Petrol','Medium Car - Diesel':'Medium car - Diesel','Medium Car - Hybrid':'Medium car - Hybrid','Medium Car - Battery Electric Vehicle':'Medium car - Battery Electric Vehicle','Medium Car - Plug-in Hybrid Electric Vehicle':'Medium car - Plug-in Hybrid Electric Vehicle','Large Car - Petrol':'Large car - Petrol','Large Car - Diesel':'Large car - Diesel','Large Car - Hybrid':'Large car - Hybrid','Large Car - Battery Electric Vehicle':'Large car - Battery Electric Vehicle','Large Car - Plug-in Hybrid Electric Vehicle':'Large car - Plug-in Hybrid Electric Vehicle','Average Car - Petrol':'Average car - Petrol','Average Car - Diesel':'Average car - Diesel','Average Car - Hybrid':'Average car - Hybrid','Average Car - Battery Electric Vehicle':'Average car - Battery Electric Vehicle','Average Car - Plug-in Hybrid Electric Vehicle':'Average car - Plug-in Hybrid Electric Vehicle','Average Car - Unknown':'Average car - Unknown'}[transport_mode] ?? transport_mode",
+      "type": "{'Small Car - Petrol':'Small car - Petrol','Small Car - Diesel':'Small car - Diesel','Small Car - Hybrid':'Small car - Hybrid','Small Car - Battery Electric Vehicle':'Small car - Battery Electric Vehicle','Small Car - Plug-in Hybrid Electric Vehicle':'Small car - Plug-in Hybrid Electric Vehicle','Medium Car - Petrol':'Medium car - Petrol','Medium Car - Diesel':'Medium car - Diesel','Medium Car - Hybrid':'Medium car - Hybrid','Medium Car - Battery Electric Vehicle':'Medium car - Battery Electric Vehicle','Medium Car - Plug-in Hybrid Electric Vehicle':'Medium car - Plug-in Hybrid Electric Vehicle','Large Car - Petrol':'Large car - Petrol','Large Car - Diesel':'Large car - Diesel','Large Car - Hybrid':'Large car - Hybrid','Large Car - Battery Electric Vehicle':'Large car - Battery Electric Vehicle','Large Car - Plug-in Hybrid Electric Vehicle':'Large car - Plug-in Hybrid Electric Vehicle','Average Car - Petrol':'Average car - Petrol','Average Car - Diesel':'Average car - Diesel','Average Car - Hybrid':'Average car - Hybrid','Average Car - Battery Electric Vehicle':'Average car - Battery Electric Vehicle','Average Car - Plug-in Hybrid Electric Vehicle':'Average car - Plug-in Hybrid Electric Vehicle','Average Car - Unknown':'Average car - Unknown'}[type] ?? type",
       "amount": "(working_days - overnight_stays) * commute_distance",
       "unit": "'km'"
     }
