@@ -10100,7 +10100,7 @@
             "id": "sil_0005",
             "realm": "silverstone",
             "query": "activity=='Commercial & Institutional equipment'&&type=='Propane'&&!(system_props.external?.region)",
-            "function": "return [{source:\"self\",indicator:\"-\",scope:3,category:\"Stationary Combustion\"}]"
+            "function": "return [{source:\"self\",indicator:\"-\",scope:1,category:\"Stationary Combustion\"}]"
         },
         {
             "id": "sil_0006",
@@ -10118,7 +10118,7 @@
             "id": "sil_0008",
             "realm": "silverstone",
             "query": "activity=='On-Road Vehicles'&&type=='Diesel (100% mineral diesel)'&&!(system_props.external?.region)",
-            "function": "return [{source:\"self\",indicator:\"-\",scope:1,category:\"Stationary Combustion\"}]"
+            "function": "return [{source:\"self\",indicator:\"-\",scope:1,category:\"Mobile Combustion\"}]"
         },
         {
             "id": "sil_0009",
