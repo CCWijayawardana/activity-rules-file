@@ -284838,1214 +284838,748 @@
         "originalFactor": "0.0436",
         "originalUom": "kg"
     },
-    
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.17474,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "2",
-      "ID": "COMM.DEFRA_0001",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Medium car (Petrol)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.17474"
-    },
-    "unitConversion": {
-      "id": "1",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.17474",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.26828,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "3",
-      "ID": "COMM.DEFRA_0002",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Large car (Petrol)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.26828"
-    },
-    "unitConversion": {
-      "id": "2",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.26828",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.16272,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "4",
-      "ID": "COMM.DEFRA_0003",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Petrol)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.16272"
-    },
-    "unitConversion": {
-      "id": "3",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.16272",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.1434,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "5",
-      "ID": "COMM.DEFRA_0004",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Small car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.1434"
-    },
-    "unitConversion": {
-      "id": "4",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.1434",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.17174,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "6",
-      "ID": "COMM.DEFRA_0005",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Medium car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.17174"
-    },
-    "unitConversion": {
-      "id": "5",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.17174",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.21007,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "7",
-      "ID": "COMM.DEFRA_0006",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Large car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.21007"
-    },
-    "unitConversion": {
-      "id": "6",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.21007",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.17304,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "8",
-      "ID": "COMM.DEFRA_0007",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.17304"
-    },
-    "unitConversion": {
-      "id": "7",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.17304",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.12825,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "9",
-      "ID": "COMM.DEFRA_0008",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Hybrid)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.12825"
-    },
-    "unitConversion": {
-      "id": "8",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.12825",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.10461,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "10",
-      "ID": "COMM.DEFRA_0009",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Plug-in Hybrid Electric Vehicle)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.10461"
-    },
-    "unitConversion": {
-      "id": "9",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.10461",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.04047,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "11",
-      "ID": "COMM.DEFRA_0010",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Battery Electric Vehicle)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.04047"
-    },
-    "unitConversion": {
-      "id": "10",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.04047",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.16725,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "12",
-      "ID": "COMM.DEFRA_0011",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Unknown)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.16725"
-    },
-    "unitConversion": {
-      "id": "11",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.16725",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.23027,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Petrol",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "13",
-      "ID": "COMM.DEFRA_0012",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Small car (Petrol)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.23027"
-    },
-    "unitConversion": {
-      "id": "12",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.23027",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.28121,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "14",
-      "ID": "COMM.DEFRA_0013",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Medium car (Petrol)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.28121"
-    },
-    "unitConversion": {
-      "id": "13",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.28121",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.43175,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "15",
-      "ID": "COMM.DEFRA_0014",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Large car (Petrol)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.43175"
-    },
-    "unitConversion": {
-      "id": "14",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.43175",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.26187,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "16",
-      "ID": "COMM.DEFRA_0015",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Petrol)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.26187"
-    },
-    "unitConversion": {
-      "id": "15",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.26187",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.23078,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "17",
-      "ID": "COMM.DEFRA_0016",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Small car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.23078"
-    },
-    "unitConversion": {
-      "id": "16",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.23078",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.27639,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "18",
-      "ID": "COMM.DEFRA_0017",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Medium car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.27639"
-    },
-    "unitConversion": {
-      "id": "17",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.27639",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.33808,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "19",
-      "ID": "COMM.DEFRA_0018",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Large car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.33808"
-    },
-    "unitConversion": {
-      "id": "18",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.33808",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.27849,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "20",
-      "ID": "COMM.DEFRA_0019",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Diesel)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.27849"
-    },
-    "unitConversion": {
-      "id": "19",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.27849",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.20639,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "21",
-      "ID": "COMM.DEFRA_0020",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Hybrid)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.20639"
-    },
-    "unitConversion": {
-      "id": "20",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.20639",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.16834,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "22",
-      "ID": "COMM.DEFRA_0021",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Plug-in Hybrid Electric Vehicle)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.16834"
-    },
-    "unitConversion": {
-      "id": "21",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.16834",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.06512,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "23",
-      "ID": "COMM.DEFRA_0022",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Battery Electric Vehicle)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.06512"
-    },
-    "unitConversion": {
-      "id": "22",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.06512",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.26915,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "24",
-      "ID": "COMM.DEFRA_0023",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Average car (Unknown)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.26915"
-    },
-    "unitConversion": {
-      "id": "23",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.26915",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.03546,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/National rail",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "25",
-      "ID": "COMM.DEFRA_0024",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "National rail",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.03546"
-    },
-    "unitConversion": {
-      "id": "24",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.03546",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.00446,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/International rail",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "26",
-      "ID": "COMM.DEFRA_0025",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "International rail",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.00446"
-    },
-    "unitConversion": {
-      "id": "25",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.00446",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.0286,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/Light rail and tram",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "27",
-      "ID": "COMM.DEFRA_0026",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Light rail and tram",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.0286"
-    },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.0286",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.0278,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- land/Rail/London Underground",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "28",
-      "ID": "COMM.DEFRA_0027",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "London Underground",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.0278"
-    },
-    "unitConversion": {
-      "id": "27",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.0278",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.12576,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Economy class/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "29",
-      "ID": "COMM.DEFRA_0028",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Short-haul, to/from UK - Economy class (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.12576"
-    },
-    "unitConversion": {
-      "id": "28",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.12576",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.18863,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Business class/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "30",
-      "ID": "COMM.DEFRA_0029",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Short-haul, to/from UK - Business class (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.18863"
-    },
-    "unitConversion": {
-      "id": "29",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.18863",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.12786,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Average passenger/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "31",
-      "ID": "COMM.DEFRA_0030",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Short-haul, to/from UK - Average passenger (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.12786"
-    },
-    "unitConversion": {
-      "id": "30",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.12786",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.11704,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Economy class/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "32",
-      "ID": "COMM.DEFRA_0031",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Long-haul, to/from UK - Economy class (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.11704"
-    },
-    "unitConversion": {
-      "id": "31",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.11704",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.18726,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Premium economy class/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "33",
-      "ID": "COMM.DEFRA_0032",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Long-haul, to/from UK - Premium economy class (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.18726"
-    },
-    "unitConversion": {
-      "id": "32",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.18726",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.3394,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Business class/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "34",
-      "ID": "COMM.DEFRA_0033",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Long-haul, to/from UK - Business class (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.3394"
-    },
-    "unitConversion": {
-      "id": "33",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.3394",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.46814,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/First class/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "35",
-      "ID": "COMM.DEFRA_0034",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Long-haul, to/from UK - First class (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.46814"
-    },
-    "unitConversion": {
-      "id": "34",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.46814",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.15282,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Average passenger/With RF",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "36",
-      "ID": "COMM.DEFRA_0035",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "Long-haul, to/from UK - Average passenger (With RF)",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.15282"
-    },
-    "unitConversion": {
-      "id": "35",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.15282",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 10.4,
-    "indicator": "Employee Commuting/Staff Travel/Hotel stay/UK",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "37",
-      "ID": "COMM.DEFRA_0036",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "UK",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "10.4"
-    },
-    "unitConversion": {
-      "id": "36",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "10.4",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 10.4,
-    "indicator": "Employee Commuting/Staff Travel/Hotel stay/Self-Catering / Apartment",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "38",
-      "ID": "COMM.DEFRA_0037",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "UK",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "10.4"
-    },
-    "unitConversion": {
-      "id": "37",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "10.4",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 10.4,
-    "indicator": "Employee Commuting/Staff Travel/Hotel stay/Hostel / Budget",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "39",
-      "ID": "COMM.DEFRA_0038",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": "UK",
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "10.4"
-    },
-    "unitConversion": {
-      "id": "38",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "10.4",
-    "originalUom": "km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
-    },
-    "factor": 0.37728,
-    "indicator": "Employee Commuting/Staff Travel/Accommodation/Onsite Camping",
-    "uom": "km",
-    "originalSourceData": {
-      "_sheet": "DEFRA_2025_commuting",
-      "_row": "40",
-      "ID": "COMM.DEFRA_0039",
-      "Scope": "Scope 3",
-      "Level 1": "Employee Commuting",
-      "Level 2": "Business travel - land",
-      "Level 3": "Cars (by size)",
-      "Level 4": null,
-      "UOM": "km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.37728"
-    },
-    "unitConversion": {
-      "id": "39",
-      "sourceUnit": "km",
-      "targetUnit": "km",
-      "factor": 1
-    },
-    "originalFactor": "0.37728",
-    "originalUom": "km"
-  }
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.14308,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Petrol",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5145",
+            "ID": "25_301_3046_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Small car",
+            "Level 4": "Petrol",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.14308"
+        },
+        "unitConversion": {
+            "id": "1",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.14308",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.17474,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5209",
+            "ID": "25_301_3054_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Medium car",
+            "Level 4": "Petrol",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.17474"
+        },
+        "unitConversion": {
+            "id": "2",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.17474",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.26828,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5273",
+            "ID": "25_301_3062_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Large car",
+            "Level 4": "Petrol",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.26828"
+        },
+        "unitConversion": {
+            "id": "3",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.26828",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.16272,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5337",
+            "ID": "25_301_3070_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Petrol",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.16272"
+        },
+        "unitConversion": {
+            "id": "4",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.16272",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.1434,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5141",
+            "ID": "25_301_3045_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Small car",
+            "Level 4": "Diesel",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.1434"
+        },
+        "unitConversion": {
+            "id": "5",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.1434",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.17174,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5205",
+            "ID": "25_301_3053_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Medium car",
+            "Level 4": "Diesel",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.17174"
+        },
+        "unitConversion": {
+            "id": "6",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.17174",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.21007,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5269",
+            "ID": "25_301_3061_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Large car",
+            "Level 4": "Diesel",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.21007"
+        },
+        "unitConversion": {
+            "id": "7",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.21007",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.17304,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5333",
+            "ID": "25_301_3069_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Diesel",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.17304"
+        },
+        "unitConversion": {
+            "id": "8",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.17304",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.12825,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5341",
+            "ID": "25_301_3071_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Hybrid",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.12825"
+        },
+        "unitConversion": {
+            "id": "9",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.12825",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.10461,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5357",
+            "ID": "25_301_3075_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Plug-in Hybrid Electric Vehicle",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.10461"
+        },
+        "unitConversion": {
+            "id": "10",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.10461",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.04047,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5361",
+            "ID": "25_301_3076_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Battery Electric Vehicle",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.04047"
+        },
+        "unitConversion": {
+            "id": "11",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.04047",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.16725,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown",
+        "uom": "km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5353",
+            "ID": "25_301_3074_4_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Unknown",
+            "UOM": "km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.16725"
+        },
+        "unitConversion": {
+            "id": "12",
+            "sourceUnit": "km",
+            "targetUnit": "km",
+            "factor": 1
+        },
+        "originalFactor": "0.16725",
+        "originalUom": "km"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.23027,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Petrol",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5177",
+            "ID": "25_301_3046_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Small car",
+            "Level 4": "Petrol",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.23027"
+        },
+        "unitConversion": {
+            "id": "13",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.23027",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.28121,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5241",
+            "ID": "25_301_3054_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Medium car",
+            "Level 4": "Petrol",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.28121"
+        },
+        "unitConversion": {
+            "id": "14",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.28121",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.43175,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5305",
+            "ID": "25_301_3062_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Large car",
+            "Level 4": "Petrol",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.43175"
+        },
+        "unitConversion": {
+            "id": "15",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.43175",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.26187,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5369",
+            "ID": "25_301_3070_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Petrol",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.26187"
+        },
+        "unitConversion": {
+            "id": "16",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.26187",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.23078,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5173",
+            "ID": "25_301_3045_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Small car",
+            "Level 4": "Diesel",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.23078"
+        },
+        "unitConversion": {
+            "id": "17",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.23078",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.27639,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5237",
+            "ID": "25_301_3053_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Medium car",
+            "Level 4": "Diesel",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.27639"
+        },
+        "unitConversion": {
+            "id": "18",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.27639",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.33808,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5301",
+            "ID": "25_301_3061_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Large car",
+            "Level 4": "Diesel",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.33808"
+        },
+        "unitConversion": {
+            "id": "19",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.33808",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.27849,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5365",
+            "ID": "25_301_3069_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Diesel",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.27849"
+        },
+        "unitConversion": {
+            "id": "20",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.27849",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.20639,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5373",
+            "ID": "25_301_3071_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Hybrid",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.20639"
+        },
+        "unitConversion": {
+            "id": "21",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.20639",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.16834,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5389",
+            "ID": "25_301_3075_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Plug-in Hybrid Electric Vehicle",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.16834"
+        },
+        "unitConversion": {
+            "id": "22",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.16834",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.06512,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5393",
+            "ID": "25_301_3076_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Battery Electric Vehicle",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.06512"
+        },
+        "unitConversion": {
+            "id": "23",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.06512",
+        "originalUom": "miles"
+    },
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.26915,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown",
+        "uom": "miles",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "5385",
+            "ID": "25_301_3074_9_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- land",
+            "Level 2": "Cars (by size)",
+            "Level 3": "Average car",
+            "Level 4": "Unknown",
+            "UOM": "miles",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.26915"
+        },
+        "unitConversion": {
+            "id": "24",
+            "sourceUnit": "miles",
+            "targetUnit": "miles",
+            "factor": 1
+        },
+        "originalFactor": "0.26915",
+        "originalUom": "miles"
+    }
 ]
