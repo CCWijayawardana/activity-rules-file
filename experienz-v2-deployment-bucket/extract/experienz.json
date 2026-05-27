@@ -128,7 +128,7 @@
       "activity": "'Employee Commuting - Vehicle'",
       "type": "{'Petrol (Small)':'Small car - Petrol','Petrol (Medium)':'Medium car - Petrol','Petrol (Large)':'Large car - Petrol','Petrol (Average)':'Average car - Petrol','Diesel (Small)':'Small car - Diesel','Diesel (Medium)':'Medium car - Diesel','Diesel (Large)':'Large car - Diesel','Diesel (Average)':'Average car - Diesel','Hybrid (Average)':'Average car - Hybrid','Plug-in Hybrid Electric':'Average car - Plug-in Hybrid Electric Vehicle','Battery Electric':'Average car - Battery Electric Vehicle','Average (Unknown Fuel)':'Average car - Unknown','National rail':'National rail','International Rail (Eurostar)':'International Rail (Eurostar)','Light Rail / Tram':'Light Rail / Tram','London Underground':'London Underground'}[type] ?? type",
       "amount": "(working_days - overnight_stays) * commute_distance",
-      "unit": "{'kms':'km','miles':'miles','passenger.kms':'passenger.kms'}[unit] ?? unit",
+      "unit": "{'kms':'km','miles':'miles','passenger.kms':'passenger.km'}[unit] ?? unit",
       "system": "({region: \"experienz-logistics\"})"
     }
   }
