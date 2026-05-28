@@ -128,8 +128,23 @@
       "activity": "'Employee Commuting - Vehicle'",
       "type": "{'Petrol (Small)':'Small car - Petrol','Petrol (Medium)':'Medium car - Petrol','Petrol (Large)':'Large car - Petrol','Petrol (Average)':'Average car - Petrol','Diesel (Small)':'Small car - Diesel','Diesel (Medium)':'Medium car - Diesel','Diesel (Large)':'Large car - Diesel','Diesel (Average)':'Average car - Diesel','Hybrid (Average)':'Average car - Hybrid','Plug-in Hybrid Electric':'Average car - Plug-in Hybrid Electric Vehicle','Battery Electric':'Average car - Battery Electric Vehicle','Average (Unknown Fuel)':'Average car - Unknown','National rail':'National rail','International Rail (Eurostar)':'International Rail (Eurostar)','Light Rail / Tram':'Light Rail / Tram','London Underground':'London Underground'}[type] ?? type",
       "amount": "(working_days - overnight_stays) * commute_distance",
-      "unit": "{'kms':'km','miles':'miles','passenger.kms':'passenger.km'}[unit] ?? unit",
+      "unit": "{'kms':'km','miles':'miles','passenger.kms':'passenger-km'}[unit] ?? unit",
       "system": "({region: \"experienz-logistics\"})"
+    }
+  },
+  {
+    "indicators": {
+      "travel_type": "type",
+      "staff_count": "staff_count",
+      "one_way_distance": "amount",
+      "return_trips": "return_trips"
+    },
+    "extract": {
+      "activity": "{'Air Short-haul - Economy':'Short-haul, to/from UK - Economy class (With RF)','Air Short-haul - Business':'Short-haul, to/from UK - Business class (With RF)','Air Short-haul - Average':'Short-haul, to/from UK - Average passenger (With RF)','Air Long-haul - Economy':'Long-haul, to/from UK - Economy class (With RF)','Air Long-haul - Premium Economy':'Long-haul, to/from UK - Premium economy class (With RF)','Air Long-haul - Business':'Long-haul, to/from UK - Business class (With RF)','Air Long-haul - First':'Long-haul, to/from UK - First class (With RF)','Air Long-haul - Average':'Long-haul, to/from UK - Average passenger (With RF)'}[travel_type] ?? 'Long Distance Business Travel'",
+      "type": "travel_type",
+      "amount": "(one_way_distance ?? 0) * (return_trips ?? 1) * 2",
+      "unit": "'passenger-km'",
+      "system": "({region: \"experienz-air-travel\"})"
     }
   }
 ]

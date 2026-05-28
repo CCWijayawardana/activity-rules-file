@@ -1,4 +1,4 @@
-{
+﻿{
     "section1": {
         "index": 0,
         "order": 1,
@@ -168,7 +168,7 @@
                         "value": "No - I will use operational emissions"
                     }
                 },
-                "helpText": "Product-Specific Emission Factor\n\nAn **emission factor** measures the carbon dioxide (CO2) released to create one unit of a product. While standard emission factors use generic industry averages, a **product-specific emission factor** is calculated for that exact item.\n\nThese precise figures are found in verified sustainability documents, such as:\n* **PCF** (Product Carbon Footprint)\n* **EPD** (Environmental Product Declaration) â€“ *Third-party verified*\n\n**In practice:** Instead of using a generic estimate for \"bread,\" a supplier can provide their exact certified calculation (e.g., 1 kg of sourdough = 0.85 kg CO2).",
+                "helpText": "Product-Specific Emission Factor\n\nAn **emission factor** measures the carbon dioxide (CO2) released to create one unit of a product. While standard emission factors use generic industry averages, a **product-specific emission factor** is calculated for that exact item.\n\nThese precise figures are found in verified sustainability documents, such as:\n* **PCF** (Product Carbon Footprint)\n* **EPD** (Environmental Product Declaration) Ã¢â‚¬â€œ *Third-party verified*\n\n**In practice:** Instead of using a generic estimate for \"bread,\" a supplier can provide their exact certified calculation (e.g., 1 kg of sourdough = 0.85 kg CO2).",
                 "required": false,
                 "indicator": "",
                 "xlsxMapping": {
@@ -215,16 +215,16 @@
                 "order": 3,
                 "title": "Which 12 months are you reporting on?",
                 "options": {
-                    "Apr 2025 â€“ Mar 2026": {
+                    "Apr 2025 Ã¢â‚¬â€œ Mar 2026": {
                         "index": 0,
-                        "value": "Apr 2025 â€“ Mar 2026"
+                        "value": "Apr 2025 Ã¢â‚¬â€œ Mar 2026"
                     },
-                    "Apr 2026 â€“ Mar 2027": {
+                    "Apr 2026 Ã¢â‚¬â€œ Mar 2027": {
                         "index": 1,
-                        "value": "Apr 2026 â€“ Mar 2027"
+                        "value": "Apr 2026 Ã¢â‚¬â€œ Mar 2027"
                     }
                 },
-                "helpText": "State the 12-month period containing this event (e.g., Apr 2025 â€“ Mar 2026).\n",
+                "helpText": "State the 12-month period containing this event (e.g., Apr 2025 Ã¢â‚¬â€œ Mar 2026).\n",
                 "required": false,
                 "condition": {
                     "op": "EQ",
@@ -290,7 +290,7 @@
                 "index": 5,
                 "order": 6,
                 "title": "Event Allocation Factor (%)",
-                "helpText": "Auto-calculated from your method. Revenue: A3-04 Ã· A3-03. Direct: copies A3-07. Physical/Other: see A3-06.",
+                "helpText": "Auto-calculated from your method. Revenue: A3-04 ÃƒÂ· A3-03. Direct: copies A3-07. Physical/Other: see A3-06.",
                 "required": false,
                 "condition": {
                     "op": "EQ",
@@ -315,7 +315,7 @@
                 "index": 6,
                 "order": 7,
                 "title": "Physical Allocation / Notes",
-                "helpText": "Required only if A3-01 = Physical or Other. State metric and values, e.g. \"12,000 kg for this event Ã· 480,000 kg company-wide\".",
+                "helpText": "Required only if A3-01 = Physical or Other. State metric and values, e.g. \"12,000 kg for this event ÃƒÂ· 480,000 kg company-wide\".",
                 "required": false,
                 "condition": {
                     "op": "EQ",
@@ -806,7 +806,7 @@
                 "type": "number",
                 "index": 3,
                 "order": 4,
-                "title": "Company-Owned/Leased Vehicles â€” Total Distance",
+                "title": "Company-Owned/Leased Vehicles Ã¢â‚¬â€ Total Distance",
                 "helpText": "Fleet km for financial year, if easier than fuel.",
                 "required": false,
                 "indicator": "",
@@ -933,37 +933,37 @@
                                 "index": 16,
                                 "value": "All Vegetarian Ready Meals"
                             },
-                            "Beef â€“ Unprepared/Unprocessed": {
+                            "Beef Ã¢â‚¬â€œ Unprepared/Unprocessed": {
                                 "index": 0,
-                                "value": "Beef â€“ Unprepared/Unprocessed"
+                                "value": "Beef Ã¢â‚¬â€œ Unprepared/Unprocessed"
                             },
-                            "Fish â€“ Unprepared/Unprocessed": {
+                            "Fish Ã¢â‚¬â€œ Unprepared/Unprocessed": {
                                 "index": 4,
-                                "value": "Fish â€“ Unprepared/Unprocessed"
+                                "value": "Fish Ã¢â‚¬â€œ Unprepared/Unprocessed"
                             },
-                            "Lamb â€“ Unprepared/Unprocessed": {
+                            "Lamb Ã¢â‚¬â€œ Unprepared/Unprocessed": {
                                 "index": 1,
-                                "value": "Lamb â€“ Unprepared/Unprocessed"
+                                "value": "Lamb Ã¢â‚¬â€œ Unprepared/Unprocessed"
                             },
-                            "Pork â€“ Unprepared/Unprocessed": {
+                            "Pork Ã¢â‚¬â€œ Unprepared/Unprocessed": {
                                 "index": 2,
-                                "value": "Pork â€“ Unprepared/Unprocessed"
+                                "value": "Pork Ã¢â‚¬â€œ Unprepared/Unprocessed"
                             },
                             "Sugars/Sugar Substitute Products": {
                                 "index": 15,
                                 "value": "Sugars/Sugar Substitute Products"
                             },
-                            "Fruits â€“ Unprepared/Unprocessed (Fresh)": {
+                            "Fruits Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)": {
                                 "index": 11,
-                                "value": "Fruits â€“ Unprepared/Unprocessed (Fresh)"
+                                "value": "Fruits Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)"
                             },
-                            "Vegetables (Non Leaf) â€“ Unprepared/Unprocessed (Fresh)": {
+                            "Vegetables (Non Leaf) Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)": {
                                 "index": 12,
-                                "value": "Vegetables (Non Leaf) â€“ Unprepared/Unprocessed (Fresh)"
+                                "value": "Vegetables (Non Leaf) Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)"
                             },
-                            "Poultry â€“ Unprepared/Unprocessed (Other Animal Species proxy)": {
+                            "Poultry Ã¢â‚¬â€œ Unprepared/Unprocessed (Other Animal Species proxy)": {
                                 "index": 3,
-                                "value": "Poultry â€“ Unprepared/Unprocessed (Other Animal Species proxy)"
+                                "value": "Poultry Ã¢â‚¬â€œ Unprepared/Unprocessed (Other Animal Species proxy)"
                             }
                         },
                         "required": false,
@@ -1046,7 +1046,7 @@
                     "column9": {
                         "type": "text",
                         "index": 4,
-                        "label": "PCF Value (if available kgCOâ‚‚e/kg)",
+                        "label": "PCF Value (if available kgCOÃ¢â€šâ€še/kg)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -1114,37 +1114,37 @@
                                 "index": 4,
                                 "value": "Cider"
                             },
-                            "Tea â€“ Brewed": {
+                            "Tea Ã¢â‚¬â€œ Brewed": {
                                 "index": 9,
-                                "value": "Tea â€“ Brewed"
+                                "value": "Tea Ã¢â‚¬â€œ Brewed"
                             },
-                            "Wine â€“ Still": {
+                            "Wine Ã¢â‚¬â€œ Still": {
                                 "index": 1,
-                                "value": "Wine â€“ Still"
+                                "value": "Wine Ã¢â‚¬â€œ Still"
                             },
-                            "Water â€“ Bottled": {
+                            "Water Ã¢â‚¬â€œ Bottled": {
                                 "index": 7,
-                                "value": "Water â€“ Bottled"
+                                "value": "Water Ã¢â‚¬â€œ Bottled"
                             },
-                            "Wine â€“ Sparkling": {
+                            "Wine Ã¢â‚¬â€œ Sparkling": {
                                 "index": 2,
-                                "value": "Wine â€“ Sparkling"
+                                "value": "Wine Ã¢â‚¬â€œ Sparkling"
                             },
-                            "Coffee â€“ Ground Beans": {
+                            "Coffee Ã¢â‚¬â€œ Ground Beans": {
                                 "index": 8,
-                                "value": "Coffee â€“ Ground Beans"
+                                "value": "Coffee Ã¢â‚¬â€œ Ground Beans"
                             },
                             "Spirits (Whisky/Rum proxy)": {
                                 "index": 3,
                                 "value": "Spirits (Whisky/Rum proxy)"
                             },
-                            "Drinks Flavoured â€“ Ready to Drink": {
+                            "Drinks Flavoured Ã¢â‚¬â€œ Ready to Drink": {
                                 "index": 5,
-                                "value": "Drinks Flavoured â€“ Ready to Drink"
+                                "value": "Drinks Flavoured Ã¢â‚¬â€œ Ready to Drink"
                             },
-                            "Fruit Juice â€“ Ready to Drink (Perishable)": {
+                            "Fruit Juice Ã¢â‚¬â€œ Ready to Drink (Perishable)": {
                                 "index": 6,
-                                "value": "Fruit Juice â€“ Ready to Drink (Perishable)"
+                                "value": "Fruit Juice Ã¢â‚¬â€œ Ready to Drink (Perishable)"
                             }
                         },
                         "required": false,
@@ -1227,7 +1227,7 @@
                     "column9": {
                         "type": "text",
                         "index": 4,
-                        "label": "PCF Value (if available kgCOâ‚‚e/kg)",
+                        "label": "PCF Value (if available kgCOÃ¢â€šâ€še/kg)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -1626,7 +1626,7 @@
                 "index": 10,
                 "order": 11,
                 "title": "EPD Value (if available)",
-                "helpText": "ACTIVE only if 1b-09 = Yes. In kgCOâ‚‚e/kg",
+                "helpText": "ACTIVE only if 1b-09 = Yes. In kgCOÃ¢â€šâ€še/kg",
                 "required": false,
                 "indicator": "",
                 "validation": [
@@ -1821,7 +1821,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 4,
-                        "label": "Area (if weight unknown mÂ²)",
+                        "label": "Area (if weight unknown mÃ‚Â²)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -1913,7 +1913,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 9,
-                        "label": "EPD Value (if available kgCOâ‚‚e/kg)",
+                        "label": "EPD Value (if available kgCOÃ¢â€šâ€še/kg)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -2110,7 +2110,7 @@
                     "column1": {
                         "type": "dropdown",
                         "index": 0,
-                        "label": "Mode (Road/Air/Sea) â€” see lists below",
+                        "label": "Mode (Road/Air/Sea) Ã¢â‚¬â€ see lists below",
                         "options": {
                             "HGV": {
                                 "index": 8,
@@ -2914,182 +2914,168 @@
             "questionId": "question1777867155679"
         },
         "questions": {
-            "question1777870571860": {
-                "type": "radio",
+            "question1779875464713": {
+                "type": "hTable",
                 "index": 0,
                 "order": 1,
-                "title": "Do any staff travel \u003e50 miles or use air / long-distance rail?",
+                "title": "Long Distance Business Travel Data",
                 "options": {
-                    "No": {
-                        "index": 1,
-                        "value": "No"
-                    },
-                    "Yes": {
+                    "column1": {
+                        "type": "dropdown",
                         "index": 0,
-                        "value": "Yes"
+                        "label": "3B-01 Travel Type",
+                        "options": {
+                            "Air Short-haul - Economy": {
+                                "index": 0,
+                                "value": "Air Short-haul - Economy"
+                            },
+                            "Air Short-haul - Business": {
+                                "index": 1,
+                                "value": "Air Short-haul - Business"
+                            },
+                            "Air Short-haul - Average": {
+                                "index": 2,
+                                "value": "Air Short-haul - Average"
+                            },
+                            "Air Long-haul - Economy": {
+                                "index": 3,
+                                "value": "Air Long-haul - Economy"
+                            },
+                            "Air Long-haul - Premium Economy": {
+                                "index": 4,
+                                "value": "Air Long-haul - Premium Economy"
+                            },
+                            "Air Long-haul - Business": {
+                                "index": 5,
+                                "value": "Air Long-haul - Business"
+                            },
+                            "Air Long-haul - First": {
+                                "index": 6,
+                                "value": "Air Long-haul - First"
+                            },
+                            "Air Long-haul - Average": {
+                                "index": 7,
+                                "value": "Air Long-haul - Average"
+                            },
+                            "Petrol (Small)": {
+                                "index": 8,
+                                "value": "Petrol (Small)"
+                            },
+                            "Petrol (Medium)": {
+                                "index": 9,
+                                "value": "Petrol (Medium)"
+                            },
+                            "Petrol (Large)": {
+                                "index": 10,
+                                "value": "Petrol (Large)"
+                            },
+                            "Petrol (Average)": {
+                                "index": 11,
+                                "value": "Petrol (Average)"
+                            },
+                            "Diesel (Small)": {
+                                "index": 12,
+                                "value": "Diesel (Small)"
+                            },
+                            "Diesel (Medium)": {
+                                "index": 13,
+                                "value": "Diesel (Medium)"
+                            },
+                            "Diesel (Large)": {
+                                "index": 14,
+                                "value": "Diesel (Large)"
+                            },
+                            "Diesel (Average)": {
+                                "index": 15,
+                                "value": "Diesel (Average)"
+                            },
+                            "Hybrid (Average)": {
+                                "index": 16,
+                                "value": "Hybrid (Average)"
+                            },
+                            "Plug-in Hybrid Electric": {
+                                "index": 17,
+                                "value": "Plug-in Hybrid Electric"
+                            },
+                            "Battery Electric": {
+                                "index": 18,
+                                "value": "Battery Electric"
+                            },
+                            "Average (Unknown Fuel)": {
+                                "index": 19,
+                                "value": "Average (Unknown Fuel)"
+                            },
+                            "National rail": {
+                                "index": 20,
+                                "value": "National rail"
+                            },
+                            "International Rail (Eurostar)": {
+                                "index": 21,
+                                "value": "International Rail (Eurostar)"
+                            },
+                            "Light Rail / Tram": {
+                                "index": 22,
+                                "value": "Light Rail / Tram"
+                            },
+                            "London Underground": {
+                                "index": 23,
+                                "value": "London Underground"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "type",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column3": {
+                        "step": 1,
+                        "type": "number",
+                        "index": 1,
+                        "label": "3B-03 Staff (headcount)",
+                        "required": false,
+                        "indicator": "staff_count",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column4": {
+                        "step": 1,
+                        "type": "number",
+                        "index": 2,
+                        "label": "3B-04 One-way Dist (km)",
+                        "required": false,
+                        "indicator": "one_way_distance",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column5": {
+                        "step": 1,
+                        "type": "number",
+                        "index": 3,
+                        "label": "3B-05 Return Trips (no.)",
+                        "required": false,
+                        "indicator": "return_trips",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
                     }
                 },
                 "helpText": "",
-                "required": true,
-                "indicator": "",
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
-            },
-            "question1777870690017": {
-                "type": "dropdown",
-                "index": 1,
-                "order": 2,
-                "title": "Travel Type",
-                "options": {
-                    "Taxi": {
-                        "index": 10,
-                        "value": "Taxi"
-                    },
-                    "Coach": {
-                        "index": 5,
-                        "value": "Coach"
-                    },
-                    "Car â€” Large": {
-                        "index": 8,
-                        "value": "Car â€” Large"
-                    },
-                    "Car â€” Small": {
-                        "index": 6,
-                        "value": "Car â€” Small"
-                    },
-                    "National rail": {
-                        "index": 4,
-                        "value": "National rail"
-                    },
-                    "Car â€” Medium": {
-                        "index": 7,
-                        "value": "Car â€” Medium"
-                    },
-                    "Car â€” Average": {
-                        "index": 9,
-                        "value": "Car â€” Average"
-                    },
-                    "Domestic flight": {
-                        "index": 0,
-                        "value": "Domestic flight"
-                    },
-                    "International flight": {
-                        "index": 3,
-                        "value": "International flight"
-                    },
-                    "Long-haul flight (\u003e3,700km)": {
-                        "index": 2,
-                        "value": "Long-haul flight (\u003e3,700km)"
-                    },
-                    "Short-haul flight (\u003c3,700km)": {
-                        "index": 1,
-                        "value": "Short-haul flight (\u003c3,700km)"
-                    }
-                },
-                "helpText": "DEFRA \u0027Business travel â€” air/land\u0027.",
-                "required": false,
-                "indicator": "",
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
-            },
-            "question1777870750635": {
-                "type": "dropdown",
-                "index": 2,
-                "order": 3,
-                "title": "Flight Class (if air)",
-                "options": {
-                    "N/A": {
-                        "index": 4,
-                        "value": "N/A"
-                    },
-                    "First": {
-                        "index": 3,
-                        "value": "First"
-                    },
-                    "Economy": {
-                        "index": 0,
-                        "value": "Economy"
-                    },
-                    "Business": {
-                        "index": 2,
-                        "value": "Business"
-                    },
-                    "Premium economy": {
-                        "index": 1,
-                        "value": "Premium economy"
-                    }
-                },
-                "helpText": "Affects RF-multiplied EF.",
-                "required": false,
-                "indicator": "",
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
-            },
-            "question1777870767645": {
-                "step": 1,
-                "type": "number",
-                "index": 3,
-                "order": 4,
-                "title": "Number of Staff",
-                "helpText": "Headcount taking this trip.",
-                "required": false,
-                "indicator": "",
-                "validation": [
-                    {
-                        "regex": "",
-                        "errorMessage": ""
-                    }
-                ],
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
-            },
-            "question1777870783827": {
-                "step": 1,
-                "type": "number",
-                "index": 4,
-                "order": 5,
-                "title": "ONE-WAY Distance",
-                "helpText": "Formula doubles. (km)",
-                "required": false,
-                "indicator": "",
-                "validation": [
-                    {
-                        "regex": "",
-                        "errorMessage": ""
-                    }
-                ],
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
-            },
-            "question1777870799387": {
-                "step": 1,
-                "type": "number",
-                "index": 5,
-                "order": 6,
-                "title": "Number of Return Trips",
-                "helpText": "Total round trips.",
-                "required": false,
-                "indicator": "",
-                "validation": [
-                    {
-                        "regex": "",
-                        "errorMessage": ""
-                    }
-                ],
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
+                "required": false
             }
         }
     },
@@ -3248,7 +3234,7 @@
                 "index": 2,
                 "order": 3,
                 "title": "Total Room-Nights",
-                "helpText": "Rooms Ã— nights.\t\t\t\t\t\t\t\t\t",
+                "helpText": "Rooms Ãƒâ€” nights.\t\t\t\t\t\t\t\t\t",
                 "required": false,
                 "condition": {
                     "op": "EQ",
@@ -3348,7 +3334,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 1,
-                        "label": "Volume Supplied (mÂ³)",
+                        "label": "Volume Supplied (mÃ‚Â³)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -3362,7 +3348,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 2,
-                        "label": "Wastewater Generated (mÂ³)",
+                        "label": "Wastewater Generated (mÃ‚Â³)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -4004,9 +3990,9 @@
                         "index": 1,
                         "value": "Self-supplied (you brought your own fuel / generator / equipment)"
                     },
-                    "Silverstone-provided (already in Silverstoneâ€™s Scope 1/2 - do not double-count)": {
+                    "Silverstone-provided (already in SilverstoneÃ¢â‚¬â„¢s Scope 1/2 - do not double-count)": {
                         "index": 0,
-                        "value": "Silverstone-provided (already in Silverstoneâ€™s Scope 1/2 - do not double-count)"
+                        "value": "Silverstone-provided (already in SilverstoneÃ¢â‚¬â„¢s Scope 1/2 - do not double-count)"
                     }
                 },
                 "helpText": "",
@@ -4270,7 +4256,7 @@
     "section19": {
         "index": 9,
         "order": 10,
-        "title": "Daily Staff Commuting — Aggregated totals",
+        "title": "Daily Staff Commuting â€” Aggregated totals",
         "guidance": "",
         "helpText": "",
         "condition": {
@@ -4284,7 +4270,7 @@
                 "type": "hTable",
                 "index": 0,
                 "order": 1,
-                "title": "Daily Staff Commuting — Aggregated totals",
+                "title": "Daily Staff Commuting â€” Aggregated totals",
                 "options": {
                     "column1": {
                         "step": 1,
@@ -4797,7 +4783,7 @@
     "section20": {
         "index": 10,
         "order": 11,
-        "title": "Daily Staff Commuting â€” Per-employee data",
+        "title": "Daily Staff Commuting — Per-employee data",
         "guidance": "",
         "helpText": "",
         "condition": {
