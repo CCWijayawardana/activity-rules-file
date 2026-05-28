@@ -10789,26 +10789,74 @@
         {
             "id": "EC025",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='National rail'&&unit=='passenger.km'",
-            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/National rail',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='National rail'&&unit=='passenger-km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/National rail',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
         },
         {
             "id": "EC026",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='International Rail (Eurostar)'&&unit=='passenger.km'",
-            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/International rail',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='International Rail (Eurostar)'&&unit=='passenger-km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/International rail',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
         },
         {
             "id": "EC027",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Light Rail / Tram'&&unit=='passenger.km'",
-            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/Light rail and tram',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Light Rail / Tram'&&unit=='passenger-km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/Light rail and tram',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
         },
         {
             "id": "EC028",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='London Underground'&&unit=='passenger.km'",
-            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/London Underground',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='London Underground'&&unit=='passenger-km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/London Underground',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
+        },
+        {
+            "id": "EC029",
+            "realm": "experienz",
+            "query": "activity=='Short-haul, to/from UK - Economy class (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Economy class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC030",
+            "realm": "experienz",
+            "query": "activity=='Short-haul, to/from UK - Business class (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Business class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC031",
+            "realm": "experienz",
+            "query": "activity=='Short-haul, to/from UK - Average passenger (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Average passenger',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC032",
+            "realm": "experienz",
+            "query": "activity=='Long-haul, to/from UK - Economy class (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Economy class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC033",
+            "realm": "experienz",
+            "query": "activity=='Long-haul, to/from UK - Premium economy class (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Premium economy class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC034",
+            "realm": "experienz",
+            "query": "activity=='Long-haul, to/from UK - Business class (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Business class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC035",
+            "realm": "experienz",
+            "query": "activity=='Long-haul, to/from UK - First class (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/First class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC036",
+            "realm": "experienz",
+            "query": "activity=='Long-haul, to/from UK - Average passenger (With RF)'&&unit=='passenger-kms'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Average passenger',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         }
     ],
     "emissionFactorResolve": [
