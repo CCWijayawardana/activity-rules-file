@@ -10645,146 +10645,170 @@
         {
             "id": "EC001",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Small)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Small car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC002",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Medium)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Medium car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC003",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Large)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Large car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC004",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Average)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC005",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Small)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Small car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC006",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Medium)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Medium car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC007",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Large)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Large car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC008",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Average)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC009",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Hybrid (Average)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Hybrid'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC010",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Plug-in Hybrid Electric'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Plug-in Hybrid Electric Vehicle'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC011",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Battery Electric'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Battery Electric Vehicle'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC012",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average (Unknown Fuel)'&&unit=='km'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Unknown'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC013",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Small)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Small car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC014",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Medium)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Medium car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC015",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Large)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Large car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC016",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Petrol (Average)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC017",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Small)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Small car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC018",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Medium)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Medium car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC019",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Large)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Large car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC020",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Diesel (Average)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC021",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Hybrid (Average)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Hybrid'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC022",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Plug-in Hybrid Electric'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Plug-in Hybrid Electric Vehicle'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC023",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Battery Electric'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Battery Electric Vehicle'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC024",
             "realm": "experienz",
-            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average (Unknown Fuel)'&&unit=='miles'",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Average car - Unknown Fuel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown',scope:3,category:'Business travel - land',uom:'miles'}]"
+        },
+        {
+            "id": "EC025",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='National rail'&&unit=='passenger.km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/National rail',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC026",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='International Rail (Eurostar)'&&unit=='passenger.km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/International rail',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC027",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='Light Rail / Tram'&&unit=='passenger.km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/Light rail and tram',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EC028",
+            "realm": "experienz",
+            "query": "activity=='Employee Commuting - Vehicle'&&type=='London Underground'&&unit=='passenger.km'",
+            "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/London Underground',scope:3,category:'Business travel - land',uom:'passenger.km'}]"
         }
     ],
     "emissionFactorResolve": [
