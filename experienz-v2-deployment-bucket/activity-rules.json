@@ -10857,6 +10857,24 @@
             "realm": "experienz",
             "query": "activity=='Long-Distance Business Travel'&&type=='Long-haul, to/from UK - Average passenger (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Average passenger',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
+        },
+        {
+            "id": "EA001",
+            "realm": "experienz",
+            "query": "activity=='Employee Accommodation'&&type=='Hotel - UK'&&unit=='room-night'",
+            "function": "return [{source:'defra-2025',indicator:'Staff Travel/Hotel stay/UK/Hotel - UK',scope:3,category:'Hotel stay',uom:'room-night'}]"
+        },
+        {
+            "id": "EA002",
+            "realm": "experienz",
+            "query": "activity=='Employee Accommodation'&&type=='Self-Catering / Apartment'&&unit=='room-night'",
+            "function": "return [{source:'defra-2025',indicator:'Staff Travel/Hotel stay/UK/Self-Catering / Apartment',scope:3,category:'Hotel stay',uom:'room-night'}]"
+        },
+        {
+            "id": "EA003",
+            "realm": "experienz",
+            "query": "activity=='Employee Accommodation'&&type=='Hostel / Budget'&&unit=='room-night'",
+            "function": "return [{source:'defra-2025',indicator:'Staff Travel/Hotel stay/UK/Hostel / Budget',scope:3,category:'Hotel stay',uom:'room-night'}]"
         }
     ],
     "emissionFactorResolve": [

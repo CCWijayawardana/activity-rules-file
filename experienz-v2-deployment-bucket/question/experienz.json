@@ -3031,7 +3031,7 @@
                             }
                         ]
                     },
-                    "column3": {
+                    "column2": {
                         "step": 1,
                         "type": "number",
                         "index": 1,
@@ -3045,10 +3045,34 @@
                             }
                         ]
                     },
+                    "column3": {
+                        "step": 1,
+                        "type": "dropdown",
+                        "index": 2,
+                        "label": "Unit",
+                        "options": {
+                            "kms": {
+                                "index": 0,
+                                "value": "kms"
+                            },
+                            "passenger.kms": {
+                                "index": 1,
+                                "value": "passenger.kms"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "unit",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
                     "column4": {
                         "step": 1,
                         "type": "number",
-                        "index": 2,
+                        "index": 3,
                         "label": "3B-04 One-way Dist (km)",
                         "required": false,
                         "indicator": "one_way_distance",
@@ -3062,7 +3086,7 @@
                     "column5": {
                         "step": 1,
                         "type": "number",
-                        "index": 3,
+                        "index": 4,
                         "label": "3B-05 Return Trips (no.)",
                         "required": false,
                         "indicator": "return_trips",
@@ -3082,7 +3106,7 @@
     "section13": {
         "index": 12,
         "order": 13,
-        "title": "Staff Accommodation \u0026 Overnight Stays",
+        "title": "Staff Accommodation & Overnight Stays",
         "guidance": "",
         "helpText": "",
         "condition": {
@@ -3115,170 +3139,89 @@
                     "sheetName": ""
                 }
             },
-            "question1777871426374": {
-                "type": "dropdown",
+            "question1779962795907": {
+                "type": "hTable",
                 "index": 1,
                 "order": 2,
-                "title": "Country",
+                "title": "Staff Accomodation",
                 "options": {
-                    "UK": {
+                    "column1": {
+                        "type": "dropdown",
                         "index": 0,
-                        "value": "UK"
+                        "label": "Country",
+                        "options": {
+                            "UK": {
+                                "index": 0,
+                                "value": "UK"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
                     },
-                    "UAE": {
-                        "index": 20,
-                        "value": "UAE"
-                    },
-                    "USA": {
-                        "index": 21,
-                        "value": "USA"
-                    },
-                    "China": {
-                        "index": 8,
-                        "value": "China"
-                    },
-                    "India": {
-                        "index": 11,
-                        "value": "India"
-                    },
-                    "Italy": {
-                        "index": 13,
-                        "value": "Italy"
-                    },
-                    "Japan": {
-                        "index": 14,
-                        "value": "Japan"
-                    },
-                    "Other": {
-                        "index": 22,
-                        "value": "Other"
-                    },
-                    "Spain": {
-                        "index": 18,
-                        "value": "Spain"
-                    },
-                    "Brazil": {
-                        "index": 6,
-                        "value": "Brazil"
-                    },
-                    "Canada": {
-                        "index": 7,
-                        "value": "Canada"
-                    },
-                    "France": {
-                        "index": 9,
-                        "value": "France"
-                    },
-                    "Austria": {
-                        "index": 4,
-                        "value": "Austria"
-                    },
-                    "Belgium": {
-                        "index": 5,
-                        "value": "Belgium"
-                    },
-                    "Germany": {
-                        "index": 10,
-                        "value": "Germany"
-                    },
-                    "Ireland": {
-                        "index": 12,
-                        "value": "Ireland"
-                    },
-                    "Portugal": {
-                        "index": 16,
-                        "value": "Portugal"
-                    },
-                    "Argentina": {
-                        "index": 2,
-                        "value": "Argentina"
-                    },
-                    "Australia": {
-                        "index": 3,
-                        "value": "Australia"
-                    },
-                    "Netherlands": {
-                        "index": 15,
-                        "value": "Netherlands"
-                    },
-                    "Switzerland": {
-                        "index": 19,
-                        "value": "Switzerland"
-                    },
-                    "UK (London)": {
+                    "column2": {
+                        "type": "dropdown",
                         "index": 1,
-                        "value": "UK (London)"
+                        "label": "Accommodation Types",
+                        "options": {
+                            "Hotel - UK": {
+                                "index": 0,
+                                "value": "Hotel - UK"
+                            },
+                            "Hostel / Budget": {
+                                "index": 2,
+                                "value": "Hostel / Budget"
+                            },
+                            "Self-Catering / Apartment": {
+                                "index": 1,
+                                "value": "Self-Catering / Apartment"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "type",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
                     },
-                    "South Africa": {
-                        "index": 17,
-                        "value": "South Africa"
+                    "column3": {
+                        "step": 1,
+                        "type": "number",
+                        "index": 2,
+                        "label": "Total Room-Nights",
+                        "required": false,
+                        "indicator": "room-nights",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column4": {
+                        "step": 1,
+                        "type": "number",
+                        "index": 3,
+                        "label": "Number of Staff Staying (headcount)",
+                        "required": false,
+                        "indicator": "staff-headcount",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
                     }
                 },
                 "helpText": "",
-                "required": false,
-                "condition": {
-                    "op": "EQ",
-                    "value": "Yes",
-                    "sectionId": "section13",
-                    "questionId": "question1777871256364"
-                },
-                "indicator": "",
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
-            },
-            "question1777876191351": {
-                "step": 1,
-                "type": "number",
-                "index": 2,
-                "order": 3,
-                "title": "Total Room-Nights",
-                "helpText": "Rooms Ãƒâ€” nights.\t\t\t\t\t\t\t\t\t",
-                "required": false,
-                "condition": {
-                    "op": "EQ",
-                    "value": "Yes",
-                    "sectionId": "section13",
-                    "questionId": "question1777871256364"
-                },
-                "indicator": "",
-                "validation": [
-                    {
-                        "regex": "",
-                        "errorMessage": ""
-                    }
-                ],
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
-            },
-            "question1777876204859": {
-                "step": 1,
-                "type": "number",
-                "index": 3,
-                "order": 4,
-                "title": "Number of Staff Staying (headcount)",
-                "helpText": "For audit cross-check.\t",
-                "required": false,
-                "condition": {
-                    "op": "EQ",
-                    "value": "Yes",
-                    "sectionId": "section13",
-                    "questionId": "question1777871256364"
-                },
-                "indicator": "",
-                "validation": [
-                    {
-                        "regex": "",
-                        "errorMessage": ""
-                    }
-                ],
-                "xlsxMapping": {
-                    "cellRef": "",
-                    "sheetName": ""
-                }
+                "required": false
             }
         }
     },
