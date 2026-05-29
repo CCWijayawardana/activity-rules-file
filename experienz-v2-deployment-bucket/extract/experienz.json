@@ -140,9 +140,9 @@
       "return_trips": "return_trips"
     },
     "extract": {
-      "activity": "{'Air Short-haul - Economy':'Short-haul, to/from UK - Economy class (With RF)','Air Short-haul - Business':'Short-haul, to/from UK - Business class (With RF)','Air Short-haul - Average':'Short-haul, to/from UK - Average passenger (With RF)','Air Long-haul - Economy':'Long-haul, to/from UK - Economy class (With RF)','Air Long-haul - Premium Economy':'Long-haul, to/from UK - Premium economy class (With RF)','Air Long-haul - Business':'Long-haul, to/from UK - Business class (With RF)','Air Long-haul - First':'Long-haul, to/from UK - First class (With RF)','Air Long-haul - Average':'Long-haul, to/from UK - Average passenger (With RF)'}[travel_type] ?? 'Long Distance Business Travel'",
-      "type": "travel_type",
-      "amount": "(one_way_distance ?? 0) * (return_trips ?? 1) * 2",
+      "activity": "'Long-Distance Business Travel'",
+      "type": "{'Air Short-haul - Economy':'Short-haul, to/from UK - Economy class (With RF)','Air Short-haul - Business':'Short-haul, to/from UK - Business class (With RF)','Air Short-haul - Average':'Short-haul, to/from UK - Average passenger (With RF)','Air Long-haul - Economy':'Long-haul, to/from UK - Economy class (With RF)','Air Long-haul - Premium Economy':'Long-haul, to/from UK - Premium economy class (With RF)','Air Long-haul - Business':'Long-haul, to/from UK - Business class (With RF)','Air Long-haul - First':'Long-haul, to/from UK - First class (With RF)','Air Long-haul - Average':'Long-haul, to/from UK - Average passenger (With RF)'}[type] ?? type",
+      "amount": "(staff_count ?? 1) * (amount ?? 0) * (return_trips ?? 1) * 2",
       "unit": "'passenger-km'",
       "system": "({region: \"experienz-air-travel\"})"
     }
