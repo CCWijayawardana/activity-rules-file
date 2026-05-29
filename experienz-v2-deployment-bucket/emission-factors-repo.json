@@ -285954,5 +285954,99 @@
     },
     "originalFactor": "0.15282",
     "originalUom": "passenger.km"
+  },
+  
+  {
+    "createdAt": 1779790239862,
+    "source": {
+      "internal": "defra-2025",
+      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    },
+    "factor": 10.4,
+    "indicator": "Staff Travel/Hotel stay/UK/Hotel - UK",
+    "uom": "room-nightroom-night",
+    "originalSourceData": {
+      "_sheet": "Factors by Category",
+      "_row": "7395",
+      "ID": "29_600_4000_13_1",
+      "Scope": "Scope 3",
+      "Level 1": "Hotel stay",
+      "Level 2": "Hotel stay",
+      "Level 3": "UK",
+      "Level 4": "Hotel - UK",
+      "UOM": "room.night",
+      "GHG/Unit": "kg CO2e",
+      "GHG Conversion Factor 2025": "10.4"
+    },
+    "unitConversion": {
+      "id": "27",
+      "sourceUnit": "room.night",
+      "targetUnit": "room.night",
+      "factor": 1
+    },
+    "originalFactor": "10.4",
+    "originalUom": "room.night"
+  },
+  {
+    "createdAt": 1779790239862,
+    "source": {
+      "internal": "defra-2025",
+      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    },
+    "factor": 10.4,
+    "indicator": "Staff Travel/Hotel stay/UK/Self-Catering / Apartment",
+    "uom": "room-night",
+    "originalSourceData": {
+      "_sheet": "Factors by Category",
+      "_row": "7395",
+      "ID": "DEFRA-HOTEL-UK-PROXY-SELFCATERING",
+      "Scope": "Scope 3",
+      "Level 1": "Hotel stay",
+      "Level 2": "Hotel stay",
+      "Level 3": "UK",
+      "Level 4": "Self-Catering / Apartment",
+      "UOM": "room.night",
+      "GHG/Unit": "kg CO2e",
+      "GHG Conversion Factor 2025": "10.4"
+    },
+    "unitConversion": {
+      "id": "27",
+      "sourceUnit": "room.night",
+      "targetUnit": "room.night",
+      "factor": 1
+    },
+    "originalFactor": "10.4",
+    "originalUom": "room.night"
+  },
+  {
+    "createdAt": 1779790239862,
+    "source": {
+      "internal": "defra-2025",
+      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    },
+    "factor": 10.4,
+    "indicator": "Staff Travel/Hotel stay/UK/Hostel / Budget",
+    "uom": "room-night",
+    "originalSourceData": {
+      "_sheet": "Factors by Category",
+      "_row": "7395",
+      "ID": "DEFRA-HOTEL-UK-PROXY-HOSTEL",
+      "Scope": "Scope 3",
+      "Level 1": "Hotel stay",
+      "Level 2": "Hotel stay",
+      "Level 3": "UK",
+      "Level 4": "Hostel / Budget",
+      "UOM": "room.night",
+      "GHG/Unit": "kg CO2e",
+      "GHG Conversion Factor 2025": "10.4"
+    },
+    "unitConversion": {
+      "id": "27",
+      "sourceUnit": "room.night",
+      "targetUnit": "room.night",
+      "factor": 1
+    },
+    "originalFactor": "10.4",
+    "originalUom": "room.night"
   }
 ]
