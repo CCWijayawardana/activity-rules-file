@@ -1,4 +1,4 @@
-﻿{
+{
     "section1": {
         "index": 0,
         "order": 1,
@@ -3023,7 +3023,7 @@
                             }
                         },
                         "required": false,
-                        "indicator": "type",
+                        "indicator": "travel_type",
                         "validation": [
                             {
                                 "regex": "",
