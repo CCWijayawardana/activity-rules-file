@@ -10889,7 +10889,7 @@
         {
             "id": "0_1",
             "realm": "",
-            "query": "steps.emissionFactorResolve?.flatMap(efr=>efr.data?.flatMap(efrData=>efrData.uom)).filter(Boolean).includes(unit) && !steps.emissionFactorResolve?.some(efr=>efr.data?.length===2)",
+            "query": "steps.emissionFactorResolve?.flatMap(efr=>efr.data?.flatMap(efrData=>efrData.uom)).filter(Boolean).includes(unit)",
             "function": "stepData=[];activity.steps.emissionFactorResolve.forEach((efr,efrIdx)=>{efr.data.forEach((efrData,efrDataIdx)=>{stepData.push({efrIdx,efrDataIdx,gtrIdx:efrData.gtrIdx,gtrDataIdx:efrData.gtrDataIdx,ghgEmission:activity.amount*efrData.factor})})});return stepData"
         },
         {
