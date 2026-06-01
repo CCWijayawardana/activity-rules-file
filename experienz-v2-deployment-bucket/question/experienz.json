@@ -12,57 +12,57 @@
                 "order": 1,
                 "title": "Primary Category Selection",
                 "options": {
-                    "Accommodation \u0026 Hotel Partners (hotels, B\u0026Bs, glamping, camping)": {
+                    "Accommodation & Hotel Partners (hotels, B&Bs, glamping, camping)": {
                         "index": 12,
-                        "value": "Accommodation \u0026 Hotel Partners (hotels, B\u0026Bs, glamping, camping)"
+                        "value": "Accommodation & Hotel Partners (hotels, B&Bs, glamping, camping)"
                     },
-                    "Professional \u0026 Consultancy Services (legal, marketing, consulting)": {
+                    "Professional & Consultancy Services (legal, marketing, consulting)": {
                         "index": 10,
-                        "value": "Professional \u0026 Consultancy Services (legal, marketing, consulting)"
+                        "value": "Professional & Consultancy Services (legal, marketing, consulting)"
                     },
-                    "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)": {
+                    "Food & Beverage Services (catering, concessions, cold chain, beverages)": {
                         "index": 0,
-                        "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)"
+                        "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)"
                     },
-                    "Staffing, Workforce \u0026 Security (temporary staffing, stewards, security)": {
+                    "Staffing, Workforce & Security (temporary staffing, stewards, security)": {
                         "index": 6,
-                        "value": "Staffing, Workforce \u0026 Security (temporary staffing, stewards, security)"
+                        "value": "Staffing, Workforce & Security (temporary staffing, stewards, security)"
                     },
-                    "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)": {
+                    "Audience & Mobility Services (traffic management, park & ride, shuttles)": {
                         "index": 8,
-                        "value": "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)"
+                        "value": "Audience & Mobility Services (traffic management, park & ride, shuttles)"
                     },
-                    "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)": {
+                    "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)": {
                         "index": 11,
-                        "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)"
+                        "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)"
                     },
-                    "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)": {
+                    "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)": {
                         "index": 9,
-                        "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)"
+                        "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)"
                     },
-                    "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)": {
+                    "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)": {
                         "index": 7,
-                        "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)"
+                        "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)"
                     },
-                    "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)": {
+                    "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)": {
                         "index": 4,
-                        "value": "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)"
+                        "value": "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)"
                     },
-                    "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)": {
+                    "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)": {
                         "index": 3,
-                        "value": "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)"
+                        "value": "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)"
                     },
-                    "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)": {
+                    "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)": {
                         "index": 5,
-                        "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)"
+                        "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)"
                     },
-                    "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)": {
+                    "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)": {
                         "index": 2,
-                        "value": "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)"
+                        "value": "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)"
                     },
-                    "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)": {
+                    "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)": {
                         "index": 1,
-                        "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)"
+                        "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)"
                     }
                 },
                 "helpText": "### Primary Category Selection\n\nPlease choose the **one option** that best describes what you supply to this event. \n\n* **Multi-service suppliers:** Base your choice on what makes up the largest share of your work by **volume, value, or scope**.\n* **Single-service suppliers:** Simply select the single type of goods or services you provide.",
@@ -79,57 +79,57 @@
                 "order": 2,
                 "title": "Secondary Category Selection",
                 "options": {
-                    "Accommodation \u0026 Hotel Partners (hotels, B\u0026Bs, glamping, camping)": {
+                    "Accommodation & Hotel Partners (hotels, B&Bs, glamping, camping)": {
                         "index": 12,
-                        "value": "Accommodation \u0026 Hotel Partners (hotels, B\u0026Bs, glamping, camping)"
+                        "value": "Accommodation & Hotel Partners (hotels, B&Bs, glamping, camping)"
                     },
-                    "Professional \u0026 Consultancy Services (legal, marketing, consulting)": {
+                    "Professional & Consultancy Services (legal, marketing, consulting)": {
                         "index": 10,
-                        "value": "Professional \u0026 Consultancy Services (legal, marketing, consulting)"
+                        "value": "Professional & Consultancy Services (legal, marketing, consulting)"
                     },
-                    "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)": {
+                    "Food & Beverage Services (catering, concessions, cold chain, beverages)": {
                         "index": 0,
-                        "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)"
+                        "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)"
                     },
-                    "Staffing, Workforce \u0026 Security (temporary staffing, stewards, security)": {
+                    "Staffing, Workforce & Security (temporary staffing, stewards, security)": {
                         "index": 6,
-                        "value": "Staffing, Workforce \u0026 Security (temporary staffing, stewards, security)"
+                        "value": "Staffing, Workforce & Security (temporary staffing, stewards, security)"
                     },
-                    "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)": {
+                    "Audience & Mobility Services (traffic management, park & ride, shuttles)": {
                         "index": 8,
-                        "value": "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)"
+                        "value": "Audience & Mobility Services (traffic management, park & ride, shuttles)"
                     },
-                    "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)": {
+                    "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)": {
                         "index": 11,
-                        "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)"
+                        "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)"
                     },
-                    "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)": {
+                    "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)": {
                         "index": 9,
-                        "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)"
+                        "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)"
                     },
-                    "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)": {
+                    "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)": {
                         "index": 7,
-                        "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)"
+                        "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)"
                     },
-                    "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)": {
+                    "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)": {
                         "index": 4,
-                        "value": "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)"
+                        "value": "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)"
                     },
-                    "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)": {
+                    "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)": {
                         "index": 3,
-                        "value": "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)"
+                        "value": "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)"
                     },
-                    "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)": {
+                    "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)": {
                         "index": 5,
-                        "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)"
+                        "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)"
                     },
-                    "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)": {
+                    "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)": {
                         "index": 2,
-                        "value": "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)"
+                        "value": "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)"
                     },
-                    "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)": {
+                    "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)": {
                         "index": 1,
-                        "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)"
+                        "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)"
                     }
                 },
                 "helpText": "",
@@ -146,7 +146,7 @@
         "index": 1,
         "order": 2,
         "title": "Your share of work for Silverstone",
-        "guidance": "This section helps determine the most appropriate and accurate method for calculating the greenhouse gas emissions associated with your supply to Silverstone.\n\nDepending on your business type and the information you already have available, there are three possible reporting approaches:\n\n- **Product-specific emission factors (PCF/EPD):**  \n  Used when you already know the measured carbon footprint of the specific products supplied to Silverstone.\n\n- **Configured product emission factors:**  \n  Used when you supply physical goods but do not have your own carbon footprint data. In this case, Experienz will apply industry-standard emission factors based on the products and quantities you provide.\n\n- **Operational emissions allocation (Scope 1 \u0026 2):**  \n  Used when your business is primarily service-based, when your activities cannot easily be broken into individual products, or when you already track company-wide operational emissions and prefer to allocate a proportion to Silverstone.\n\nTo ensure emissions are not double-counted, please select only the approach that best represents your supply to this event.\n\nWhere operational allocation is used, the questionnaire will ask for:\n\n- your preferred allocation methodology,\n- the relevant reporting period,\n- and the proportion of your annual operations associated with Silverstone.\n\nPlease ensure that any operational emissions, energy consumption, financial figures, and allocation calculations relate to the same reporting year wherever possible.",
+        "guidance": "This section helps determine the most appropriate and accurate method for calculating the greenhouse gas emissions associated with your supply to Silverstone.\n\nDepending on your business type and the information you already have available, there are three possible reporting approaches:\n\n- **Product-specific emission factors (PCF/EPD):**  \n  Used when you already know the measured carbon footprint of the specific products supplied to Silverstone.\n\n- **Configured product emission factors:**  \n  Used when you supply physical goods but do not have your own carbon footprint data. In this case, Experienz will apply industry-standard emission factors based on the products and quantities you provide.\n\n- **Operational emissions allocation (Scope 1 & 2):**  \n  Used when your business is primarily service-based, when your activities cannot easily be broken into individual products, or when you already track company-wide operational emissions and prefer to allocate a proportion to Silverstone.\n\nTo ensure emissions are not double-counted, please select only the approach that best represents your supply to this event.\n\nWhere operational allocation is used, the questionnaire will ask for:\n\n- your preferred allocation methodology,\n- the relevant reporting period,\n- and the proportion of your annual operations associated with Silverstone.\n\nPlease ensure that any operational emissions, energy consumption, financial figures, and allocation calculations relate to the same reporting year wherever possible.",
         "helpText": "",
         "questions": {
             "question1778054124442": {
@@ -168,7 +168,7 @@
                         "value": "No - I will use operational emissions"
                     }
                 },
-                "helpText": "Product-Specific Emission Factor\n\nAn **emission factor** measures the carbon dioxide (CO2) released to create one unit of a product. While standard emission factors use generic industry averages, a **product-specific emission factor** is calculated for that exact item.\n\nThese precise figures are found in verified sustainability documents, such as:\n* **PCF** (Product Carbon Footprint)\n* **EPD** (Environmental Product Declaration) Ã¢â‚¬â€œ *Third-party verified*\n\n**In practice:** Instead of using a generic estimate for \"bread,\" a supplier can provide their exact certified calculation (e.g., 1 kg of sourdough = 0.85 kg CO2).",
+                "helpText": "Product-Specific Emission Factor\n\nAn **emission factor** measures the carbon dioxide (CO2) released to create one unit of a product. While standard emission factors use generic industry averages, a **product-specific emission factor** is calculated for that exact item.\n\nThese precise figures are found in verified sustainability documents, such as:\n* **PCF** (Product Carbon Footprint)\n* **EPD** (Environmental Product Declaration) – *Third-party verified*\n\n**In practice:** Instead of using a generic estimate for \"bread,\" a supplier can provide their exact certified calculation (e.g., 1 kg of sourdough = 0.85 kg CO2).",
                 "required": false,
                 "indicator": "",
                 "xlsxMapping": {
@@ -215,16 +215,16 @@
                 "order": 3,
                 "title": "Which 12 months are you reporting on?",
                 "options": {
-                    "Apr 2025 Ã¢â‚¬â€œ Mar 2026": {
+                    "Apr 2025 – Mar 2026": {
                         "index": 0,
-                        "value": "Apr 2025 Ã¢â‚¬â€œ Mar 2026"
+                        "value": "Apr 2025 – Mar 2026"
                     },
-                    "Apr 2026 Ã¢â‚¬â€œ Mar 2027": {
+                    "Apr 2026 – Mar 2027": {
                         "index": 1,
-                        "value": "Apr 2026 Ã¢â‚¬â€œ Mar 2027"
+                        "value": "Apr 2026 – Mar 2027"
                     }
                 },
-                "helpText": "State the 12-month period containing this event (e.g., Apr 2025 Ã¢â‚¬â€œ Mar 2026).\n",
+                "helpText": "State the 12-month period containing this event (e.g., Apr 2025 – Mar 2026).\n",
                 "required": false,
                 "condition": {
                     "op": "EQ",
@@ -290,7 +290,7 @@
                 "index": 5,
                 "order": 6,
                 "title": "Event Allocation Factor (%)",
-                "helpText": "Auto-calculated from your method. Revenue: A3-04 ÃƒÂ· A3-03. Direct: copies A3-07. Physical/Other: see A3-06.",
+                "helpText": "Auto-calculated from your method. Revenue: A3-04 ÷ A3-03. Direct: copies A3-07. Physical/Other: see A3-06.",
                 "required": false,
                 "condition": {
                     "op": "EQ",
@@ -315,7 +315,7 @@
                 "index": 6,
                 "order": 7,
                 "title": "Physical Allocation / Notes",
-                "helpText": "Required only if A3-01 = Physical or Other. State metric and values, e.g. \"12,000 kg for this event ÃƒÂ· 480,000 kg company-wide\".",
+                "helpText": "Required only if A3-01 = Physical or Other. State metric and values, e.g. \"12,000 kg for this event ÷ 480,000 kg company-wide\".",
                 "required": false,
                 "condition": {
                     "op": "EQ",
@@ -389,7 +389,7 @@
                 "type": "radio",
                 "index": 9,
                 "order": 10,
-                "title": "Does your company calculate its own Scope 1 \u0026 2 emissions?",
+                "title": "Does your company calculate its own Scope 1 & 2 emissions?",
                 "options": {
                     "No": {
                         "index": 1,
@@ -419,8 +419,8 @@
     "section4": {
         "index": 2,
         "order": 3,
-        "title": "Allocated Operational Emissions (Scope 1 \u0026 2)",
-        "guidance": "**What is this module?**\nFor suppliers who calculate their own Scope 1 \u0026 2 emissions. Provide annual totals - Silverstone calculates event share.\n\n**Who completes this?**\nOnly if you selected \"No, I\u0027d prefer operational emissions\" AND answered \"Yes, calculates Scope 1 \u0026 2\" in Section 2. Otherwise skip to energy data.\n\n**What to enter:**\n- **Scope 1 Emissions** - annual direct emissions (fuel, generators, vehicles, leaks) in tonnes CO2e.\n- **Scope 2 Location-Based** - annual purchased electricity using grid rates in tonnes CO2e.\n- **Scope 2 Market-Based** - purchased electricity via renewables (REGOs only). Leave blank if N/A.\n- **Reporting Standard** - tick framework (GHG Protocol, ISO 14064-1, SECR, CDP, SBTi, other).\n- **Verification Status** - tick verified, self-assessed, in progress, or none.\n- **Emission Factor Database** - tick source (DEFRA, Ecoinvent, GaBi, other).\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
+        "title": "Allocated Operational Emissions (Scope 1 & 2)",
+        "guidance": "**What is this module?**\nFor suppliers who calculate their own Scope 1 & 2 emissions. Provide annual totals - Silverstone calculates event share.\n\n**Who completes this?**\nOnly if you selected \"No, I'd prefer operational emissions\" AND answered \"Yes, calculates Scope 1 & 2\" in Section 2. Otherwise skip to energy data.\n\n**What to enter:**\n- **Scope 1 Emissions** - annual direct emissions (fuel, generators, vehicles, leaks) in tonnes CO2e.\n- **Scope 2 Location-Based** - annual purchased electricity using grid rates in tonnes CO2e.\n- **Scope 2 Market-Based** - purchased electricity via renewables (REGOs only). Leave blank if N/A.\n- **Reporting Standard** - tick framework (GHG Protocol, ISO 14064-1, SECR, CDP, SBTi, other).\n- **Verification Status** - tick verified, self-assessed, in progress, or none.\n- **Emission Factor Database** - tick source (DEFRA, Ecoinvent, GaBi, other).\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
         "helpText": "",
         "condition": {
             "op": "AND",
@@ -675,7 +675,7 @@
         "index": 3,
         "order": 4,
         "title": "Allocated Energy Consumption Data",
-        "guidance": "**What is this module?**\nFor suppliers who don\u0027t calculate Scope 1 \u0026 2 emissions. Provide raw annual energy consumption - Silverstone applies factors and calculates event share.\n\n**Who completes this?**\nOnly if you answered \"No, company does not calculate Scope 1 \u0026 2\" in Section 2. If \"Yes\", complete Module 0A instead.\n\n**What to enter:**\n- **Energy Type** - select: Natural gas, Diesel, Petrol, LPG, Fuel oil, Electricity, or other.\n- **Quantity** - enter amount (kWh for electricity/gas, litres for fuels, m3 for volume).\n- **Unit** - select unit (kWh, litres, m3, kg, tonnes).\n- **Renewable %** - if REGO-backed, enter percentage. Leave blank for standard grid.\n- **Add one row per energy type** - if you used diesel, gas, electricity, complete three rows.\n- **Use annual figures** for 12-month period in Section 2, not event estimates.\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
+        "guidance": "**What is this module?**\nFor suppliers who don't calculate Scope 1 & 2 emissions. Provide raw annual energy consumption - Silverstone applies factors and calculates event share.\n\n**Who completes this?**\nOnly if you answered \"No, company does not calculate Scope 1 & 2\" in Section 2. If \"Yes\", complete Module 0A instead.\n\n**What to enter:**\n- **Energy Type** - select: Natural gas, Diesel, Petrol, LPG, Fuel oil, Electricity, or other.\n- **Quantity** - enter amount (kWh for electricity/gas, litres for fuels, m3 for volume).\n- **Unit** - select unit (kWh, litres, m3, kg, tonnes).\n- **Renewable %** - if REGO-backed, enter percentage. Leave blank for standard grid.\n- **Add one row per energy type** - if you used diesel, gas, electricity, complete three rows.\n- **Use annual figures** for 12-month period in Section 2, not event estimates.\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
         "helpText": "",
         "condition": {
             "op": "AND",
@@ -806,7 +806,7 @@
                 "type": "number",
                 "index": 3,
                 "order": 4,
-                "title": "Company-Owned/Leased Vehicles Ã¢â‚¬â€ Total Distance",
+                "title": "Company-Owned/Leased Vehicles — Total Distance",
                 "helpText": "Fleet km for financial year, if easier than fuel.",
                 "required": false,
                 "indicator": "",
@@ -861,21 +861,21 @@
     "section6": {
         "index": 4,
         "order": 5,
-        "title": "Food \u0026 Beverage",
-        "guidance": "**What is this module?**\nFor suppliers providing food or beverages. Report quantities - Silverstone calculates carbon footprint using standard factors.\n\n**Who completes this?**\nOnly if you selected \"Food \u0026 Beverage Services\" as Primary or Secondary in Section 1.\n\n**What to enter:**\n- **Food Category** - select type (Beef, Chicken, Cheese, Bread, Vegetables, Sandwiches, Ice cream, etc.).\n- **Quantity Supplied** - enter amount for this event only (not annual).\n- **Unit** - select kg, units, meals, or portions.\n- **Refrigeration** - tick Yes-Chilled, Yes-Frozen, No, or N/A (affects carbon).\n- **PCF Value** - only if you selected \"Yes, own factors\" in Section 2. Otherwise leave blank.\n- **PCF Standard** - only if you provided PCF value above.\n- **Beverages** - complete table for drinks (beer, wine, soft drinks, coffee, tea, etc.).\n- **Add rows** - click \"+ Add Row\" for more products.\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
+        "title": "Food & Beverage",
+        "guidance": "**What is this module?**\nFor suppliers providing food or beverages. Report quantities - Silverstone calculates carbon footprint using standard factors.\n\n**Who completes this?**\nOnly if you selected \"Food & Beverage Services\" as Primary or Secondary in Section 1.\n\n**What to enter:**\n- **Food Category** - select type (Beef, Chicken, Cheese, Bread, Vegetables, Sandwiches, Ice cream, etc.).\n- **Quantity Supplied** - enter amount for this event only (not annual).\n- **Unit** - select kg, units, meals, or portions.\n- **Refrigeration** - tick Yes-Chilled, Yes-Frozen, No, or N/A (affects carbon).\n- **PCF Value** - only if you selected \"Yes, own factors\" in Section 2. Otherwise leave blank.\n- **PCF Standard** - only if you provided PCF value above.\n- **Beverages** - complete table for drinks (beer, wine, soft drinks, coffee, tea, etc.).\n- **Add rows** - click \"+ Add Row\" for more products.\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
         "helpText": "",
         "condition": {
             "op": "OR",
             "conditions": [
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 }
@@ -933,37 +933,37 @@
                                 "index": 16,
                                 "value": "All Vegetarian Ready Meals"
                             },
-                            "Beef Ã¢â‚¬â€œ Unprepared/Unprocessed": {
+                            "Beef – Unprepared/Unprocessed": {
                                 "index": 0,
-                                "value": "Beef Ã¢â‚¬â€œ Unprepared/Unprocessed"
+                                "value": "Beef – Unprepared/Unprocessed"
                             },
-                            "Fish Ã¢â‚¬â€œ Unprepared/Unprocessed": {
+                            "Fish – Unprepared/Unprocessed": {
                                 "index": 4,
-                                "value": "Fish Ã¢â‚¬â€œ Unprepared/Unprocessed"
+                                "value": "Fish – Unprepared/Unprocessed"
                             },
-                            "Lamb Ã¢â‚¬â€œ Unprepared/Unprocessed": {
+                            "Lamb – Unprepared/Unprocessed": {
                                 "index": 1,
-                                "value": "Lamb Ã¢â‚¬â€œ Unprepared/Unprocessed"
+                                "value": "Lamb – Unprepared/Unprocessed"
                             },
-                            "Pork Ã¢â‚¬â€œ Unprepared/Unprocessed": {
+                            "Pork – Unprepared/Unprocessed": {
                                 "index": 2,
-                                "value": "Pork Ã¢â‚¬â€œ Unprepared/Unprocessed"
+                                "value": "Pork – Unprepared/Unprocessed"
                             },
                             "Sugars/Sugar Substitute Products": {
                                 "index": 15,
                                 "value": "Sugars/Sugar Substitute Products"
                             },
-                            "Fruits Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)": {
+                            "Fruits – Unprepared/Unprocessed (Fresh)": {
                                 "index": 11,
-                                "value": "Fruits Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)"
+                                "value": "Fruits – Unprepared/Unprocessed (Fresh)"
                             },
-                            "Vegetables (Non Leaf) Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)": {
+                            "Vegetables (Non Leaf) – Unprepared/Unprocessed (Fresh)": {
                                 "index": 12,
-                                "value": "Vegetables (Non Leaf) Ã¢â‚¬â€œ Unprepared/Unprocessed (Fresh)"
+                                "value": "Vegetables (Non Leaf) – Unprepared/Unprocessed (Fresh)"
                             },
-                            "Poultry Ã¢â‚¬â€œ Unprepared/Unprocessed (Other Animal Species proxy)": {
+                            "Poultry – Unprepared/Unprocessed (Other Animal Species proxy)": {
                                 "index": 3,
-                                "value": "Poultry Ã¢â‚¬â€œ Unprepared/Unprocessed (Other Animal Species proxy)"
+                                "value": "Poultry – Unprepared/Unprocessed (Other Animal Species proxy)"
                             }
                         },
                         "required": false,
@@ -1046,7 +1046,7 @@
                     "column9": {
                         "type": "text",
                         "index": 4,
-                        "label": "PCF Value (if available kgCOÃ¢â€šâ€še/kg)",
+                        "label": "PCF Value (if available kgCO₂e/kg)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -1114,37 +1114,37 @@
                                 "index": 4,
                                 "value": "Cider"
                             },
-                            "Tea Ã¢â‚¬â€œ Brewed": {
+                            "Tea – Brewed": {
                                 "index": 9,
-                                "value": "Tea Ã¢â‚¬â€œ Brewed"
+                                "value": "Tea – Brewed"
                             },
-                            "Wine Ã¢â‚¬â€œ Still": {
+                            "Wine – Still": {
                                 "index": 1,
-                                "value": "Wine Ã¢â‚¬â€œ Still"
+                                "value": "Wine – Still"
                             },
-                            "Water Ã¢â‚¬â€œ Bottled": {
+                            "Water – Bottled": {
                                 "index": 7,
-                                "value": "Water Ã¢â‚¬â€œ Bottled"
+                                "value": "Water – Bottled"
                             },
-                            "Wine Ã¢â‚¬â€œ Sparkling": {
+                            "Wine – Sparkling": {
                                 "index": 2,
-                                "value": "Wine Ã¢â‚¬â€œ Sparkling"
+                                "value": "Wine – Sparkling"
                             },
-                            "Coffee Ã¢â‚¬â€œ Ground Beans": {
+                            "Coffee – Ground Beans": {
                                 "index": 8,
-                                "value": "Coffee Ã¢â‚¬â€œ Ground Beans"
+                                "value": "Coffee – Ground Beans"
                             },
                             "Spirits (Whisky/Rum proxy)": {
                                 "index": 3,
                                 "value": "Spirits (Whisky/Rum proxy)"
                             },
-                            "Drinks Flavoured Ã¢â‚¬â€œ Ready to Drink": {
+                            "Drinks Flavoured – Ready to Drink": {
                                 "index": 5,
-                                "value": "Drinks Flavoured Ã¢â‚¬â€œ Ready to Drink"
+                                "value": "Drinks Flavoured – Ready to Drink"
                             },
-                            "Fruit Juice Ã¢â‚¬â€œ Ready to Drink (Perishable)": {
+                            "Fruit Juice – Ready to Drink (Perishable)": {
                                 "index": 6,
-                                "value": "Fruit Juice Ã¢â‚¬â€œ Ready to Drink (Perishable)"
+                                "value": "Fruit Juice – Ready to Drink (Perishable)"
                             }
                         },
                         "required": false,
@@ -1227,7 +1227,7 @@
                     "column9": {
                         "type": "text",
                         "index": 4,
-                        "label": "PCF Value (if available kgCOÃ¢â€šâ€še/kg)",
+                        "label": "PCF Value (if available kgCO₂e/kg)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -1281,7 +1281,7 @@
     "section7": {
         "index": 5,
         "order": 6,
-        "title": "Temporary Structures \u0026 Event Infrastructure",
+        "title": "Temporary Structures & Event Infrastructure",
         "guidance": "",
         "helpText": "",
         "condition": {
@@ -1289,13 +1289,13 @@
             "conditions": [
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 }
@@ -1626,7 +1626,7 @@
                 "index": 10,
                 "order": 11,
                 "title": "EPD Value (if available)",
-                "helpText": "ACTIVE only if 1b-09 = Yes. In kgCOÃ¢â€šâ€še/kg",
+                "helpText": "ACTIVE only if 1b-09 = Yes. In kgCO₂e/kg",
                 "required": false,
                 "indicator": "",
                 "validation": [
@@ -1821,7 +1821,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 4,
-                        "label": "Area (if weight unknown mÃ‚Â²)",
+                        "label": "Area (if weight unknown m²)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -1913,7 +1913,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 9,
-                        "label": "EPD Value (if available kgCOÃ¢â€šâ€še/kg)",
+                        "label": "EPD Value (if available kgCO₂e/kg)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -1940,109 +1940,109 @@
             "conditions": [
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)",
+                    "value": "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)",
+                    "value": "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)",
+                    "value": "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)",
+                    "value": "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)",
+                    "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)",
+                    "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)",
+                    "value": "Audience & Mobility Services (traffic management, park & ride, shuttles)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)",
+                    "value": "Audience & Mobility Services (traffic management, park & ride, shuttles)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)",
+                    "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)",
+                    "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 }
@@ -2110,7 +2110,7 @@
                     "column1": {
                         "type": "dropdown",
                         "index": 0,
-                        "label": "Mode (Road/Air/Sea) Ã¢â‚¬â€ see lists below",
+                        "label": "Mode (Road/Air/Sea) — see lists below",
                         "options": {
                             "HGV": {
                                 "index": 8,
@@ -2730,7 +2730,7 @@
     "section10": {
         "index": 8,
         "order": 9,
-        "title": "Staff Travel, Commuting \u0026 Accommodation",
+        "title": "Staff Travel, Commuting & Accommodation",
         "guidance": "",
         "helpText": "",
         "condition": {
@@ -2738,109 +2738,109 @@
             "conditions": [
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)",
+                    "value": "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Logistics, Freight \u0026 Transportation (inbound/outbound goods haulage, equipment movement)",
+                    "value": "Logistics, Freight & Transportation (inbound/outbound goods haulage, equipment movement)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)",
+                    "value": "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)",
+                    "value": "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Staffing, Workforce \u0026 Security (temporary staffing, stewards, security)",
+                    "value": "Staffing, Workforce & Security (temporary staffing, stewards, security)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Staffing, Workforce \u0026 Security (temporary staffing, stewards, security)",
+                    "value": "Staffing, Workforce & Security (temporary staffing, stewards, security)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)",
+                    "value": "Audience & Mobility Services (traffic management, park & ride, shuttles)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Audience \u0026 Mobility Services (traffic management, park \u0026 ride, shuttles)",
+                    "value": "Audience & Mobility Services (traffic management, park & ride, shuttles)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Professional \u0026 Consultancy Services (legal, marketing, consulting)",
+                    "value": "Professional & Consultancy Services (legal, marketing, consulting)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Professional \u0026 Consultancy Services (legal, marketing, consulting)",
+                    "value": "Professional & Consultancy Services (legal, marketing, consulting)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Accommodation \u0026 Hotel Partners (hotels, B\u0026Bs, glamping, camping)",
+                    "value": "Accommodation & Hotel Partners (hotels, B&Bs, glamping, camping)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Accommodation \u0026 Hotel Partners (hotels, B\u0026Bs, glamping, camping)",
+                    "value": "Accommodation & Hotel Partners (hotels, B&Bs, glamping, camping)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 }
@@ -2925,65 +2925,37 @@
                         "index": 0,
                         "label": "3B-01 Travel Type",
                         "options": {
-                            "Air Short-haul - Economy": {
-                                "index": 0,
-                                "value": "Air Short-haul - Economy"
+                            "National rail": {
+                                "index": 20,
+                                "value": "National rail"
                             },
-                            "Air Short-haul - Business": {
-                                "index": 1,
-                                "value": "Air Short-haul - Business"
-                            },
-                            "Air Short-haul - Average": {
-                                "index": 2,
-                                "value": "Air Short-haul - Average"
-                            },
-                            "Air Long-haul - Economy": {
-                                "index": 3,
-                                "value": "Air Long-haul - Economy"
-                            },
-                            "Air Long-haul - Premium Economy": {
-                                "index": 4,
-                                "value": "Air Long-haul - Premium Economy"
-                            },
-                            "Air Long-haul - Business": {
-                                "index": 5,
-                                "value": "Air Long-haul - Business"
-                            },
-                            "Air Long-haul - First": {
-                                "index": 6,
-                                "value": "Air Long-haul - First"
-                            },
-                            "Air Long-haul - Average": {
-                                "index": 7,
-                                "value": "Air Long-haul - Average"
-                            },
-                            "Petrol (Small)": {
-                                "index": 8,
-                                "value": "Petrol (Small)"
-                            },
-                            "Petrol (Medium)": {
-                                "index": 9,
-                                "value": "Petrol (Medium)"
-                            },
-                            "Petrol (Large)": {
-                                "index": 10,
-                                "value": "Petrol (Large)"
-                            },
-                            "Petrol (Average)": {
-                                "index": 11,
-                                "value": "Petrol (Average)"
+                            "Diesel (Large)": {
+                                "index": 14,
+                                "value": "Diesel (Large)"
                             },
                             "Diesel (Small)": {
                                 "index": 12,
                                 "value": "Diesel (Small)"
                             },
+                            "Petrol (Large)": {
+                                "index": 10,
+                                "value": "Petrol (Large)"
+                            },
+                            "Petrol (Small)": {
+                                "index": 8,
+                                "value": "Petrol (Small)"
+                            },
                             "Diesel (Medium)": {
                                 "index": 13,
                                 "value": "Diesel (Medium)"
                             },
-                            "Diesel (Large)": {
-                                "index": 14,
-                                "value": "Diesel (Large)"
+                            "Petrol (Medium)": {
+                                "index": 9,
+                                "value": "Petrol (Medium)"
+                            },
+                            "Battery Electric": {
+                                "index": 18,
+                                "value": "Battery Electric"
                             },
                             "Diesel (Average)": {
                                 "index": 15,
@@ -2993,25 +2965,9 @@
                                 "index": 16,
                                 "value": "Hybrid (Average)"
                             },
-                            "Plug-in Hybrid Electric": {
-                                "index": 17,
-                                "value": "Plug-in Hybrid Electric"
-                            },
-                            "Battery Electric": {
-                                "index": 18,
-                                "value": "Battery Electric"
-                            },
-                            "Average (Unknown Fuel)": {
-                                "index": 19,
-                                "value": "Average (Unknown Fuel)"
-                            },
-                            "National rail": {
-                                "index": 20,
-                                "value": "National rail"
-                            },
-                            "International Rail (Eurostar)": {
-                                "index": 21,
-                                "value": "International Rail (Eurostar)"
+                            "Petrol (Average)": {
+                                "index": 11,
+                                "value": "Petrol (Average)"
                             },
                             "Light Rail / Tram": {
                                 "index": 22,
@@ -3020,6 +2976,50 @@
                             "London Underground": {
                                 "index": 23,
                                 "value": "London Underground"
+                            },
+                            "Air Long-haul - First": {
+                                "index": 6,
+                                "value": "Air Long-haul - First"
+                            },
+                            "Average (Unknown Fuel)": {
+                                "index": 19,
+                                "value": "Average (Unknown Fuel)"
+                            },
+                            "Air Long-haul - Average": {
+                                "index": 7,
+                                "value": "Air Long-haul - Average"
+                            },
+                            "Air Long-haul - Economy": {
+                                "index": 3,
+                                "value": "Air Long-haul - Economy"
+                            },
+                            "Plug-in Hybrid Electric": {
+                                "index": 17,
+                                "value": "Plug-in Hybrid Electric"
+                            },
+                            "Air Long-haul - Business": {
+                                "index": 5,
+                                "value": "Air Long-haul - Business"
+                            },
+                            "Air Short-haul - Average": {
+                                "index": 2,
+                                "value": "Air Short-haul - Average"
+                            },
+                            "Air Short-haul - Economy": {
+                                "index": 0,
+                                "value": "Air Short-haul - Economy"
+                            },
+                            "Air Short-haul - Business": {
+                                "index": 1,
+                                "value": "Air Short-haul - Business"
+                            },
+                            "International Rail (Eurostar)": {
+                                "index": 21,
+                                "value": "International Rail (Eurostar)"
+                            },
+                            "Air Long-haul - Premium Economy": {
+                                "index": 4,
+                                "value": "Air Long-haul - Premium Economy"
                             }
                         },
                         "required": false,
@@ -3183,7 +3183,7 @@
                             }
                         },
                         "required": false,
-                        "indicator": "type",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -3197,7 +3197,7 @@
                         "index": 2,
                         "label": "Total Room-Nights",
                         "required": false,
-                        "indicator": "room-nights",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -3211,7 +3211,7 @@
                         "index": 3,
                         "label": "Number of Staff Staying (headcount)",
                         "required": false,
-                        "indicator": "staff-headcount",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -3277,7 +3277,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 1,
-                        "label": "Volume Supplied (mÃ‚Â³)",
+                        "label": "Volume Supplied (m³)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -3291,7 +3291,7 @@
                         "step": 1,
                         "type": "number",
                         "index": 2,
-                        "label": "Wastewater Generated (mÃ‚Â³)",
+                        "label": "Wastewater Generated (m³)",
                         "required": false,
                         "indicator": "",
                         "validation": [
@@ -3331,56 +3331,56 @@
         "index": 14,
         "order": 15,
         "title": "Module 5A: Waste ",
-        "guidance": "**What is this module?**\nFor suppliers managing own waste. Report type and quantity - Silverstone calculates carbon footprint by disposal method.\n\n**Who completes this?**\nOnly if \"No\" to \"Is waste removed by Silverstone\u0027s contractor?\" If \"Yes\", Silverstone handles it.\n\n**Gateway:**\n\n**Is waste removed by Silverstone\u0027s site contractor?**\n- **Yes** - skip data table (Silverstone handles).\n- **No** - complete waste data table.\n\n**What to enter (if No):**\n- **Waste Type** - select (Food, Paper, Plastics, Glass, Metal, Wood, Construction, Residual, etc.).\n- **Quantity (tonnes)** - amount of this type.\n- **Treatment Method** - select: Landfill, Recycling (Open/Closed), Combustion, Composting, Anaerobic digestion.\n- **Diversion %** - % diverted from landfill (e.g., 80).\n- **Distance (km)** - distance to treatment facility.\n- **Add rows** - click \"+ Add Row\" per waste type.\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
+        "guidance": "**What is this module?**\nFor suppliers managing own waste. Report type and quantity - Silverstone calculates carbon footprint by disposal method.\n\n**Who completes this?**\nOnly if \"No\" to \"Is waste removed by Silverstone's contractor?\" If \"Yes\", Silverstone handles it.\n\n**Gateway:**\n\n**Is waste removed by Silverstone's site contractor?**\n- **Yes** - skip data table (Silverstone handles).\n- **No** - complete waste data table.\n\n**What to enter (if No):**\n- **Waste Type** - select (Food, Paper, Plastics, Glass, Metal, Wood, Construction, Residual, etc.).\n- **Quantity (tonnes)** - amount of this type.\n- **Treatment Method** - select: Landfill, Recycling (Open/Closed), Combustion, Composting, Anaerobic digestion.\n- **Diversion %** - % diverted from landfill (e.g., 80).\n- **Distance (km)** - distance to treatment facility.\n- **Add rows** - click \"+ Add Row\" per waste type.\n\n---\n\n*For questions: experienz@silverstone.co.uk*",
         "helpText": "",
         "condition": {
             "op": "OR",
             "conditions": [
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)",
+                    "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)",
+                    "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 }
@@ -3391,60 +3391,112 @@
                 "type": "hTable",
                 "index": 1,
                 "order": 2,
-                "title": "Waste",
+                "title": "Waste Recycled - Open-loop",
                 "options": {
                     "column1": {
                         "type": "dropdown",
                         "index": 0,
                         "label": "M5A-01 Waste Type",
                         "options": {
-                            "Wood": {
+                            "Construction - Aggregates": {
+                                "index": 0,
+                                "value": "Construction - Aggregates"
+                            },
+                            "Construction - Asphalt": {
+                                "index": 1,
+                                "value": "Construction - Asphalt"
+                            },
+                            "Construction - Bricks": {
+                                "index": 2,
+                                "value": "Construction - Bricks"
+                            },
+                            "Construction - Concrete": {
+                                "index": 3,
+                                "value": "Construction - Concrete"
+                            },
+                            "Construction - Mixed": {
+                                "index": 4,
+                                "value": "Construction - Mixed"
+                            },
+                            "Electric Items - Batteries": {
+                                "index": 5,
+                                "value": "Electric Items - Batteries"
+                            },
+                            "Electric Items - Fridges and Freezers": {
+                                "index": 6,
+                                "value": "Electric Items - Fridges and Freezers"
+                            },
+                            "Electric Items - Large": {
+                                "index": 7,
+                                "value": "Electric Items - Large"
+                            },
+                            "Electric Items - Mixed": {
                                 "index": 8,
-                                "value": "Wood"
+                                "value": "Electric Items - Mixed"
+                            },
+                            "Electric Items - Small": {
+                                "index": 9,
+                                "value": "Electric Items - Small"
                             },
                             "Glass": {
-                                "index": 5,
+                                "index": 10,
                                 "value": "Glass"
                             },
-                            "Clothing": {
-                                "index": 9,
-                                "value": "Clothing"
-                            },
-                            "Batteries": {
-                                "index": 10,
-                                "value": "Batteries"
-                            },
-                            "Metal: steel cans": {
-                                "index": 7,
-                                "value": "Metal: steel cans"
-                            },
-                            "Average construction": {
+                            "Metal Cans - Aluminium": {
                                 "index": 11,
-                                "value": "Average construction"
+                                "value": "Metal Cans - Aluminium"
                             },
-                            "Paper and board: mixed": {
-                                "index": 3,
-                                "value": "Paper and board: mixed"
+                            "Metal Cans - Mixed": {
+                                "index": 12,
+                                "value": "Metal Cans - Mixed"
                             },
-                            "Household residual waste": {
-                                "index": 1,
-                                "value": "Household residual waste"
+                            "Metal Cans - Steel": {
+                                "index": 13,
+                                "value": "Metal Cans - Steel"
                             },
-                            "Plastics: average plastics": {
-                                "index": 4,
-                                "value": "Plastics: average plastics"
+                            "Metal Foil - Aluminium": {
+                                "index": 14,
+                                "value": "Metal Foil - Aluminium"
                             },
-                            "Organic: food and drink waste": {
-                                "index": 2,
-                                "value": "Organic: food and drink waste"
+                            "Metal Scrap": {
+                                "index": 15,
+                                "value": "Metal Scrap"
                             },
-                            "Metal: aluminium cans and foil": {
-                                "index": 6,
-                                "value": "Metal: aluminium cans and foil"
+                            "Plastics - Film": {
+                                "index": 16,
+                                "value": "Plastics - Film"
                             },
-                            "Commercial and industrial waste": {
-                                "index": 0,
-                                "value": "Commercial and industrial waste"
+                            "Plastics - HDPE": {
+                                "index": 17,
+                                "value": "Plastics - HDPE"
+                            },
+                            "Plastics - LDPE": {
+                                "index": 18,
+                                "value": "Plastics - LDPE"
+                            },
+                            "Plastics - Mixed": {
+                                "index": 19,
+                                "value": "Plastics - Mixed"
+                            },
+                            "Plastics - PET": {
+                                "index": 20,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PP": {
+                                "index": 21,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 22,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PVC": {
+                                "index": 23,
+                                "value": "Plastics - PVC"
+                            },
+                            "Plastics - Rigid": {
+                                "index": 24,
+                                "value": "Plastics - Rigid"
                             }
                         },
                         "required": false,
@@ -3560,7 +3612,7 @@
                 "type": "radio",
                 "index": 0,
                 "order": 1,
-                "title": "Is waste from your activities removed by Silverstone\u0027s site contractor?",
+                "title": "Is waste from your activities removed by Silverstone's site contractor?",
                 "options": {
                     "No": {
                         "index": 1,
@@ -3578,13 +3630,1000 @@
                     "cellRef": "",
                     "sheetName": ""
                 }
+            },
+            "question1780283296635": {
+                "type": "hTable",
+                "index": 2,
+                "order": 3,
+                "title": "Waste Recycled - Closed-loop",
+                "options": {
+                    "column1": {
+                        "type": "dropdown",
+                        "index": 0,
+                        "label": "Waste Type",
+                        "options": {
+                            "Books": {
+                                "index": 0,
+                                "value": "Books"
+                            },
+                            "Clothes": {
+                                "index": 1,
+                                "value": "Clothes"
+                            },
+                            "Construction - Aggregates": {
+                                "index": 2,
+                                "value": "Construction - Aggregates"
+                            },
+                            "Construction - Asphalt": {
+                                "index": 3,
+                                "value": "Construction - Asphalt"
+                            },
+                            "Construction - Concrete": {
+                                "index": 4,
+                                "value": "Construction - Concrete"
+                            },
+                            "Construction - Insulation": {
+                                "index": 5,
+                                "value": "Construction - Insulation"
+                            },
+                            "Construction - Metals": {
+                                "index": 6,
+                                "value": "Construction - Metals"
+                            },
+                            "Construction - Mineral oil": {
+                                "index": 7,
+                                "value": "Construction - Mineral oil"
+                            },
+                            "Construction - Mixed": {
+                                "index": 8,
+                                "value": "Construction - Mixed"
+                            },
+                            "Construction - Plasterboard": {
+                                "index": 9,
+                                "value": "Construction - Plasterboard"
+                            },
+                            "Construction - Soils": {
+                                "index": 10,
+                                "value": "Construction - Soils"
+                            },
+                            "Construction - Tyres": {
+                                "index": 11,
+                                "value": "Construction - Tyres"
+                            },
+                            "Construction - Wood": {
+                                "index": 12,
+                                "value": "Construction - Wood"
+                            },
+                            "Glass": {
+                                "index": 13,
+                                "value": "Glass"
+                            },
+                            "Metal Cans - Aluminium": {
+                                "index": 14,
+                                "value": "Metal Cans - Aluminium"
+                            },
+                            "Metal Cans - Mixed": {
+                                "index": 15,
+                                "value": "Metal Cans - Mixed"
+                            },
+                            "Metal Cans - Steel": {
+                                "index": 16,
+                                "value": "Metal Cans - Steel"
+                            },
+                            "Metal Foil - Aluminium": {
+                                "index": 17,
+                                "value": "Metal Foil - Aluminium"
+                            },
+                            "Metal Scrap": {
+                                "index": 18,
+                                "value": "Metal Scrap"
+                            },
+                            "Paper - Board": {
+                                "index": 19,
+                                "value": "Paper - Board"
+                            },
+                            "Paper - Mixed": {
+                                "index": 20,
+                                "value": "Paper - Mixed"
+                            },
+                            "Paper - Sheet": {
+                                "index": 21,
+                                "value": "Paper - Sheet"
+                            },
+                            "Plastics - Film": {
+                                "index": 22,
+                                "value": "Plastics - Film"
+                            },
+                            "Plastics - HDPE": {
+                                "index": 23,
+                                "value": "Plastics - HDPE"
+                            },
+                            "Plastics - LDPE": {
+                                "index": 24,
+                                "value": "Plastics - LDPE"
+                            },
+                            "Plastics - Mixed": {
+                                "index": 25,
+                                "value": "Plastics - Mixed"
+                            },
+                            "Plastics - PET": {
+                                "index": 26,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PP": {
+                                "index": 27,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 28,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PVC": {
+                                "index": 29,
+                                "value": "Plastics - PVC"
+                            },
+                            "Plastics - Rigid": {
+                                "index": 30,
+                                "value": "Plastics - Rigid"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column2": {
+                        "type": "text",
+                        "index": 1,
+                        "label": "Quantity",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column3": {
+                        "type": "text",
+                        "index": 2,
+                        "label": "Unit",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column4": {
+                        "type": "text",
+                        "index": 3,
+                        "label": "Treatment Method",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column5": {
+                        "type": "text",
+                        "index": 4,
+                        "label": "Diversion %",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column6": {
+                        "type": "text",
+                        "index": 5,
+                        "label": "Distance (km)",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    }
+                },
+                "helpText": "",
+                "required": false
+            },
+            "question1780283450493": {
+                "type": "hTable",
+                "index": 3,
+                "order": 4,
+                "title": "Waste Incineration with Energy Recovery",
+                "options": {
+                    "column1": {
+                        "type": "dropdown",
+                        "index": 0,
+                        "label": "Waste Type",
+                        "options": {
+                            "Books": {
+                                "index": 0,
+                                "value": "Books"
+                            },
+                            "Clothes": {
+                                "index": 1,
+                                "value": "Clothes"
+                            },
+                            "Commercial and industrial": {
+                                "index": 2,
+                                "value": "Commercial and industrial"
+                            },
+                            "Construction - Mineral oil": {
+                                "index": 3,
+                                "value": "Construction - Mineral oil"
+                            },
+                            "Construction - Mixed": {
+                                "index": 4,
+                                "value": "Construction - Mixed"
+                            },
+                            "Construction - Wood": {
+                                "index": 5,
+                                "value": "Construction - Wood"
+                            },
+                            "Electric Items - Large": {
+                                "index": 6,
+                                "value": "Electric Items - Large"
+                            },
+                            "Electric Items - Mixed": {
+                                "index": 7,
+                                "value": "Electric Items - Mixed"
+                            },
+                            "Electric Items - Small": {
+                                "index": 8,
+                                "value": "Electric Items - Small"
+                            },
+                            "Glass": {
+                                "index": 9,
+                                "value": "Glass"
+                            },
+                            "Household residual": {
+                                "index": 10,
+                                "value": "Household residual"
+                            },
+                            "Metal Cans - Aluminium": {
+                                "index": 11,
+                                "value": "Metal Cans - Aluminium"
+                            },
+                            "Metal Cans - Mixed": {
+                                "index": 12,
+                                "value": "Metal Cans - Mixed"
+                            },
+                            "Metal Cans - Steel": {
+                                "index": 13,
+                                "value": "Metal Cans - Steel"
+                            },
+                            "Metal Foil - Aluminium": {
+                                "index": 14,
+                                "value": "Metal Foil - Aluminium"
+                            },
+                            "Metal Scrap": {
+                                "index": 15,
+                                "value": "Metal Scrap"
+                            },
+                            "Organic - Food and drink waste": {
+                                "index": 16,
+                                "value": "Organic - Food and drink waste"
+                            },
+                            "Organic - Food and garden waste": {
+                                "index": 17,
+                                "value": "Organic - Food and garden waste"
+                            },
+                            "Organic - Garden waste": {
+                                "index": 18,
+                                "value": "Organic - Garden waste"
+                            },
+                            "Paper - Board": {
+                                "index": 19,
+                                "value": "Paper - Board"
+                            },
+                            "Paper - Mixed": {
+                                "index": 20,
+                                "value": "Paper - Mixed"
+                            },
+                            "Paper - Sheet": {
+                                "index": 21,
+                                "value": "Paper - Sheet"
+                            },
+                            "Plastics - Film": {
+                                "index": 22,
+                                "value": "Plastics - Film"
+                            },
+                            "Plastics - HDPE": {
+                                "index": 23,
+                                "value": "Plastics - HDPE"
+                            },
+                            "Plastics - LDPE": {
+                                "index": 24,
+                                "value": "Plastics - LDPE"
+                            },
+                            "Plastics - Mixed": {
+                                "index": 25,
+                                "value": "Plastics - Mixed"
+                            },
+                            "Plastics - PET": {
+                                "index": 26,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PP": {
+                                "index": 27,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 28,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PVC": {
+                                "index": 29,
+                                "value": "Plastics - PVC"
+                            },
+                            "Plastics - Rigid": {
+                                "index": 30,
+                                "value": "Plastics - Rigid"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column2": {
+                        "type": "text",
+                        "index": 1,
+                        "label": "Quantity",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column3": {
+                        "step": 1,
+                        "type": "number",
+                        "index": 2,
+                        "label": "Unit",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column4": {
+                        "type": "text",
+                        "index": 3,
+                        "label": "Treatment Method",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column5": {
+                        "type": "text",
+                        "index": 4,
+                        "label": "Diversion %",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column6": {
+                        "type": "text",
+                        "index": 5,
+                        "label": "Distance (km)",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    }
+                },
+                "helpText": "",
+                "required": false
+            },
+            "question1780283639900": {
+                "type": "hTable",
+                "index": 4,
+                "order": 5,
+                "title": "Waste Disposal - Composting",
+                "options": {
+                    "column1": {
+                        "type": "dropdown",
+                        "index": 0,
+                        "label": "Waste Type",
+                        "options": {
+                            "Books": {
+                                "index": 0,
+                                "value": "Books"
+                            },
+                            "Construction - Wood": {
+                                "index": 1,
+                                "value": "Construction - Wood"
+                            },
+                            "Organic - Food and drink waste": {
+                                "index": 2,
+                                "value": "Organic - Food and drink waste"
+                            },
+                            "Organic - Food and garden waste": {
+                                "index": 3,
+                                "value": "Organic - Food and garden waste"
+                            },
+                            "Organic - Garden waste": {
+                                "index": 4,
+                                "value": "Organic - Garden waste"
+                            },
+                            "Paper - Board": {
+                                "index": 5,
+                                "value": "Paper - Board"
+                            },
+                            "Paper - Mixed": {
+                                "index": 6,
+                                "value": "Paper - Mixed"
+                            },
+                            "Paper - Sheet": {
+                                "index": 7,
+                                "value": "Paper - Sheet"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column2": {
+                        "type": "text",
+                        "index": 1,
+                        "label": "Quantity",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column3": {
+                        "type": "text",
+                        "index": 2,
+                        "label": "Unit",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column4": {
+                        "type": "text",
+                        "index": 3,
+                        "label": "Treatment Method",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column5": {
+                        "type": "text",
+                        "index": 4,
+                        "label": "Diversion %",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column6": {
+                        "type": "text",
+                        "index": 5,
+                        "label": "Distance (km)",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    }
+                },
+                "helpText": "",
+                "required": false
+            },
+            "question1780283711789": {
+                "type": "hTable",
+                "index": 5,
+                "order": 6,
+                "title": "Waste Disposal - Landfill",
+                "options": {
+                    "column1": {
+                        "type": "dropdown",
+                        "index": 0,
+                        "label": "Waste Type",
+                        "options": {
+                            "Commercial and industrial": {
+                                "index": 0,
+                                "value": "Commercial and industrial"
+                            },
+                            "Construction - Aggregates": {
+                                "index": 1,
+                                "value": "Construction - Aggregates"
+                            },
+                            "Construction - Asbestos": {
+                                "index": 2,
+                                "value": "Construction - Asbestos"
+                            },
+                            "Construction - Asphalt": {
+                                "index": 3,
+                                "value": "Construction - Asphalt"
+                            },
+                            "Construction - Bricks": {
+                                "index": 4,
+                                "value": "Construction - Bricks"
+                            },
+                            "Construction - Concrete": {
+                                "index": 5,
+                                "value": "Construction - Concrete"
+                            },
+                            "Construction - Insulation": {
+                                "index": 6,
+                                "value": "Construction - Insulation"
+                            },
+                            "Construction - Metals": {
+                                "index": 7,
+                                "value": "Construction - Metals"
+                            },
+                            "Construction - Plasterboard": {
+                                "index": 8,
+                                "value": "Construction - Plasterboard"
+                            },
+                            "Construction - Soils": {
+                                "index": 9,
+                                "value": "Construction - Soils"
+                            },
+                            "Construction - Wood": {
+                                "index": 10,
+                                "value": "Construction - Wood"
+                            },
+                            "Electric Items - Batteries": {
+                                "index": 11,
+                                "value": "Electric Items - Batteries"
+                            },
+                            "Electric Items - Fridges and Freezers": {
+                                "index": 12,
+                                "value": "Electric Items - Fridges and Freezers"
+                            },
+                            "Electric Items - Large": {
+                                "index": 13,
+                                "value": "Electric Items - Large"
+                            },
+                            "Electric Items - Mixed": {
+                                "index": 14,
+                                "value": "Electric Items - Mixed"
+                            },
+                            "Electric Items - Small": {
+                                "index": 15,
+                                "value": "Electric Items - Small"
+                            },
+                            "Glass": {
+                                "index": 16,
+                                "value": "Glass"
+                            },
+                            "Household residual": {
+                                "index": 17,
+                                "value": "Household residual"
+                            },
+                            "Metal Cans - Aluminium": {
+                                "index": 18,
+                                "value": "Metal Cans - Aluminium"
+                            },
+                            "Metal Cans - Mixed": {
+                                "index": 19,
+                                "value": "Metal Cans - Mixed"
+                            },
+                            "Metal Cans - Steel": {
+                                "index": 20,
+                                "value": "Metal Cans - Steel"
+                            },
+                            "Metal Foil - Aluminium": {
+                                "index": 21,
+                                "value": "Metal Foil - Aluminium"
+                            },
+                            "Metal Scrap": {
+                                "index": 22,
+                                "value": "Metal Scrap"
+                            },
+                            "Organic - Food and drink waste": {
+                                "index": 23,
+                                "value": "Organic - Food and drink waste"
+                            },
+                            "Organic - Food and garden waste": {
+                                "index": 24,
+                                "value": "Organic - Food and garden waste"
+                            },
+                            "Organic - Garden waste": {
+                                "index": 25,
+                                "value": "Organic - Garden waste"
+                            },
+                            "Paper - Board": {
+                                "index": 26,
+                                "value": "Paper - Board"
+                            },
+                            "Paper - Mixed": {
+                                "index": 27,
+                                "value": "Paper - Mixed"
+                            },
+                            "Paper - Sheet": {
+                                "index": 28,
+                                "value": "Paper - Sheet"
+                            },
+                            "Plastics - Film": {
+                                "index": 29,
+                                "value": "Plastics - Film"
+                            },
+                            "Plastics - HDPE": {
+                                "index": 30,
+                                "value": "Plastics - HDPE"
+                            },
+                            "Plastics - LDPE": {
+                                "index": 31,
+                                "value": "Plastics - LDPE"
+                            },
+                            "Plastics - Mixed": {
+                                "index": 32,
+                                "value": "Plastics - Mixed"
+                            },
+                            "Plastics - PET": {
+                                "index": 33,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PP": {
+                                "index": 34,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 35,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PVC": {
+                                "index": 36,
+                                "value": "Plastics - PVC"
+                            },
+                            "Plastics - Rigid": {
+                                "index": 37,
+                                "value": "Plastics - Rigid"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column2": {
+                        "type": "text",
+                        "index": 1,
+                        "label": "Quantity",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column3": {
+                        "type": "text",
+                        "index": 2,
+                        "label": "Unit",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column4": {
+                        "type": "text",
+                        "index": 3,
+                        "label": "Treatment Method",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column5": {
+                        "type": "text",
+                        "index": 4,
+                        "label": "Diversion %",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column6": {
+                        "type": "text",
+                        "index": 5,
+                        "label": "Distance (km)",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    }
+                },
+                "helpText": "",
+                "required": false
+            },
+            "question1780283774287": {
+                "type": "hTable",
+                "index": 6,
+                "order": 7,
+                "title": "Waste Disposal - Anaerobic digestion",
+                "options": {
+                    "column1": {
+                        "type": "dropdown",
+                        "index": 0,
+                        "label": "Waste Type",
+                        "options": {
+                            "Organic - Food and drink waste": {
+                                "index": 0,
+                                "value": "Organic - Food and drink waste"
+                            },
+                            "Organic - Food and garden waste": {
+                                "index": 1,
+                                "value": "Organic - Food and garden waste"
+                            },
+                            "Organic - Garden waste": {
+                                "index": 2,
+                                "value": "Organic - Garden waste"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column2": {
+                        "type": "text",
+                        "index": 1,
+                        "label": "Quantity",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column3": {
+                        "type": "text",
+                        "index": 2,
+                        "label": "Unit",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column4": {
+                        "type": "text",
+                        "index": 3,
+                        "label": "Treatment Method",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column5": {
+                        "type": "text",
+                        "index": 4,
+                        "label": "Diversion %",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column6": {
+                        "type": "text",
+                        "index": 5,
+                        "label": "Distance (km)",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    }
+                },
+                "helpText": "",
+                "required": false
             }
         }
     },
     "section17": {
         "index": 6,
         "order": 7,
-        "title": "General Equipment \u0026 Materials",
+        "title": "General Equipment & Materials",
         "guidance": "",
         "helpText": "",
         "condition": {
@@ -3592,49 +4631,49 @@
             "conditions": [
                 {
                     "op": "EQ",
-                    "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)",
+                    "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Site Operations \u0026 Technical Services (groundworks, machinery, water supply, site prep)",
+                    "value": "Site Operations & Technical Services (groundworks, machinery, water supply, site prep)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)",
+                    "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)",
+                    "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 }
@@ -3803,7 +4842,7 @@
     "section18": {
         "index": 13,
         "order": 14,
-        "title": "On-Site Energy, Power \u0026 Equipment Use",
+        "title": "On-Site Energy, Power & Equipment Use",
         "guidance": "**What is this module?**\nReport fuel or electricity your equipment consumed at Silverstone - Silverstone calculates carbon footprint.\n\n**Who completes this?**\nOnly if \"Yes\" to \"Did equipment consume fuel/electricity?\" If \"No\", skip.\n\n**Gateway:**\n\n**Did equipment consume fuel or electricity?** Yes/No. If Yes, continue.\n\n**Where did energy come from?**\n- **Silverstone-provided** - skip table (already in Silverstone Scope 1/2).\n- **Self-supplied** - you brought fuel/generator. Complete table.\n- **Mixed** - some Silverstone, some yours. Complete for your portion.\n\n**What to enter (if Self-supplied or Mixed):**\n- Energy Type: Generator, Grid, Temporary, Solar, Battery, Hybrid, Other.\n- Operates: Self or Silverstone.\n- Fuel Type: Diesel, Petrol, HVO, LPG, Gas, etc.\n- Fuel (L): amount.\n- Electricity (kWh): if used.\n- Renewable %: REGO tariff percent.\n- Generator Hours: audit.\n- Refrigerant: HFC-134a, R410A, CO2, etc.\n- Leakage (kg): if known.\n- Add rows per energy type.\n\n---\n\n*For questions: experienz@silverstone.co.uk*# Module 5A: Waste",
         "helpText": "",
         "condition": {
@@ -3811,85 +4850,85 @@
             "conditions": [
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Food \u0026 Beverage Services (catering, concessions, cold chain, beverages)",
+                    "value": "Food & Beverage Services (catering, concessions, cold chain, beverages)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Temporary Structures \u0026 Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
+                    "value": "Temporary Structures & Infrastructure (stages, tents, grandstands, fencing, scaffolding)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)",
+                    "value": "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Energy, Power \u0026 Utilities (generators, grid connections, temporary power, fuel supply)",
+                    "value": "Energy, Power & Utilities (generators, grid connections, temporary power, fuel supply)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)",
+                    "value": "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Waste, Environmental \u0026 Sanitation (waste management, recycling, composting, cleaning)",
+                    "value": "Waste, Environmental & Sanitation (waste management, recycling, composting, cleaning)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Broadcast, Media, IT \u0026 Connectivity (broadcast OB trucks, AV, digital signage, IT)",
+                    "value": "Broadcast, Media, IT & Connectivity (broadcast OB trucks, AV, digital signage, IT)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Exhibitors, Activations \u0026 Merchandising (brand activations, stands, merchandise)",
+                    "value": "Exhibitors, Activations & Merchandising (brand activations, stands, merchandise)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 },
                 {
                     "op": "EQ",
-                    "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)",
+                    "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)",
                     "sectionId": "section1",
                     "questionId": "question1778046761528"
                 },
                 {
                     "op": "EQ",
-                    "value": "Rented Vehicles \u0026 Plant Machinery (generators, forklifts, cranes, compressors)",
+                    "value": "Rented Vehicles & Plant Machinery (generators, forklifts, cranes, compressors)",
                     "sectionId": "section1",
                     "questionId": "question1778046761529"
                 }
@@ -3933,9 +4972,9 @@
                         "index": 1,
                         "value": "Self-supplied (you brought your own fuel / generator / equipment)"
                     },
-                    "Silverstone-provided (already in SilverstoneÃ¢â‚¬â„¢s Scope 1/2 - do not double-count)": {
+                    "Silverstone-provided (already in Silverstone’s Scope 1/2 - do not double-count)": {
                         "index": 0,
-                        "value": "Silverstone-provided (already in SilverstoneÃ¢â‚¬â„¢s Scope 1/2 - do not double-count)"
+                        "value": "Silverstone-provided (already in Silverstone’s Scope 1/2 - do not double-count)"
                     }
                 },
                 "helpText": "",
@@ -3956,7 +4995,7 @@
                 "type": "hTable",
                 "index": 2,
                 "order": 3,
-                "title": "On-Site Energy \u0026 Equipment Data",
+                "title": "On-Site Energy & Equipment Data",
                 "options": {
                     "column1": {
                         "type": "dropdown",
@@ -4199,7 +5238,7 @@
     "section19": {
         "index": 9,
         "order": 10,
-        "title": "Daily Staff Commuting â€” Aggregated totals",
+        "title": "Daily Staff Commuting — Aggregated totals",
         "guidance": "",
         "helpText": "",
         "condition": {
@@ -4213,7 +5252,7 @@
                 "type": "hTable",
                 "index": 0,
                 "order": 1,
-                "title": "Daily Staff Commuting â€” Aggregated totals",
+                "title": "Daily Staff Commuting — Aggregated totals",
                 "options": {
                     "column1": {
                         "step": 1,
@@ -4221,7 +5260,7 @@
                         "index": 0,
                         "label": "Total Staff Deployed to Silverstone (headcount)",
                         "required": false,
-                        "indicator": "total_staff",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -4235,7 +5274,7 @@
                         "index": 1,
                         "label": "Total Working Days, all staff (person-days)",
                         "required": false,
-                        "indicator": "working_days",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -4249,7 +5288,7 @@
                         "index": 2,
                         "label": "Person-days where staff stayed overnight at non-home accom.",
                         "required": false,
-                        "indicator": "overnight_stays",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -4277,7 +5316,7 @@
                         },
                         "helpText": "Select measurement unit. Use passenger.kms only for public transport modes.",
                         "required": false,
-                        "indicator": "unit",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -4291,7 +5330,7 @@
                         "index": 4,
                         "label": "Average ONE-WAY Commute Distance",
                         "required": false,
-                        "indicator": "commute_distance",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -4304,189 +5343,73 @@
                         "index": 5,
                         "label": "Primary Transport Mode",
                         "options": {
-                            "Regular taxi": {
-                                "index": 40,
-                                "value": "Regular taxi"
-                            },
                             "National rail": {
-                                "index": 39,
+                                "index": 12,
                                 "value": "National rail"
                             },
-                            "International Rail (Eurostar)": {
-                                "index": 42,
-                                "value": "International Rail (Eurostar)"
+                            "Diesel (Large)": {
+                                "index": 6,
+                                "value": "Diesel (Large)"
+                            },
+                            "Diesel (Small)": {
+                                "index": 4,
+                                "value": "Diesel (Small)"
+                            },
+                            "Petrol (Large)": {
+                                "index": 2,
+                                "value": "Petrol (Large)"
+                            },
+                            "Petrol (Small)": {
+                                "index": 0,
+                                "value": "Petrol (Small)"
+                            },
+                            "Diesel (Medium)": {
+                                "index": 5,
+                                "value": "Diesel (Medium)"
+                            },
+                            "Petrol (Medium)": {
+                                "index": 1,
+                                "value": "Petrol (Medium)"
+                            },
+                            "Battery Electric": {
+                                "index": 10,
+                                "value": "Battery Electric"
+                            },
+                            "Diesel (Average)": {
+                                "index": 7,
+                                "value": "Diesel (Average)"
+                            },
+                            "Hybrid (Average)": {
+                                "index": 8,
+                                "value": "Hybrid (Average)"
+                            },
+                            "Petrol (Average)": {
+                                "index": 3,
+                                "value": "Petrol (Average)"
                             },
                             "Light Rail / Tram": {
-                                "index": 43,
+                                "index": 14,
                                 "value": "Light Rail / Tram"
                             },
                             "London Underground": {
-                                "index": 44,
+                                "index": 15,
                                 "value": "London Underground"
                             },
-                            "Large Car - CNG": {
+                            "Average (Unknown Fuel)": {
                                 "index": 11,
-                                "value": "Large Car - CNG"
+                                "value": "Average (Unknown Fuel)"
                             },
-                            "Large Car - LPG": {
-                                "index": 12,
-                                "value": "Large Car - LPG"
-                            },
-                            "Large Motorbike": {
-                                "index": 33,
-                                "value": "Large Motorbike"
-                            },
-                            "Small Car - CNG": {
-                                "index": 27,
-                                "value": "Small Car - CNG"
-                            },
-                            "Small Car - LPG": {
-                                "index": 28,
-                                "value": "Small Car - LPG"
-                            },
-                            "Small Motorbike": {
-                                "index": 35,
-                                "value": "Small Motorbike"
-                            },
-                            "Medium Car - CNG": {
-                                "index": 19,
-                                "value": "Medium Car - CNG"
-                            },
-                            "Medium Car - LPG": {
-                                "index": 20,
-                                "value": "Medium Car - LPG"
-                            },
-                            "Medium Motorbike": {
-                                "index": 34,
-                                "value": "Medium Motorbike"
-                            },
-                            "Average Car - CNG": {
-                                "index": 3,
-                                "value": "Average Car - CNG"
-                            },
-                            "Average Car - LPG": {
-                                "index": 4,
-                                "value": "Average Car - LPG"
-                            },
-                            "Average Motorbike": {
-                                "index": 32,
-                                "value": "Average Motorbike"
-                            },
-                            "Average local bus": {
-                                "index": 41,
-                                "value": "Average local bus"
-                            },
-                            "Large Car - Diesel": {
-                                "index": 8,
-                                "value": "Large Car - Diesel"
-                            },
-                            "Large Car - Hybrid": {
-                                "index": 10,
-                                "value": "Large Car - Hybrid"
-                            },
-                            "Large Car - Petrol": {
+                            "Plug-in Hybrid Electric": {
                                 "index": 9,
-                                "value": "Large Car - Petrol"
+                                "value": "Plug-in Hybrid Electric"
                             },
-                            "Small Car - Diesel": {
-                                "index": 24,
-                                "value": "Small Car - Diesel"
-                            },
-                            "Small Car - Hybrid": {
-                                "index": 26,
-                                "value": "Small Car - Hybrid"
-                            },
-                            "Small Car - Petrol": {
-                                "index": 25,
-                                "value": "Small Car - Petrol"
-                            },
-                            "Large Car - Unknown": {
+                            "International Rail (Eurostar)": {
                                 "index": 13,
-                                "value": "Large Car - Unknown"
-                            },
-                            "Medium Car - Diesel": {
-                                "index": 16,
-                                "value": "Medium Car - Diesel"
-                            },
-                            "Medium Car - Hybrid": {
-                                "index": 18,
-                                "value": "Medium Car - Hybrid"
-                            },
-                            "Medium Car - Petrol": {
-                                "index": 17,
-                                "value": "Medium Car - Petrol"
-                            },
-                            "Small Car - Unknown": {
-                                "index": 29,
-                                "value": "Small Car - Unknown"
-                            },
-                            "Average Car - Diesel": {
-                                "index": 0,
-                                "value": "Average Car - Diesel"
-                            },
-                            "Average Car - Hybrid": {
-                                "index": 2,
-                                "value": "Average Car - Hybrid"
-                            },
-                            "Average Car - Petrol": {
-                                "index": 1,
-                                "value": "Average Car - Petrol"
-                            },
-                            "Medium Car - Unknown": {
-                                "index": 21,
-                                "value": "Medium Car - Unknown"
-                            },
-                            "Average Car - Unknown": {
-                                "index": 5,
-                                "value": "Average Car - Unknown"
-                            },
-                            "Van/Light truck - Diesel": {
-                                "index": 37,
-                                "value": "Van/Light truck - Diesel"
-                            },
-                            "Van/Light truck - Petrol": {
-                                "index": 36,
-                                "value": "Van/Light truck - Petrol"
-                            },
-                            "Van/Light truck - Electric": {
-                                "index": 38,
-                                "value": "Van/Light truck - Electric"
-                            },
-                            "Large Car - Battery Electric Vehicle": {
-                                "index": 15,
-                                "value": "Large Car - Battery Electric Vehicle"
-                            },
-                            "Small Car - Battery Electric Vehicle": {
-                                "index": 31,
-                                "value": "Small Car - Battery Electric Vehicle"
-                            },
-                            "Medium Car - Battery Electric Vehicle": {
-                                "index": 23,
-                                "value": "Medium Car - Battery Electric Vehicle"
-                            },
-                            "Average Car - Battery Electric Vehicle": {
-                                "index": 7,
-                                "value": "Average Car - Battery Electric Vehicle"
-                            },
-                            "Large Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 14,
-                                "value": "Large Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Small Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 30,
-                                "value": "Small Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Medium Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 22,
-                                "value": "Medium Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Average Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 6,
-                                "value": "Average Car - Plug-in Hybrid Electric Vehicle"
+                                "value": "International Rail (Eurostar)"
                             }
                         },
                         "required": false,
-                        "indicator": "transport_mode",
+                        "indicator": "",
                         "validation": [
                             {
                                 "regex": "",
@@ -4513,185 +5436,69 @@
                         "index": 7,
                         "label": "Secondary Mode",
                         "options": {
-                            "Regular taxi": {
-                                "index": 40,
-                                "value": "Regular taxi"
-                            },
                             "National rail": {
-                                "index": 39,
+                                "index": 12,
                                 "value": "National rail"
                             },
-                            "International Rail (Eurostar)": {
-                                "index": 42,
-                                "value": "International Rail (Eurostar)"
+                            "Diesel (Large)": {
+                                "index": 6,
+                                "value": "Diesel (Large)"
+                            },
+                            "Diesel (Small)": {
+                                "index": 4,
+                                "value": "Diesel (Small)"
+                            },
+                            "Petrol (Large)": {
+                                "index": 2,
+                                "value": "Petrol (Large)"
+                            },
+                            "Petrol (Small)": {
+                                "index": 0,
+                                "value": "Petrol (Small)"
+                            },
+                            "Diesel (Medium)": {
+                                "index": 5,
+                                "value": "Diesel (Medium)"
+                            },
+                            "Petrol (Medium)": {
+                                "index": 1,
+                                "value": "Petrol (Medium)"
+                            },
+                            "Battery Electric": {
+                                "index": 10,
+                                "value": "Battery Electric"
+                            },
+                            "Diesel (Average)": {
+                                "index": 7,
+                                "value": "Diesel (Average)"
+                            },
+                            "Hybrid (Average)": {
+                                "index": 8,
+                                "value": "Hybrid (Average)"
+                            },
+                            "Petrol (Average)": {
+                                "index": 3,
+                                "value": "Petrol (Average)"
                             },
                             "Light Rail / Tram": {
-                                "index": 43,
+                                "index": 14,
                                 "value": "Light Rail / Tram"
                             },
                             "London Underground": {
-                                "index": 44,
+                                "index": 15,
                                 "value": "London Underground"
                             },
-                            "Large Car - CNG": {
+                            "Average (Unknown Fuel)": {
                                 "index": 11,
-                                "value": "Large Car - CNG"
+                                "value": "Average (Unknown Fuel)"
                             },
-                            "Large Car - LPG": {
-                                "index": 12,
-                                "value": "Large Car - LPG"
-                            },
-                            "Large Motorbike": {
-                                "index": 33,
-                                "value": "Large Motorbike"
-                            },
-                            "Small Car - CNG": {
-                                "index": 27,
-                                "value": "Small Car - CNG"
-                            },
-                            "Small Car - LPG": {
-                                "index": 28,
-                                "value": "Small Car - LPG"
-                            },
-                            "Small Motorbike": {
-                                "index": 35,
-                                "value": "Small Motorbike"
-                            },
-                            "Medium Car - CNG": {
-                                "index": 19,
-                                "value": "Medium Car - CNG"
-                            },
-                            "Medium Car - LPG": {
-                                "index": 20,
-                                "value": "Medium Car - LPG"
-                            },
-                            "Medium Motorbike": {
-                                "index": 34,
-                                "value": "Medium Motorbike"
-                            },
-                            "Average Car - CNG": {
-                                "index": 3,
-                                "value": "Average Car - CNG"
-                            },
-                            "Average Car - LPG": {
-                                "index": 4,
-                                "value": "Average Car - LPG"
-                            },
-                            "Average Motorbike": {
-                                "index": 32,
-                                "value": "Average Motorbike"
-                            },
-                            "Average local bus": {
-                                "index": 41,
-                                "value": "Average local bus"
-                            },
-                            "Large Car - Diesel": {
-                                "index": 8,
-                                "value": "Large Car - Diesel"
-                            },
-                            "Large Car - Hybrid": {
-                                "index": 10,
-                                "value": "Large Car - Hybrid"
-                            },
-                            "Large Car - Petrol": {
+                            "Plug-in Hybrid Electric": {
                                 "index": 9,
-                                "value": "Large Car - Petrol"
+                                "value": "Plug-in Hybrid Electric"
                             },
-                            "Small Car - Diesel": {
-                                "index": 24,
-                                "value": "Small Car - Diesel"
-                            },
-                            "Small Car - Hybrid": {
-                                "index": 26,
-                                "value": "Small Car - Hybrid"
-                            },
-                            "Small Car - Petrol": {
-                                "index": 25,
-                                "value": "Small Car - Petrol"
-                            },
-                            "Large Car - Unknown": {
+                            "International Rail (Eurostar)": {
                                 "index": 13,
-                                "value": "Large Car - Unknown"
-                            },
-                            "Medium Car - Diesel": {
-                                "index": 16,
-                                "value": "Medium Car - Diesel"
-                            },
-                            "Medium Car - Hybrid": {
-                                "index": 18,
-                                "value": "Medium Car - Hybrid"
-                            },
-                            "Medium Car - Petrol": {
-                                "index": 17,
-                                "value": "Medium Car - Petrol"
-                            },
-                            "Small Car - Unknown": {
-                                "index": 29,
-                                "value": "Small Car - Unknown"
-                            },
-                            "Average Car - Diesel": {
-                                "index": 0,
-                                "value": "Average Car - Diesel"
-                            },
-                            "Average Car - Hybrid": {
-                                "index": 2,
-                                "value": "Average Car - Hybrid"
-                            },
-                            "Average Car - Petrol": {
-                                "index": 1,
-                                "value": "Average Car - Petrol"
-                            },
-                            "Medium Car - Unknown": {
-                                "index": 21,
-                                "value": "Medium Car - Unknown"
-                            },
-                            "Average Car - Unknown": {
-                                "index": 5,
-                                "value": "Average Car - Unknown"
-                            },
-                            "Van/Light truck - Diesel": {
-                                "index": 37,
-                                "value": "Van/Light truck - Diesel"
-                            },
-                            "Van/Light truck - Petrol": {
-                                "index": 36,
-                                "value": "Van/Light truck - Petrol"
-                            },
-                            "Van/Light truck - Electric": {
-                                "index": 38,
-                                "value": "Van/Light truck - Electric"
-                            },
-                            "Large Car - Battery Electric Vehicle": {
-                                "index": 15,
-                                "value": "Large Car - Battery Electric Vehicle"
-                            },
-                            "Small Car - Battery Electric Vehicle": {
-                                "index": 31,
-                                "value": "Small Car - Battery Electric Vehicle"
-                            },
-                            "Medium Car - Battery Electric Vehicle": {
-                                "index": 23,
-                                "value": "Medium Car - Battery Electric Vehicle"
-                            },
-                            "Average Car - Battery Electric Vehicle": {
-                                "index": 7,
-                                "value": "Average Car - Battery Electric Vehicle"
-                            },
-                            "Large Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 14,
-                                "value": "Large Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Small Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 30,
-                                "value": "Small Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Medium Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 22,
-                                "value": "Medium Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Average Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 6,
-                                "value": "Average Car - Plug-in Hybrid Electric Vehicle"
+                                "value": "International Rail (Eurostar)"
                             }
                         },
                         "required": false,
@@ -4775,49 +5582,13 @@
                         "index": 2,
                         "label": "Primary Mode",
                         "options": {
-                            "Average Car - Diesel": {
-                                "index": 0,
-                                "value": "Average Car - Diesel"
+                            "Regular taxi": {
+                                "index": 40,
+                                "value": "Regular taxi"
                             },
-                            "Average Car - Petrol": {
-                                "index": 1,
-                                "value": "Average Car - Petrol"
-                            },
-                            "Average Car - Hybrid": {
-                                "index": 2,
-                                "value": "Average Car - Hybrid"
-                            },
-                            "Average Car - CNG": {
-                                "index": 3,
-                                "value": "Average Car - CNG"
-                            },
-                            "Average Car - LPG": {
-                                "index": 4,
-                                "value": "Average Car - LPG"
-                            },
-                            "Average Car - Unknown": {
-                                "index": 5,
-                                "value": "Average Car - Unknown"
-                            },
-                            "Average Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 6,
-                                "value": "Average Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Average Car - Battery Electric Vehicle": {
-                                "index": 7,
-                                "value": "Average Car - Battery Electric Vehicle"
-                            },
-                            "Large Car - Diesel": {
-                                "index": 8,
-                                "value": "Large Car - Diesel"
-                            },
-                            "Large Car - Petrol": {
-                                "index": 9,
-                                "value": "Large Car - Petrol"
-                            },
-                            "Large Car - Hybrid": {
-                                "index": 10,
-                                "value": "Large Car - Hybrid"
+                            "National rail": {
+                                "index": 39,
+                                "value": "National rail"
                             },
                             "Large Car - CNG": {
                                 "index": 11,
@@ -4827,61 +5598,9 @@
                                 "index": 12,
                                 "value": "Large Car - LPG"
                             },
-                            "Large Car - Unknown": {
-                                "index": 13,
-                                "value": "Large Car - Unknown"
-                            },
-                            "Large Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 14,
-                                "value": "Large Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Large Car - Battery Electric Vehicle": {
-                                "index": 15,
-                                "value": "Large Car - Battery Electric Vehicle"
-                            },
-                            "Medium Car - Diesel": {
-                                "index": 16,
-                                "value": "Medium Car - Diesel"
-                            },
-                            "Medium Car - Petrol": {
-                                "index": 17,
-                                "value": "Medium Car - Petrol"
-                            },
-                            "Medium Car - Hybrid": {
-                                "index": 18,
-                                "value": "Medium Car - Hybrid"
-                            },
-                            "Medium Car - CNG": {
-                                "index": 19,
-                                "value": "Medium Car - CNG"
-                            },
-                            "Medium Car - LPG": {
-                                "index": 20,
-                                "value": "Medium Car - LPG"
-                            },
-                            "Medium Car - Unknown": {
-                                "index": 21,
-                                "value": "Medium Car - Unknown"
-                            },
-                            "Medium Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 22,
-                                "value": "Medium Car - Plug-in Hybrid Electric Vehicle"
-                            },
-                            "Medium Car - Battery Electric Vehicle": {
-                                "index": 23,
-                                "value": "Medium Car - Battery Electric Vehicle"
-                            },
-                            "Small Car - Diesel": {
-                                "index": 24,
-                                "value": "Small Car - Diesel"
-                            },
-                            "Small Car - Petrol": {
-                                "index": 25,
-                                "value": "Small Car - Petrol"
-                            },
-                            "Small Car - Hybrid": {
-                                "index": 26,
-                                "value": "Small Car - Hybrid"
+                            "Large Motorbike": {
+                                "index": 33,
+                                "value": "Large Motorbike"
                             },
                             "Small Car - CNG": {
                                 "index": 27,
@@ -4891,57 +5610,145 @@
                                 "index": 28,
                                 "value": "Small Car - LPG"
                             },
-                            "Small Car - Unknown": {
-                                "index": 29,
-                                "value": "Small Car - Unknown"
+                            "Small Motorbike": {
+                                "index": 35,
+                                "value": "Small Motorbike"
                             },
-                            "Small Car - Plug-in Hybrid Electric Vehicle": {
-                                "index": 30,
-                                "value": "Small Car - Plug-in Hybrid Electric Vehicle"
+                            "Medium Car - CNG": {
+                                "index": 19,
+                                "value": "Medium Car - CNG"
                             },
-                            "Small Car - Battery Electric Vehicle": {
-                                "index": 31,
-                                "value": "Small Car - Battery Electric Vehicle"
-                            },
-                            "Average Motorbike": {
-                                "index": 32,
-                                "value": "Average Motorbike"
-                            },
-                            "Large Motorbike": {
-                                "index": 33,
-                                "value": "Large Motorbike"
+                            "Medium Car - LPG": {
+                                "index": 20,
+                                "value": "Medium Car - LPG"
                             },
                             "Medium Motorbike": {
                                 "index": 34,
                                 "value": "Medium Motorbike"
                             },
-                            "Small Motorbike": {
-                                "index": 35,
-                                "value": "Small Motorbike"
+                            "Average Car - CNG": {
+                                "index": 3,
+                                "value": "Average Car - CNG"
                             },
-                            "Van/Light truck - Petrol": {
-                                "index": 36,
-                                "value": "Van/Light truck - Petrol"
+                            "Average Car - LPG": {
+                                "index": 4,
+                                "value": "Average Car - LPG"
+                            },
+                            "Average Motorbike": {
+                                "index": 32,
+                                "value": "Average Motorbike"
+                            },
+                            "Average local bus": {
+                                "index": 41,
+                                "value": "Average local bus"
+                            },
+                            "Large Car - Diesel": {
+                                "index": 8,
+                                "value": "Large Car - Diesel"
+                            },
+                            "Large Car - Hybrid": {
+                                "index": 10,
+                                "value": "Large Car - Hybrid"
+                            },
+                            "Large Car - Petrol": {
+                                "index": 9,
+                                "value": "Large Car - Petrol"
+                            },
+                            "Small Car - Diesel": {
+                                "index": 24,
+                                "value": "Small Car - Diesel"
+                            },
+                            "Small Car - Hybrid": {
+                                "index": 26,
+                                "value": "Small Car - Hybrid"
+                            },
+                            "Small Car - Petrol": {
+                                "index": 25,
+                                "value": "Small Car - Petrol"
+                            },
+                            "Large Car - Unknown": {
+                                "index": 13,
+                                "value": "Large Car - Unknown"
+                            },
+                            "Medium Car - Diesel": {
+                                "index": 16,
+                                "value": "Medium Car - Diesel"
+                            },
+                            "Medium Car - Hybrid": {
+                                "index": 18,
+                                "value": "Medium Car - Hybrid"
+                            },
+                            "Medium Car - Petrol": {
+                                "index": 17,
+                                "value": "Medium Car - Petrol"
+                            },
+                            "Small Car - Unknown": {
+                                "index": 29,
+                                "value": "Small Car - Unknown"
+                            },
+                            "Average Car - Diesel": {
+                                "index": 0,
+                                "value": "Average Car - Diesel"
+                            },
+                            "Average Car - Hybrid": {
+                                "index": 2,
+                                "value": "Average Car - Hybrid"
+                            },
+                            "Average Car - Petrol": {
+                                "index": 1,
+                                "value": "Average Car - Petrol"
+                            },
+                            "Medium Car - Unknown": {
+                                "index": 21,
+                                "value": "Medium Car - Unknown"
+                            },
+                            "Average Car - Unknown": {
+                                "index": 5,
+                                "value": "Average Car - Unknown"
                             },
                             "Van/Light truck - Diesel": {
                                 "index": 37,
                                 "value": "Van/Light truck - Diesel"
                             },
+                            "Van/Light truck - Petrol": {
+                                "index": 36,
+                                "value": "Van/Light truck - Petrol"
+                            },
                             "Van/Light truck - Electric": {
                                 "index": 38,
                                 "value": "Van/Light truck - Electric"
                             },
-                            "National rail": {
-                                "index": 39,
-                                "value": "National rail"
+                            "Large Car - Battery Electric Vehicle": {
+                                "index": 15,
+                                "value": "Large Car - Battery Electric Vehicle"
                             },
-                            "Regular taxi": {
-                                "index": 40,
-                                "value": "Regular taxi"
+                            "Small Car - Battery Electric Vehicle": {
+                                "index": 31,
+                                "value": "Small Car - Battery Electric Vehicle"
                             },
-                            "Average local bus": {
-                                "index": 41,
-                                "value": "Average local bus"
+                            "Medium Car - Battery Electric Vehicle": {
+                                "index": 23,
+                                "value": "Medium Car - Battery Electric Vehicle"
+                            },
+                            "Average Car - Battery Electric Vehicle": {
+                                "index": 7,
+                                "value": "Average Car - Battery Electric Vehicle"
+                            },
+                            "Large Car - Plug-in Hybrid Electric Vehicle": {
+                                "index": 14,
+                                "value": "Large Car - Plug-in Hybrid Electric Vehicle"
+                            },
+                            "Small Car - Plug-in Hybrid Electric Vehicle": {
+                                "index": 30,
+                                "value": "Small Car - Plug-in Hybrid Electric Vehicle"
+                            },
+                            "Medium Car - Plug-in Hybrid Electric Vehicle": {
+                                "index": 22,
+                                "value": "Medium Car - Plug-in Hybrid Electric Vehicle"
+                            },
+                            "Average Car - Plug-in Hybrid Electric Vehicle": {
+                                "index": 6,
+                                "value": "Average Car - Plug-in Hybrid Electric Vehicle"
                             }
                         },
                         "required": false,

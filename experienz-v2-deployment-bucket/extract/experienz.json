@@ -150,14 +150,28 @@
   {
     "indicators": {
       "type": "type",
-      "room-nights": "amount",
-      "unit": "room-night"
+      "room-nights": "amount"
     },
     "extract": {
       "activity": "'Employee Accommodation'",
       "type": "{'Hotel - UK':'Hotel - UK','Self-Catering / Apartment':'Self-Catering / Apartment','Hostel / Budget':'Hostel / Budget'}[type] ?? type",
       "amount": "amount",
-      "unit": "{'room.nights':'room-night'}[unit] ?? unit"
+      "unit": "'room-night'"
+    }
+  },
+  {
+    "indicators": {
+      "waste_type": "type",
+      "waste_quantity": "amount",
+      "treatment_method": "treatment_method",
+      "diversion_percent": "diversion_percent",
+      "distance_km": "distance_km"
+    },
+    "extract": {
+      "activity": "'Waste Recycled - Open-loop'",
+      "type": "{'Construction - Aggregates':'Construction - Aggregates','Construction - Asphalt':'Construction - Asphalt','Construction - Bricks':'Construction - Bricks','Construction - Concrete':'Construction - Concrete','Construction - Mixed':'Construction - Mixed','Electric Items - Batteries':'Electric Items - Batteries','Electric Items - Fridges and Freezers':'Electric Items - Fridges and Freezers','Electric Items - Large':'Electric Items - Large','Electric Items - Mixed':'Electric Items - Mixed','Electric Items - Small':'Electric Items - Small','Glass':'Glass','Metal Cans - Aluminium':'Metal Cans - Aluminium','Metal Cans - Mixed':'Metal Cans - Mixed','Metal Cans - Steel':'Metal Cans - Steel','Metal Foil - Aluminium':'Metal Foil - Aluminium','Metal Scrap':'Metal Scrap','Plastics - Film':'Plastics - Film','Plastics - HDPE':'Plastics - HDPE','Plastics - LDPE':'Plastics - LDPE','Plastics - Mixed':'Plastics - Mixed','Plastics - PET':'Plastics - PET','Plastics - PP':'Plastics - PP','Plastics - PS':'Plastics - PS','Plastics - PVC':'Plastics - PVC','Plastics - Rigid':'Plastics - Rigid'}[type] ?? type",
+      "amount": "amount",
+      "unit": "'tonne'"
     }
   }
 ]

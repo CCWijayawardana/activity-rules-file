@@ -10875,6 +10875,156 @@
             "realm": "experienz",
             "query": "activity=='Employee Accommodation'&&type=='Hostel / Budget'&&unit=='room-night'",
             "function": "return [{source:'defra-2025',indicator:'Staff Travel/Hotel stay/UK/Hostel / Budget',scope:3,category:'Hotel stay',uom:'room-night'}]"
+        },
+        {
+            "id": "WR001",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Aggregates'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Aggregates',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR002",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Asphalt'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Asphalt',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR003",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Bricks'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Bricks',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR004",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Concrete'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Concrete',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR005",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR006",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Batteries'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Batteries',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR007",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Fridges and Freezers'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Fridges and Freezers',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR008",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Large'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Large',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR009",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR010",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Small'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Small',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR011",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Glass'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Glass',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR012",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Cans - Aluminium'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Cans - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR013",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Cans - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Cans - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR014",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Cans - Steel'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Cans - Steel',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR015",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Foil - Aluminium'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Foil - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR016",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Scrap'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Scrap',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR017",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - Film'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - Film',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR018",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - HDPE'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - HDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR019",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - LDPE'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - LDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR020",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR021",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PET'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PET',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR022",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PP'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PP',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR023",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PS'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PS',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR024",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PVC'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PVC',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WR025",
+            "realm": "experienz",
+            "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - Rigid'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - Rigid',scope:3,category:'Waste disposal',uom:'tonne'}]"
         }
     ],
     "emissionFactorResolve": [

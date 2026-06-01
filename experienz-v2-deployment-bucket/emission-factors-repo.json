@@ -285706,347 +285706,4899 @@
         "originalFactor": "0.0278",
         "originalUom": "passenger.km"
     },
-    
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.12576,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Economy class",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4426",
+            "ID": "21_316_3164_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Short-haul, to/from UK",
+            "Level 4": "Economy class",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.12576"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.12576",
+        "originalUom": "passenger.km"
     },
-    "factor": 0.12576,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Economy class",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4426",
-      "ID": "21_316_3164_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Short-haul, to/from UK",
-      "Level 4": "Economy class",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.12576"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.18863,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Business class",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4434",
+            "ID": "21_316_3166_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Short-haul, to/from UK",
+            "Level 4": "Business class",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.18863"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.18863",
+        "originalUom": "passenger.km"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.12786,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Average passenger",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4418",
+            "ID": "21_316_3162_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Short-haul, to/from UK",
+            "Level 4": "Average passenger",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.12786"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.12786",
+        "originalUom": "passenger.km"
     },
-    "originalFactor": "0.12576",
-    "originalUom": "passenger.km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.11704,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Economy class",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4450",
+            "ID": "21_316_3170_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Long-haul, to/from UK",
+            "Level 4": "Economy class",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.11704"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.11704",
+        "originalUom": "passenger.km"
     },
-    "factor": 0.18863,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Business class",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4434",
-      "ID": "21_316_3166_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Short-haul, to/from UK",
-      "Level 4": "Business class",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.18863"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.18726,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Premium economy class",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4458",
+            "ID": "21_316_3172_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Long-haul, to/from UK",
+            "Level 4": "Premium economy class",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.18726"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.18726",
+        "originalUom": "passenger.km"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.3394,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Business class",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4466",
+            "ID": "21_316_3174_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Long-haul, to/from UK",
+            "Level 4": "Business class",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.3394"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.3394",
+        "originalUom": "passenger.km"
     },
-    "originalFactor": "0.18863",
-    "originalUom": "passenger.km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.46814,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/First class",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4474",
+            "ID": "21_316_3176_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Long-haul, to/from UK",
+            "Level 4": "First class",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.46814"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.46814",
+        "originalUom": "passenger.km"
     },
-    "factor": 0.12786,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Average passenger",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4418",
-      "ID": "21_316_3162_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Short-haul, to/from UK",
-      "Level 4": "Average passenger",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.12786"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 0.15282,
+        "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Average passenger",
+        "uom": "passenger-km",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "4442",
+            "ID": "21_316_3168_11_1",
+            "Scope": "Scope 3",
+            "Level 1": "Business travel- air",
+            "Level 2": "Flights",
+            "Level 3": "Long-haul, to/from UK",
+            "Level 4": "Average passenger",
+            "UOM": "passenger.km",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "0.15282"
+        },
+        "unitConversion": {
+            "id": "26",
+            "sourceUnit": "passenger.km",
+            "targetUnit": "passenger.km",
+            "factor": 1
+        },
+        "originalFactor": "0.15282",
+        "originalUom": "passenger.km"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 10.4,
+        "indicator": "Staff Travel/Hotel stay/UK/Hotel - UK",
+        "uom": "room-night",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "7395",
+            "ID": "29_600_4000_13_1",
+            "Scope": "Scope 3",
+            "Level 1": "Hotel stay",
+            "Level 2": "Hotel stay",
+            "Level 3": "UK",
+            "Level 4": "Hotel - UK",
+            "UOM": "room.night",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "10.4"
+        },
+        "unitConversion": {
+            "id": "27",
+            "sourceUnit": "room.night",
+            "targetUnit": "room.night",
+            "factor": 1
+        },
+        "originalFactor": "10.4",
+        "originalUom": "room.night"
     },
-    "originalFactor": "0.12786",
-    "originalUom": "passenger.km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 10.4,
+        "indicator": "Staff Travel/Hotel stay/UK/Self-Catering / Apartment",
+        "uom": "room-night",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "7395",
+            "ID": "DEFRA-HOTEL-UK-PROXY-SELFCATERING",
+            "Scope": "Scope 3",
+            "Level 1": "Hotel stay",
+            "Level 2": "Hotel stay",
+            "Level 3": "UK",
+            "Level 4": "Self-Catering / Apartment",
+            "UOM": "room.night",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "10.4"
+        },
+        "unitConversion": {
+            "id": "27",
+            "sourceUnit": "room.night",
+            "targetUnit": "room.night",
+            "factor": 1
+        },
+        "originalFactor": "10.4",
+        "originalUom": "room.night"
     },
-    "factor": 0.11704,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Economy class",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4450",
-      "ID": "21_316_3170_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Long-haul, to/from UK",
-      "Level 4": "Economy class",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.11704"
+    {
+        "createdAt": 1779790239862,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 10.4,
+        "indicator": "Staff Travel/Hotel stay/UK/Hostel / Budget",
+        "uom": "room-night",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "7395",
+            "ID": "DEFRA-HOTEL-UK-PROXY-HOSTEL",
+            "Scope": "Scope 3",
+            "Level 1": "Hotel stay",
+            "Level 2": "Hotel stay",
+            "Level 3": "UK",
+            "Level 4": "Hostel / Budget",
+            "UOM": "room.night",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "10.4"
+        },
+        "unitConversion": {
+            "id": "27",
+            "sourceUnit": "room.night",
+            "targetUnit": "room.night",
+            "factor": 1
+        },
+        "originalFactor": "10.4",
+        "originalUom": "room.night"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Construction - Aggregates",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Open-loop/Construction - Aggregates",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4117,
+            "ID": "20_500_5169_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Aggregates",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
     },
-    "originalFactor": "0.11704",
-    "originalUom": "passenger.km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Construction - Asphalt",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Open-loop/Construction - Asphalt",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4138,
+            "ID": "20_500_5190_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Asphalt",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
     },
-    "factor": 0.18726,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Premium economy class",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4458",
-      "ID": "21_316_3172_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Long-haul, to/from UK",
-      "Level 4": "Premium economy class",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.18726"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Construction - Bricks",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Open-loop/Construction - Bricks",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4145,
+            "ID": "20_500_5197_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Bricks",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Construction - Concrete",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Open-loop/Construction - Concrete",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4152,
+            "ID": "20_500_5204_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Concrete",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
     },
-    "originalFactor": "0.18726",
-    "originalUom": "passenger.km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Construction - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Open-loop/Construction - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4124,
+            "ID": "20_500_5176_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Average construction",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
     },
-    "factor": 0.3394,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Business class",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4466",
-      "ID": "21_316_3174_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Long-haul, to/from UK",
-      "Level 4": "Business class",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.3394"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Electric Items - Batteries",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Electric Items - Batteries",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4292,
+            "ID": "20_503_5344_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "Batteries",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Electric Items - Fridges and Freezers",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Electric Items - Fridges and Freezers",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4264,
+            "ID": "20_503_5316_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - fridges and freezers",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "originalFactor": "0.3394",
-    "originalUom": "passenger.km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Electric Items - Large",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Electric Items - Large",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4271,
+            "ID": "20_503_5323_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - large",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "factor": 0.46814,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/First class",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4474",
-      "ID": "21_316_3176_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Long-haul, to/from UK",
-      "Level 4": "First class",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.46814"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Electric Items - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Electric Items - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4278,
+            "ID": "20_503_5330_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - mixed",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Electric Items - Small",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Electric Items - Small",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4285,
+            "ID": "20_503_5337_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - small",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "originalFactor": "0.46814",
-    "originalUom": "passenger.km"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Glass",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Glass",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4215,
+            "ID": "20_501_5267_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Glass",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "factor": 0.15282,
-    "indicator": "Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Average passenger",
-    "uom": "passenger-km",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "4442",
-      "ID": "21_316_3168_11_1",
-      "Scope": "Scope 3",
-      "Level 1": "Business travel- air",
-      "Level 2": "Flights",
-      "Level 3": "Long-haul, to/from UK",
-      "Level 4": "Average passenger",
-      "UOM": "passenger.km",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "0.15282"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Metal Cans - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Metal Cans - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4299,
+            "ID": "20_504_5351_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "unitConversion": {
-      "id": "26",
-      "sourceUnit": "passenger.km",
-      "targetUnit": "passenger.km",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Metal Cans - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Metal Cans - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4306,
+            "ID": "20_504_5358_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: mixed cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "originalFactor": "0.15282",
-    "originalUom": "passenger.km"
-  },
-  
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Metal Cans - Steel",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Metal Cans - Steel",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4320,
+            "ID": "20_504_5372_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: steel cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "factor": 10.4,
-    "indicator": "Staff Travel/Hotel stay/UK/Hotel - UK",
-    "uom": "room-nightroom-night",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "7395",
-      "ID": "29_600_4000_13_1",
-      "Scope": "Scope 3",
-      "Level 1": "Hotel stay",
-      "Level 2": "Hotel stay",
-      "Level 3": "UK",
-      "Level 4": "Hotel - UK",
-      "UOM": "room.night",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "10.4"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Metal Foil - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Metal Foil - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4299,
+            "ID": "20_504_5351_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "unitConversion": {
-      "id": "27",
-      "sourceUnit": "room.night",
-      "targetUnit": "room.night",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Metal Scrap",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Metal Scrap",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4313,
+            "ID": "20_504_5365_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: scrap metal",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "originalFactor": "10.4",
-    "originalUom": "room.night"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - Film",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - Film",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4334,
+            "ID": "20_505_5386_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic film",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "factor": 10.4,
-    "indicator": "Staff Travel/Hotel stay/UK/Self-Catering / Apartment",
-    "uom": "room-night",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "7395",
-      "ID": "DEFRA-HOTEL-UK-PROXY-SELFCATERING",
-      "Scope": "Scope 3",
-      "Level 1": "Hotel stay",
-      "Level 2": "Hotel stay",
-      "Level 3": "UK",
-      "Level 4": "Self-Catering / Apartment",
-      "UOM": "room.night",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "10.4"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - HDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - HDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4348,
+            "ID": "20_505_5400_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: HDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "unitConversion": {
-      "id": "27",
-      "sourceUnit": "room.night",
-      "targetUnit": "room.night",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - LDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - LDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4355,
+            "ID": "20_505_5407_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: LDPE and LLDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "originalFactor": "10.4",
-    "originalUom": "room.night"
-  },
-  {
-    "createdAt": 1779790239862,
-    "source": {
-      "internal": "defra-2025",
-      "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4327,
+            "ID": "20_505_5379_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastics",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "factor": 10.4,
-    "indicator": "Staff Travel/Hotel stay/UK/Hostel / Budget",
-    "uom": "room-night",
-    "originalSourceData": {
-      "_sheet": "Factors by Category",
-      "_row": "7395",
-      "ID": "DEFRA-HOTEL-UK-PROXY-HOSTEL",
-      "Scope": "Scope 3",
-      "Level 1": "Hotel stay",
-      "Level 2": "Hotel stay",
-      "Level 3": "UK",
-      "Level 4": "Hostel / Budget",
-      "UOM": "room.night",
-      "GHG/Unit": "kg CO2e",
-      "GHG Conversion Factor 2025": "10.4"
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - PET",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - PET",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4362,
+            "ID": "20_505_5414_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PET (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "unitConversion": {
-      "id": "27",
-      "sourceUnit": "room.night",
-      "targetUnit": "room.night",
-      "factor": 1
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - PP",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - PP",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4369,
+            "ID": "20_505_5421_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PP (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
     },
-    "originalFactor": "10.4",
-    "originalUom": "room.night"
-  }
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - PS",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - PS",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4376,
+            "ID": "20_505_5428_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PS (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - PVC",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - PVC",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4383,
+            "ID": "20_505_5435_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PVC (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Open-loop",
+        "Type": "Plastics - Rigid",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Open-loop/Plastics - Rigid",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4341,
+            "ID": "20_505_5393_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic rigid",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Books",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Books",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4209,
+            "ID": "20_501_5261_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Books",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Clothes",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Clothes",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4223,
+            "ID": "20_501_5275_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Clothing",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Aggregates",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Aggregates",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4118,
+            "ID": "20_500_5170_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Aggregates",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Asphalt",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Asphalt",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4139,
+            "ID": "20_500_5191_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Asphalt",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Concrete",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Concrete",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4153,
+            "ID": "20_500_5205_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Concrete",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Insulation",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Insulation",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4160,
+            "ID": "20_500_5212_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Insulation",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Metals",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Metals",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4167,
+            "ID": "20_500_5219_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Metals",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Mineral oil",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Mineral oil",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4181,
+            "ID": "20_500_5233_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Mineral oil",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4125,
+            "ID": "20_500_5177_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Average construction",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Plasterboard",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Plasterboard",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4188,
+            "ID": "20_500_5240_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Plasterboard",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Soils",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.00835,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Soils",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4174,
+            "ID": "20_500_5226_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Soils",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.00835
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.00835,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Tyres",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Tyres",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4195,
+            "ID": "20_500_5247_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Tyres",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Construction - Wood",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Construction - Wood",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4202,
+            "ID": "20_500_5254_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Wood",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Glass",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Glass",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4216,
+            "ID": "20_501_5268_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Glass",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Metal Cans - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Metal Cans - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4300,
+            "ID": "20_504_5352_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Metal Cans - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Metal Cans - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4307,
+            "ID": "20_504_5359_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: mixed cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Metal Cans - Steel",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Metal Cans - Steel",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4321,
+            "ID": "20_504_5373_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: steel cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Metal Foil - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Metal Foil - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4300,
+            "ID": "20_504_5352_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Metal Scrap",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Metal Scrap",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4314,
+            "ID": "20_504_5366_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: scrap metal",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Paper - Board",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Paper - Board",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4391,
+            "ID": "20_506_5443_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: board",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Paper - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Paper - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4398,
+            "ID": "20_506_5450_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: mixed",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Paper - Sheet",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Paper - Sheet",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4405,
+            "ID": "20_506_5457_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: paper",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - Film",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - Film",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4335,
+            "ID": "20_505_5387_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic film",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - HDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - HDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4349,
+            "ID": "20_505_5401_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: HDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - LDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - LDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4356,
+            "ID": "20_505_5408_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: LDPE and LLDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4328,
+            "ID": "20_505_5380_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastics",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - PET",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - PET",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4363,
+            "ID": "20_505_5415_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PET (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - PP",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - PP",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4370,
+            "ID": "20_505_5422_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PP (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - PS",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - PS",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4377,
+            "ID": "20_505_5429_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PS (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - PVC",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - PVC",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4384,
+            "ID": "20_505_5436_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PVC (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Recycled - Closed-loop",
+        "Type": "Plastics - Rigid",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Recycled - Closed-loop/Plastics - Rigid",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4342,
+            "ID": "20_505_5394_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic rigid",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Books",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Books",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4210,
+            "ID": "20_501_5262_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Books",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Clothes",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Clothes",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4224,
+            "ID": "20_501_5276_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Clothing",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Commercial and industrial",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Commercial and industrial",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4259,
+            "ID": "20_507_5311_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Commercial and industrial waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Construction - Mineral oil",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Construction - Mineral oil",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4182,
+            "ID": "20_500_5234_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Mineral oil",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Construction - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Construction - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4126,
+            "ID": "20_500_5178_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Average construction",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Construction - Wood",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Construction - Wood",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4203,
+            "ID": "20_500_5255_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Wood",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Electric Items - Large",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Electric Items - Large",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4273,
+            "ID": "20_503_5325_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - large",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Electric Items - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Electric Items - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4280,
+            "ID": "20_503_5332_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - mixed",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Electric Items - Small",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Electric Items - Small",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4287,
+            "ID": "20_503_5339_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - small",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Glass",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Glass",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4217,
+            "ID": "20_501_5269_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Glass",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Household residual",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Household residual",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4231,
+            "ID": "20_507_5283_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Household residual waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Metal Cans - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Metal Cans - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4301,
+            "ID": "20_504_5353_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Metal Cans - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Metal Cans - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4308,
+            "ID": "20_504_5360_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: mixed cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Metal Cans - Steel",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Metal Cans - Steel",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4322,
+            "ID": "20_504_5374_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: steel cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Metal Foil - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Metal Foil - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4301,
+            "ID": "20_504_5353_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Metal Scrap",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Metal Scrap",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4315,
+            "ID": "20_504_5367_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: scrap metal",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Organic - Food and drink waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Organic - Food and drink waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4238,
+            "ID": "20_507_5290_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: food and drink waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Organic - Food and garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Organic - Food and garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4252,
+            "ID": "20_507_5304_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: mixed food and garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Organic - Garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Organic - Garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4245,
+            "ID": "20_507_5297_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Paper - Board",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Paper - Board",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4392,
+            "ID": "20_506_5444_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: board",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Paper - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Paper - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4399,
+            "ID": "20_506_5451_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: mixed",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Paper - Sheet",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Paper - Sheet",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4406,
+            "ID": "20_506_5458_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: paper",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - Film",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - Film",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4336,
+            "ID": "20_505_5388_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic film",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - HDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - HDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4350,
+            "ID": "20_505_5402_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: HDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - LDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - LDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4357,
+            "ID": "20_505_5409_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: LDPE and LLDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4329,
+            "ID": "20_505_5381_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastics",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - PET",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - PET",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4364,
+            "ID": "20_505_5416_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PET (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - PP",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - PP",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4371,
+            "ID": "20_505_5423_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PP (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - PS",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - PS",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4378,
+            "ID": "20_505_5430_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PS (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - PVC",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - PVC",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4385,
+            "ID": "20_505_5437_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PVC (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Incineration with Energy Recovery",
+        "Type": "Plastics - Rigid",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 4.68568,
+        "indicator": "Waste/Waste Incineration with Energy Recovery/Plastics - Rigid",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4343,
+            "ID": "20_505_5395_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic rigid",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 4.68568
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 4.68568,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Books",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Books",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4211,
+            "ID": "20_501_5263_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Books",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Construction - Wood",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Construction - Wood",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4204,
+            "ID": "20_500_5256_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Wood",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Organic - Food and drink waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Organic - Food and drink waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4239,
+            "ID": "20_507_5291_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: food and drink waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Organic - Food and garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Organic - Food and garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4253,
+            "ID": "20_507_5305_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: mixed food and garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Organic - Garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Organic - Garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4246,
+            "ID": "20_507_5298_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Paper - Board",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Paper - Board",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4393,
+            "ID": "20_506_5445_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: board",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Paper - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Paper - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4400,
+            "ID": "20_506_5452_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: mixed",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Composting",
+        "Type": "Paper - Sheet",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Composting/Paper - Sheet",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4407,
+            "ID": "20_506_5459_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: paper",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Books",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1164.4894,
+        "indicator": "Waste/Waste Disposal - Landfill/Books",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4212,
+            "ID": "20_501_5264_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Books",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1164.4894
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1164.4894,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Clothes",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 496.78228,
+        "indicator": "Waste/Waste Disposal - Landfill/Clothes",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4226,
+            "ID": "20_501_5278_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Clothing",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 496.78228
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 496.78228,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Commercial and industrial",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 520.5327,
+        "indicator": "Waste/Waste Disposal - Landfill/Commercial and industrial",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4261,
+            "ID": "20_507_5313_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Commercial and industrial waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 520.5327
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 520.5327,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Aggregates",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.26338,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Aggregates",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4121,
+            "ID": "20_500_5173_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Aggregates",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.26338
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.26338,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Asbestos",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 5.9416,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Asbestos",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4135,
+            "ID": "20_500_5187_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Asbestos",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 5.9416
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 5.9416,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Asphalt",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.26338,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Asphalt",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4142,
+            "ID": "20_500_5194_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Asphalt",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.26338
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.26338,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Bricks",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.26338,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Bricks",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4149,
+            "ID": "20_500_5201_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Bricks",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.26338
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.26338,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Concrete",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.26338,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Concrete",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4156,
+            "ID": "20_500_5208_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Concrete",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.26338
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.26338,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Insulation",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.26338,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Insulation",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4163,
+            "ID": "20_500_5215_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Insulation",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.26338
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.26338,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Metals",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1.26435,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Metals",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4170,
+            "ID": "20_500_5222_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Metals",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1.26435
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1.26435,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Plasterboard",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 71.95,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Plasterboard",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4191,
+            "ID": "20_500_5243_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Plasterboard",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 71.95
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 71.95,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Soils",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 19.54671,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Soils",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4177,
+            "ID": "20_500_5229_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Soils",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 19.54671
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 19.54671,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Construction - Wood",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 925.34348,
+        "indicator": "Waste/Waste Disposal - Landfill/Construction - Wood",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4205,
+            "ID": "20_500_5257_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Construction",
+            "Level 3": "Wood",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 925.34348
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 925.34348,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Electric Items - Batteries",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Electric Items - Batteries",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4296,
+            "ID": "20_503_5348_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "Batteries",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Electric Items - Fridges and Freezers",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Electric Items - Fridges and Freezers",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4268,
+            "ID": "20_503_5320_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - fridges and freezers",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Electric Items - Large",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Electric Items - Large",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4275,
+            "ID": "20_503_5327_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - large",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Electric Items - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Electric Items - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4282,
+            "ID": "20_503_5334_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - mixed",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Electric Items - Small",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Electric Items - Small",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4289,
+            "ID": "20_503_5341_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Electrical items",
+            "Level 3": "WEEE - small",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Glass",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Glass",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4219,
+            "ID": "20_501_5271_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Other",
+            "Level 3": "Glass",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Household residual",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 497.24244,
+        "indicator": "Waste/Waste Disposal - Landfill/Household residual",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4233,
+            "ID": "20_507_5285_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Household residual waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 497.24244
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 497.24244,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Metal Cans - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Metal Cans - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4303,
+            "ID": "20_504_5355_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Metal Cans - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Metal Cans - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4310,
+            "ID": "20_504_5362_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: mixed cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Metal Cans - Steel",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Metal Cans - Steel",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4324,
+            "ID": "20_504_5376_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: steel cans",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Metal Foil - Aluminium",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Metal Foil - Aluminium",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4303,
+            "ID": "20_504_5355_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: aluminium cans and foil (excl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Metal Scrap",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Metal Scrap",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4317,
+            "ID": "20_504_5369_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Metal",
+            "Level 3": "Metal: scrap metal",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Organic - Food and drink waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 700.30886,
+        "indicator": "Waste/Waste Disposal - Landfill/Organic - Food and drink waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4240,
+            "ID": "20_507_5292_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: food and drink waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 700.30886
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 700.30886,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Organic - Food and garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 656.08614,
+        "indicator": "Waste/Waste Disposal - Landfill/Organic - Food and garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4254,
+            "ID": "20_507_5306_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: mixed food and garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 656.08614
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 656.08614,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Organic - Garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 646.70557,
+        "indicator": "Waste/Waste Disposal - Landfill/Organic - Garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4247,
+            "ID": "20_507_5299_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 646.70557
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 646.70557,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Paper - Board",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1164.4894,
+        "indicator": "Waste/Waste Disposal - Landfill/Paper - Board",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4394,
+            "ID": "20_506_5446_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: board",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1164.4894
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1164.4894,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Paper - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1164.4894,
+        "indicator": "Waste/Waste Disposal - Landfill/Paper - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4401,
+            "ID": "20_506_5453_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: mixed",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1164.4894
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1164.4894,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Paper - Sheet",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1164.4894,
+        "indicator": "Waste/Waste Disposal - Landfill/Paper - Sheet",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4408,
+            "ID": "20_506_5460_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Paper",
+            "Level 3": "Paper and board: paper",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 1164.4894
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 1164.4894,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - Film",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - Film",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4338,
+            "ID": "20_505_5390_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic film",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - HDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - HDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4352,
+            "ID": "20_505_5404_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: HDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - LDPE",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - LDPE",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4359,
+            "ID": "20_505_5411_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: LDPE and LLDPE (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - Mixed",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - Mixed",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4331,
+            "ID": "20_505_5383_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastics",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - PET",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - PET",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4366,
+            "ID": "20_505_5418_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PET (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - PP",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - PP",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4373,
+            "ID": "20_505_5425_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PP (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - PS",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - PS",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4380,
+            "ID": "20_505_5432_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PS (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - PVC",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - PVC",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4387,
+            "ID": "20_505_5439_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: PVC (incl. forming)",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Landfill",
+        "Type": "Plastics - Rigid",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Landfill/Plastics - Rigid",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4345,
+            "ID": "20_505_5397_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Plastic",
+            "Level 3": "Plastics: average plastic rigid",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Anaerobic digestion",
+        "Type": "Organic - Food and drink waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Anaerobic digestion/Organic - Food and drink waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4241,
+            "ID": "20_507_5293_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: food and drink waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Anaerobic digestion",
+        "Type": "Organic - Food and garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Anaerobic digestion/Organic - Food and garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4255,
+            "ID": "20_507_5307_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: mixed food and garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    },
+    {
+        "Activity": "Waste Disposal - Anaerobic digestion",
+        "Type": "Organic - Garden waste",
+        "createdAt": 1780240000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 8.98311,
+        "indicator": "Waste/Waste Disposal - Anaerobic digestion/Organic - Garden waste",
+        "uom": "tonne",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": 4248,
+            "ID": "20_507_5300_15_1",
+            "Scope": "Scope 3",
+            "Level 1": "Waste disposal",
+            "Level 2": "Refuse",
+            "Level 3": "Organic: garden waste",
+            "Level 4": null,
+            "UOM": "tonnes",
+            "GHG_Unit": "kg CO2e",
+            "GHG_Conversion_Factor_2025": 8.98311
+        },
+        "unitConversion": {
+            "id": null,
+            "sourceUnit": "kg",
+            "targetUnit": "tonne",
+            "factor": 0.001
+        },
+        "originalFactor": 8.98311,
+        "originalUom": "kg"
+    }
 ]
