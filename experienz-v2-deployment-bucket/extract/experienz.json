@@ -161,15 +161,72 @@
   },
   {
     "indicators": {
-      "waste_type": "type",
-      "waste_quantity": "amount",
-      "treatment_method": "treatment_method",
-      "diversion_percent": "diversion_percent",
-      "distance_km": "distance_km"
+      "waste-openloop-type": "type",
+      "waste-openloop-quantity": "amount"
     },
     "extract": {
       "activity": "'Waste Recycled - Open-loop'",
       "type": "{'Construction - Aggregates':'Construction - Aggregates','Construction - Asphalt':'Construction - Asphalt','Construction - Bricks':'Construction - Bricks','Construction - Concrete':'Construction - Concrete','Construction - Mixed':'Construction - Mixed','Electric Items - Batteries':'Electric Items - Batteries','Electric Items - Fridges and Freezers':'Electric Items - Fridges and Freezers','Electric Items - Large':'Electric Items - Large','Electric Items - Mixed':'Electric Items - Mixed','Electric Items - Small':'Electric Items - Small','Glass':'Glass','Metal Cans - Aluminium':'Metal Cans - Aluminium','Metal Cans - Mixed':'Metal Cans - Mixed','Metal Cans - Steel':'Metal Cans - Steel','Metal Foil - Aluminium':'Metal Foil - Aluminium','Metal Scrap':'Metal Scrap','Plastics - Film':'Plastics - Film','Plastics - HDPE':'Plastics - HDPE','Plastics - LDPE':'Plastics - LDPE','Plastics - Mixed':'Plastics - Mixed','Plastics - PET':'Plastics - PET','Plastics - PP':'Plastics - PP','Plastics - PS':'Plastics - PS','Plastics - PVC':'Plastics - PVC','Plastics - Rigid':'Plastics - Rigid'}[type] ?? type",
+      "amount": "amount",
+      "unit": "'tonne'"
+    }
+  },
+  {
+    "indicators": {
+      "waste-closedloop-type": "type",
+      "waste-closedloop-quantity": "amount"
+    },
+    "extract": {
+      "activity": "'Waste Recycled - Closed-loop'",
+      "type": "{'Books':'Books','Clothes':'Clothes','Construction - Aggregates':'Construction - Aggregates','Construction - Asphalt':'Construction - Asphalt','Construction - Concrete':'Construction - Concrete','Construction - Insulation':'Construction - Insulation','Construction - Metals':'Construction - Metals','Construction - Mineral oil':'Construction - Mineral oil','Construction - Mixed':'Construction - Mixed','Construction - Plasterboard':'Construction - Plasterboard','Construction - Soils':'Construction - Soils','Construction - Tyres':'Construction - Tyres','Construction - Wood':'Construction - Wood','Glass':'Glass','Metal Cans - Aluminium':'Metal Cans - Aluminium','Metal Cans - Mixed':'Metal Cans - Mixed','Metal Cans - Steel':'Metal Cans - Steel','Metal Foil - Aluminium':'Metal Foil - Aluminium','Metal Scrap':'Metal Scrap','Paper - Board':'Paper - Board','Paper - Mixed':'Paper - Mixed','Paper - Sheet':'Paper - Sheet','Plastics - Film':'Plastics - Film','Plastics - HDPE':'Plastics - HDPE','Plastics - LDPE':'Plastics - LDPE','Plastics - Mixed':'Plastics - Mixed','Plastics - PET':'Plastics - PET','Plastics - PP':'Plastics - PP','Plastics - PS':'Plastics - PS','Plastics - PVC':'Plastics - PVC','Plastics - Rigid':'Plastics - Rigid'}[type] ?? type",
+      "amount": "amount",
+      "unit": "'tonne'"
+    }
+  },
+  {
+    "indicators": {
+      "waste-incineration-type": "type",
+      "waste-incineration-quantity": "amount"
+    },
+    "extract": {
+      "activity": "'Waste Incineration with Energy Recovery'",
+      "type": "{'Books':'Books','Clothes':'Clothes','Commercial and industrial':'Commercial and industrial','Construction - Mineral oil':'Construction - Mineral oil','Construction - Mixed':'Construction - Mixed','Construction - Wood':'Construction - Wood','Electric Items - Large':'Electric Items - Large','Electric Items - Mixed':'Electric Items - Mixed','Electric Items - Small':'Electric Items - Small','Glass':'Glass','Household residual':'Household residual','Metal Cans - Aluminium':'Metal Cans - Aluminium','Metal Cans - Mixed':'Metal Cans - Mixed','Metal Cans - Steel':'Metal Cans - Steel','Metal Foil - Aluminium':'Metal Foil - Aluminium','Metal Scrap':'Metal Scrap','Organic - Food and drink waste':'Organic - Food and drink waste','Organic - Food and garden waste':'Organic - Food and garden waste','Organic - Garden waste':'Organic - Garden waste','Paper - Board':'Paper - Board','Paper - Mixed':'Paper - Mixed','Paper - Sheet':'Paper - Sheet','Plastics - Film':'Plastics - Film','Plastics - HDPE':'Plastics - HDPE','Plastics - LDPE':'Plastics - LDPE','Plastics - Mixed':'Plastics - Mixed','Plastics - PET':'Plastics - PET','Plastics - PP':'Plastics - PP','Plastics - PS':'Plastics - PS','Plastics - PVC':'Plastics - PVC','Plastics - Rigid':'Plastics - Rigid'}[type] ?? type",
+      "amount": "amount",
+      "unit": "'tonne'"
+    }
+  },
+  {
+    "indicators": {
+      "waste-composting-type": "type",
+      "waste-composting-quantity": "amount"
+    },
+    "extract": {
+      "activity": "'Waste Disposal - Composting'",
+      "type": "{'Books':'Books','Construction - Wood':'Construction - Wood','Organic - Food and drink waste':'Organic - Food and drink waste','Organic - Food and garden waste':'Organic - Food and garden waste','Organic - Garden waste':'Organic - Garden waste','Paper - Board':'Paper - Board','Paper - Mixed':'Paper - Mixed','Paper - Sheet':'Paper - Sheet'}[type] ?? type",
+      "amount": "amount",
+      "unit": "'tonne'"
+    }
+  },
+  {
+    "indicators": {
+      "waste-landfill-type": "type",
+      "waste-landfill-quantity": "amount"
+    },
+    "extract": {
+      "activity": "'Waste Disposal - Landfill'",
+      "type": "{'Books':'Books','Clothes':'Clothes','Commercial and industrial':'Commercial and industrial','Construction - Aggregates':'Construction - Aggregates','Construction - Asbestos':'Construction - Asbestos','Construction - Asphalt':'Construction - Asphalt','Construction - Bricks':'Construction - Bricks','Construction - Concrete':'Construction - Concrete','Construction - Insulation':'Construction - Insulation','Construction - Metals':'Construction - Metals','Construction - Plasterboard':'Construction - Plasterboard','Construction - Soils':'Construction - Soils','Construction - Wood':'Construction - Wood','Electric Items - Batteries':'Electric Items - Batteries','Electric Items - Fridges and Freezers':'Electric Items - Fridges and Freezers','Electric Items - Large':'Electric Items - Large','Electric Items - Mixed':'Electric Items - Mixed','Electric Items - Small':'Electric Items - Small','Glass':'Glass','Household residual':'Household residual','Metal Cans - Aluminium':'Metal Cans - Aluminium','Metal Cans - Mixed':'Metal Cans - Mixed','Metal Cans - Steel':'Metal Cans - Steel','Metal Foil - Aluminium':'Metal Foil - Aluminium','Metal Scrap':'Metal Scrap','Organic - Food and drink waste':'Organic - Food and drink waste','Organic - Food and garden waste':'Organic - Food and garden waste','Organic - Garden waste':'Organic - Garden waste','Paper - Board':'Paper - Board','Paper - Mixed':'Paper - Mixed','Paper - Sheet':'Paper - Sheet','Plastics - Film':'Plastics - Film','Plastics - HDPE':'Plastics - HDPE','Plastics - LDPE':'Plastics - LDPE','Plastics - Mixed':'Plastics - Mixed','Plastics - PET':'Plastics - PET','Plastics - PP':'Plastics - PP','Plastics - PS':'Plastics - PS','Plastics - PVC':'Plastics - PVC','Plastics - Rigid':'Plastics - Rigid'}[type] ?? type",
+      "amount": "amount",
+      "unit": "'tonne'"
+    }
+  },
+  {
+    "indicators": {
+      "waste-anaerobic-type": "type",
+      "waste-anaerobic-quantity": "amount"
+    },
+    "extract": {
+      "activity": "'Waste Disposal - Anaerobic digestion'",
+      "type": "{'Organic - Food and drink waste':'Organic - Food and drink waste','Organic - Food and garden waste':'Organic - Food and garden waste','Organic - Garden waste':'Organic - Garden waste'}[type] ?? type",
       "amount": "amount",
       "unit": "'tonne'"
     }

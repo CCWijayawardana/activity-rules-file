@@ -3387,227 +3387,6 @@
             ]
         },
         "questions": {
-            "question1777879054215": {
-                "type": "hTable",
-                "index": 1,
-                "order": 2,
-                "title": "Waste Recycled - Open-loop",
-                "options": {
-                    "column1": {
-                        "type": "dropdown",
-                        "index": 0,
-                        "label": "M5A-01 Waste Type",
-                        "options": {
-                            "Construction - Aggregates": {
-                                "index": 0,
-                                "value": "Construction - Aggregates"
-                            },
-                            "Construction - Asphalt": {
-                                "index": 1,
-                                "value": "Construction - Asphalt"
-                            },
-                            "Construction - Bricks": {
-                                "index": 2,
-                                "value": "Construction - Bricks"
-                            },
-                            "Construction - Concrete": {
-                                "index": 3,
-                                "value": "Construction - Concrete"
-                            },
-                            "Construction - Mixed": {
-                                "index": 4,
-                                "value": "Construction - Mixed"
-                            },
-                            "Electric Items - Batteries": {
-                                "index": 5,
-                                "value": "Electric Items - Batteries"
-                            },
-                            "Electric Items - Fridges and Freezers": {
-                                "index": 6,
-                                "value": "Electric Items - Fridges and Freezers"
-                            },
-                            "Electric Items - Large": {
-                                "index": 7,
-                                "value": "Electric Items - Large"
-                            },
-                            "Electric Items - Mixed": {
-                                "index": 8,
-                                "value": "Electric Items - Mixed"
-                            },
-                            "Electric Items - Small": {
-                                "index": 9,
-                                "value": "Electric Items - Small"
-                            },
-                            "Glass": {
-                                "index": 10,
-                                "value": "Glass"
-                            },
-                            "Metal Cans - Aluminium": {
-                                "index": 11,
-                                "value": "Metal Cans - Aluminium"
-                            },
-                            "Metal Cans - Mixed": {
-                                "index": 12,
-                                "value": "Metal Cans - Mixed"
-                            },
-                            "Metal Cans - Steel": {
-                                "index": 13,
-                                "value": "Metal Cans - Steel"
-                            },
-                            "Metal Foil - Aluminium": {
-                                "index": 14,
-                                "value": "Metal Foil - Aluminium"
-                            },
-                            "Metal Scrap": {
-                                "index": 15,
-                                "value": "Metal Scrap"
-                            },
-                            "Plastics - Film": {
-                                "index": 16,
-                                "value": "Plastics - Film"
-                            },
-                            "Plastics - HDPE": {
-                                "index": 17,
-                                "value": "Plastics - HDPE"
-                            },
-                            "Plastics - LDPE": {
-                                "index": 18,
-                                "value": "Plastics - LDPE"
-                            },
-                            "Plastics - Mixed": {
-                                "index": 19,
-                                "value": "Plastics - Mixed"
-                            },
-                            "Plastics - PET": {
-                                "index": 20,
-                                "value": "Plastics - PET"
-                            },
-                            "Plastics - PP": {
-                                "index": 21,
-                                "value": "Plastics - PP"
-                            },
-                            "Plastics - PS": {
-                                "index": 22,
-                                "value": "Plastics - PS"
-                            },
-                            "Plastics - PVC": {
-                                "index": 23,
-                                "value": "Plastics - PVC"
-                            },
-                            "Plastics - Rigid": {
-                                "index": 24,
-                                "value": "Plastics - Rigid"
-                            }
-                        },
-                        "required": false,
-                        "indicator": "",
-                        "validation": [
-                            {
-                                "regex": "",
-                                "errorMessage": ""
-                            }
-                        ]
-                    },
-                    "column2": {
-                        "type": "text",
-                        "index": 1,
-                        "label": "M5A-02 Waste Quantity (tonnes)",
-                        "required": false,
-                        "indicator": "",
-                        "validation": [
-                            {
-                                "regex": "",
-                                "errorMessage": ""
-                            }
-                        ],
-                        "xlsxMapping": {
-                            "cellRef": "",
-                            "sheetName": ""
-                        }
-                    },
-                    "column3": {
-                        "type": "dropdown",
-                        "index": 2,
-                        "label": "M5A-03 Treatment Method",
-                        "options": {
-                            "Landfill": {
-                                "index": 0,
-                                "value": "Landfill"
-                            },
-                            "Open-loop": {
-                                "index": 1,
-                                "value": "Open-loop"
-                            },
-                            "Combustion": {
-                                "index": 3,
-                                "value": "Combustion"
-                            },
-                            "Composting": {
-                                "index": 4,
-                                "value": "Composting"
-                            },
-                            "Closed-loop": {
-                                "index": 2,
-                                "value": "Closed-loop"
-                            },
-                            "Anaerobic digestion": {
-                                "index": 5,
-                                "value": "Anaerobic digestion"
-                            }
-                        },
-                        "required": false,
-                        "indicator": "",
-                        "validation": [
-                            {
-                                "regex": "",
-                                "errorMessage": ""
-                            }
-                        ]
-                    },
-                    "column4": {
-                        "type": "text",
-                        "index": 3,
-                        "label": "M5A-04 Diversion from Landfill (%)",
-                        "required": false,
-                        "indicator": "",
-                        "validation": [
-                            {
-                                "regex": "",
-                                "errorMessage": ""
-                            }
-                        ],
-                        "xlsxMapping": {
-                            "cellRef": "",
-                            "sheetName": ""
-                        }
-                    },
-                    "column5": {
-                        "type": "text",
-                        "index": 4,
-                        "label": "M5A-05 Distance to Treatment Facility (km)",
-                        "required": false,
-                        "indicator": "",
-                        "validation": [
-                            {
-                                "regex": "",
-                                "errorMessage": ""
-                            }
-                        ],
-                        "xlsxMapping": {
-                            "cellRef": "",
-                            "sheetName": ""
-                        }
-                    }
-                },
-                "helpText": "Please enter each waste type recorded.",
-                "required": false,
-                "condition": {
-                    "op": "EQ",
-                    "value": "No",
-                    "sectionId": "section16",
-                    "questionId": "question1777888686012"
-                }
-            },
             "question1777888686012": {
                 "type": "radio",
                 "index": 0,
@@ -3646,73 +3425,13 @@
                                 "index": 0,
                                 "value": "Books"
                             },
-                            "Clothes": {
-                                "index": 1,
-                                "value": "Clothes"
-                            },
-                            "Construction - Aggregates": {
-                                "index": 2,
-                                "value": "Construction - Aggregates"
-                            },
-                            "Construction - Asphalt": {
-                                "index": 3,
-                                "value": "Construction - Asphalt"
-                            },
-                            "Construction - Concrete": {
-                                "index": 4,
-                                "value": "Construction - Concrete"
-                            },
-                            "Construction - Insulation": {
-                                "index": 5,
-                                "value": "Construction - Insulation"
-                            },
-                            "Construction - Metals": {
-                                "index": 6,
-                                "value": "Construction - Metals"
-                            },
-                            "Construction - Mineral oil": {
-                                "index": 7,
-                                "value": "Construction - Mineral oil"
-                            },
-                            "Construction - Mixed": {
-                                "index": 8,
-                                "value": "Construction - Mixed"
-                            },
-                            "Construction - Plasterboard": {
-                                "index": 9,
-                                "value": "Construction - Plasterboard"
-                            },
-                            "Construction - Soils": {
-                                "index": 10,
-                                "value": "Construction - Soils"
-                            },
-                            "Construction - Tyres": {
-                                "index": 11,
-                                "value": "Construction - Tyres"
-                            },
-                            "Construction - Wood": {
-                                "index": 12,
-                                "value": "Construction - Wood"
-                            },
                             "Glass": {
                                 "index": 13,
                                 "value": "Glass"
                             },
-                            "Metal Cans - Aluminium": {
-                                "index": 14,
-                                "value": "Metal Cans - Aluminium"
-                            },
-                            "Metal Cans - Mixed": {
-                                "index": 15,
-                                "value": "Metal Cans - Mixed"
-                            },
-                            "Metal Cans - Steel": {
-                                "index": 16,
-                                "value": "Metal Cans - Steel"
-                            },
-                            "Metal Foil - Aluminium": {
-                                "index": 17,
-                                "value": "Metal Foil - Aluminium"
+                            "Clothes": {
+                                "index": 1,
+                                "value": "Clothes"
                             },
                             "Metal Scrap": {
                                 "index": 18,
@@ -3730,6 +3449,22 @@
                                 "index": 21,
                                 "value": "Paper - Sheet"
                             },
+                            "Plastics - PP": {
+                                "index": 27,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 28,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PET": {
+                                "index": 26,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PVC": {
+                                "index": 29,
+                                "value": "Plastics - PVC"
+                            },
                             "Plastics - Film": {
                                 "index": 22,
                                 "value": "Plastics - Film"
@@ -3746,29 +3481,73 @@
                                 "index": 25,
                                 "value": "Plastics - Mixed"
                             },
-                            "Plastics - PET": {
-                                "index": 26,
-                                "value": "Plastics - PET"
-                            },
-                            "Plastics - PP": {
-                                "index": 27,
-                                "value": "Plastics - PP"
-                            },
-                            "Plastics - PS": {
-                                "index": 28,
-                                "value": "Plastics - PS"
-                            },
-                            "Plastics - PVC": {
-                                "index": 29,
-                                "value": "Plastics - PVC"
-                            },
                             "Plastics - Rigid": {
                                 "index": 30,
                                 "value": "Plastics - Rigid"
+                            },
+                            "Metal Cans - Mixed": {
+                                "index": 15,
+                                "value": "Metal Cans - Mixed"
+                            },
+                            "Metal Cans - Steel": {
+                                "index": 16,
+                                "value": "Metal Cans - Steel"
+                            },
+                            "Construction - Wood": {
+                                "index": 12,
+                                "value": "Construction - Wood"
+                            },
+                            "Construction - Mixed": {
+                                "index": 8,
+                                "value": "Construction - Mixed"
+                            },
+                            "Construction - Soils": {
+                                "index": 10,
+                                "value": "Construction - Soils"
+                            },
+                            "Construction - Tyres": {
+                                "index": 11,
+                                "value": "Construction - Tyres"
+                            },
+                            "Construction - Metals": {
+                                "index": 6,
+                                "value": "Construction - Metals"
+                            },
+                            "Construction - Asphalt": {
+                                "index": 3,
+                                "value": "Construction - Asphalt"
+                            },
+                            "Metal Cans - Aluminium": {
+                                "index": 14,
+                                "value": "Metal Cans - Aluminium"
+                            },
+                            "Metal Foil - Aluminium": {
+                                "index": 17,
+                                "value": "Metal Foil - Aluminium"
+                            },
+                            "Construction - Concrete": {
+                                "index": 4,
+                                "value": "Construction - Concrete"
+                            },
+                            "Construction - Aggregates": {
+                                "index": 2,
+                                "value": "Construction - Aggregates"
+                            },
+                            "Construction - Insulation": {
+                                "index": 5,
+                                "value": "Construction - Insulation"
+                            },
+                            "Construction - Mineral oil": {
+                                "index": 7,
+                                "value": "Construction - Mineral oil"
+                            },
+                            "Construction - Plasterboard": {
+                                "index": 9,
+                                "value": "Construction - Plasterboard"
                             }
                         },
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-closedloop-type",
                         "validation": [
                             {
                                 "regex": "",
@@ -3781,7 +3560,7 @@
                         "index": 1,
                         "label": "Quantity",
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-closedloop-quantity",
                         "validation": [
                             {
                                 "regex": "",
@@ -3880,77 +3659,17 @@
                                 "index": 0,
                                 "value": "Books"
                             },
-                            "Clothes": {
-                                "index": 1,
-                                "value": "Clothes"
-                            },
-                            "Commercial and industrial": {
-                                "index": 2,
-                                "value": "Commercial and industrial"
-                            },
-                            "Construction - Mineral oil": {
-                                "index": 3,
-                                "value": "Construction - Mineral oil"
-                            },
-                            "Construction - Mixed": {
-                                "index": 4,
-                                "value": "Construction - Mixed"
-                            },
-                            "Construction - Wood": {
-                                "index": 5,
-                                "value": "Construction - Wood"
-                            },
-                            "Electric Items - Large": {
-                                "index": 6,
-                                "value": "Electric Items - Large"
-                            },
-                            "Electric Items - Mixed": {
-                                "index": 7,
-                                "value": "Electric Items - Mixed"
-                            },
-                            "Electric Items - Small": {
-                                "index": 8,
-                                "value": "Electric Items - Small"
-                            },
                             "Glass": {
                                 "index": 9,
                                 "value": "Glass"
                             },
-                            "Household residual": {
-                                "index": 10,
-                                "value": "Household residual"
-                            },
-                            "Metal Cans - Aluminium": {
-                                "index": 11,
-                                "value": "Metal Cans - Aluminium"
-                            },
-                            "Metal Cans - Mixed": {
-                                "index": 12,
-                                "value": "Metal Cans - Mixed"
-                            },
-                            "Metal Cans - Steel": {
-                                "index": 13,
-                                "value": "Metal Cans - Steel"
-                            },
-                            "Metal Foil - Aluminium": {
-                                "index": 14,
-                                "value": "Metal Foil - Aluminium"
+                            "Clothes": {
+                                "index": 1,
+                                "value": "Clothes"
                             },
                             "Metal Scrap": {
                                 "index": 15,
                                 "value": "Metal Scrap"
-                            },
-                            "Organic - Food and drink waste": {
-                                "index": 16,
-                                "value": "Organic - Food and drink waste"
-                            },
-                            "Organic - Food and garden waste": {
-                                "index": 17,
-                                "value": "Organic - Food and garden waste"
-                            },
-                            "Organic - Garden waste": {
-                                "index": 18,
-                                "value": "Organic - Garden waste"
                             },
                             "Paper - Board": {
                                 "index": 19,
@@ -3963,6 +3682,22 @@
                             "Paper - Sheet": {
                                 "index": 21,
                                 "value": "Paper - Sheet"
+                            },
+                            "Plastics - PP": {
+                                "index": 27,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 28,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PET": {
+                                "index": 26,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PVC": {
+                                "index": 29,
+                                "value": "Plastics - PVC"
                             },
                             "Plastics - Film": {
                                 "index": 22,
@@ -3980,29 +3715,73 @@
                                 "index": 25,
                                 "value": "Plastics - Mixed"
                             },
-                            "Plastics - PET": {
-                                "index": 26,
-                                "value": "Plastics - PET"
-                            },
-                            "Plastics - PP": {
-                                "index": 27,
-                                "value": "Plastics - PP"
-                            },
-                            "Plastics - PS": {
-                                "index": 28,
-                                "value": "Plastics - PS"
-                            },
-                            "Plastics - PVC": {
-                                "index": 29,
-                                "value": "Plastics - PVC"
-                            },
                             "Plastics - Rigid": {
                                 "index": 30,
                                 "value": "Plastics - Rigid"
+                            },
+                            "Household residual": {
+                                "index": 10,
+                                "value": "Household residual"
+                            },
+                            "Metal Cans - Mixed": {
+                                "index": 12,
+                                "value": "Metal Cans - Mixed"
+                            },
+                            "Metal Cans - Steel": {
+                                "index": 13,
+                                "value": "Metal Cans - Steel"
+                            },
+                            "Construction - Wood": {
+                                "index": 5,
+                                "value": "Construction - Wood"
+                            },
+                            "Construction - Mixed": {
+                                "index": 4,
+                                "value": "Construction - Mixed"
+                            },
+                            "Electric Items - Large": {
+                                "index": 6,
+                                "value": "Electric Items - Large"
+                            },
+                            "Electric Items - Mixed": {
+                                "index": 7,
+                                "value": "Electric Items - Mixed"
+                            },
+                            "Electric Items - Small": {
+                                "index": 8,
+                                "value": "Electric Items - Small"
+                            },
+                            "Metal Cans - Aluminium": {
+                                "index": 11,
+                                "value": "Metal Cans - Aluminium"
+                            },
+                            "Metal Foil - Aluminium": {
+                                "index": 14,
+                                "value": "Metal Foil - Aluminium"
+                            },
+                            "Organic - Garden waste": {
+                                "index": 18,
+                                "value": "Organic - Garden waste"
+                            },
+                            "Commercial and industrial": {
+                                "index": 2,
+                                "value": "Commercial and industrial"
+                            },
+                            "Construction - Mineral oil": {
+                                "index": 3,
+                                "value": "Construction - Mineral oil"
+                            },
+                            "Organic - Food and drink waste": {
+                                "index": 16,
+                                "value": "Organic - Food and drink waste"
+                            },
+                            "Organic - Food and garden waste": {
+                                "index": 17,
+                                "value": "Organic - Food and garden waste"
                             }
                         },
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-incineration-type",
                         "validation": [
                             {
                                 "regex": "",
@@ -4015,7 +3794,7 @@
                         "index": 1,
                         "label": "Quantity",
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-incineration-quantity",
                         "validation": [
                             {
                                 "regex": "",
@@ -4107,22 +3886,6 @@
                                 "index": 0,
                                 "value": "Books"
                             },
-                            "Construction - Wood": {
-                                "index": 1,
-                                "value": "Construction - Wood"
-                            },
-                            "Organic - Food and drink waste": {
-                                "index": 2,
-                                "value": "Organic - Food and drink waste"
-                            },
-                            "Organic - Food and garden waste": {
-                                "index": 3,
-                                "value": "Organic - Food and garden waste"
-                            },
-                            "Organic - Garden waste": {
-                                "index": 4,
-                                "value": "Organic - Garden waste"
-                            },
                             "Paper - Board": {
                                 "index": 5,
                                 "value": "Paper - Board"
@@ -4134,10 +3897,26 @@
                             "Paper - Sheet": {
                                 "index": 7,
                                 "value": "Paper - Sheet"
+                            },
+                            "Construction - Wood": {
+                                "index": 1,
+                                "value": "Construction - Wood"
+                            },
+                            "Organic - Garden waste": {
+                                "index": 4,
+                                "value": "Organic - Garden waste"
+                            },
+                            "Organic - Food and drink waste": {
+                                "index": 2,
+                                "value": "Organic - Food and drink waste"
+                            },
+                            "Organic - Food and garden waste": {
+                                "index": 3,
+                                "value": "Organic - Food and garden waste"
                             }
                         },
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-composting-type",
                         "validation": [
                             {
                                 "regex": "",
@@ -4150,7 +3929,7 @@
                         "index": 1,
                         "label": "Quantity",
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-composting-quantity",
                         "validation": [
                             {
                                 "regex": "",
@@ -4245,109 +4024,13 @@
                         "index": 0,
                         "label": "Waste Type",
                         "options": {
-                            "Commercial and industrial": {
-                                "index": 0,
-                                "value": "Commercial and industrial"
-                            },
-                            "Construction - Aggregates": {
-                                "index": 1,
-                                "value": "Construction - Aggregates"
-                            },
-                            "Construction - Asbestos": {
-                                "index": 2,
-                                "value": "Construction - Asbestos"
-                            },
-                            "Construction - Asphalt": {
-                                "index": 3,
-                                "value": "Construction - Asphalt"
-                            },
-                            "Construction - Bricks": {
-                                "index": 4,
-                                "value": "Construction - Bricks"
-                            },
-                            "Construction - Concrete": {
-                                "index": 5,
-                                "value": "Construction - Concrete"
-                            },
-                            "Construction - Insulation": {
-                                "index": 6,
-                                "value": "Construction - Insulation"
-                            },
-                            "Construction - Metals": {
-                                "index": 7,
-                                "value": "Construction - Metals"
-                            },
-                            "Construction - Plasterboard": {
-                                "index": 8,
-                                "value": "Construction - Plasterboard"
-                            },
-                            "Construction - Soils": {
-                                "index": 9,
-                                "value": "Construction - Soils"
-                            },
-                            "Construction - Wood": {
-                                "index": 10,
-                                "value": "Construction - Wood"
-                            },
-                            "Electric Items - Batteries": {
-                                "index": 11,
-                                "value": "Electric Items - Batteries"
-                            },
-                            "Electric Items - Fridges and Freezers": {
-                                "index": 12,
-                                "value": "Electric Items - Fridges and Freezers"
-                            },
-                            "Electric Items - Large": {
-                                "index": 13,
-                                "value": "Electric Items - Large"
-                            },
-                            "Electric Items - Mixed": {
-                                "index": 14,
-                                "value": "Electric Items - Mixed"
-                            },
-                            "Electric Items - Small": {
-                                "index": 15,
-                                "value": "Electric Items - Small"
-                            },
                             "Glass": {
                                 "index": 16,
                                 "value": "Glass"
                             },
-                            "Household residual": {
-                                "index": 17,
-                                "value": "Household residual"
-                            },
-                            "Metal Cans - Aluminium": {
-                                "index": 18,
-                                "value": "Metal Cans - Aluminium"
-                            },
-                            "Metal Cans - Mixed": {
-                                "index": 19,
-                                "value": "Metal Cans - Mixed"
-                            },
-                            "Metal Cans - Steel": {
-                                "index": 20,
-                                "value": "Metal Cans - Steel"
-                            },
-                            "Metal Foil - Aluminium": {
-                                "index": 21,
-                                "value": "Metal Foil - Aluminium"
-                            },
                             "Metal Scrap": {
                                 "index": 22,
                                 "value": "Metal Scrap"
-                            },
-                            "Organic - Food and drink waste": {
-                                "index": 23,
-                                "value": "Organic - Food and drink waste"
-                            },
-                            "Organic - Food and garden waste": {
-                                "index": 24,
-                                "value": "Organic - Food and garden waste"
-                            },
-                            "Organic - Garden waste": {
-                                "index": 25,
-                                "value": "Organic - Garden waste"
                             },
                             "Paper - Board": {
                                 "index": 26,
@@ -4360,6 +4043,22 @@
                             "Paper - Sheet": {
                                 "index": 28,
                                 "value": "Paper - Sheet"
+                            },
+                            "Plastics - PP": {
+                                "index": 34,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 35,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PET": {
+                                "index": 33,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PVC": {
+                                "index": 36,
+                                "value": "Plastics - PVC"
                             },
                             "Plastics - Film": {
                                 "index": 29,
@@ -4377,29 +4076,109 @@
                                 "index": 32,
                                 "value": "Plastics - Mixed"
                             },
-                            "Plastics - PET": {
-                                "index": 33,
-                                "value": "Plastics - PET"
-                            },
-                            "Plastics - PP": {
-                                "index": 34,
-                                "value": "Plastics - PP"
-                            },
-                            "Plastics - PS": {
-                                "index": 35,
-                                "value": "Plastics - PS"
-                            },
-                            "Plastics - PVC": {
-                                "index": 36,
-                                "value": "Plastics - PVC"
-                            },
                             "Plastics - Rigid": {
                                 "index": 37,
                                 "value": "Plastics - Rigid"
+                            },
+                            "Household residual": {
+                                "index": 17,
+                                "value": "Household residual"
+                            },
+                            "Metal Cans - Mixed": {
+                                "index": 19,
+                                "value": "Metal Cans - Mixed"
+                            },
+                            "Metal Cans - Steel": {
+                                "index": 20,
+                                "value": "Metal Cans - Steel"
+                            },
+                            "Construction - Wood": {
+                                "index": 10,
+                                "value": "Construction - Wood"
+                            },
+                            "Construction - Soils": {
+                                "index": 9,
+                                "value": "Construction - Soils"
+                            },
+                            "Construction - Bricks": {
+                                "index": 4,
+                                "value": "Construction - Bricks"
+                            },
+                            "Construction - Metals": {
+                                "index": 7,
+                                "value": "Construction - Metals"
+                            },
+                            "Construction - Asphalt": {
+                                "index": 3,
+                                "value": "Construction - Asphalt"
+                            },
+                            "Electric Items - Large": {
+                                "index": 13,
+                                "value": "Electric Items - Large"
+                            },
+                            "Electric Items - Mixed": {
+                                "index": 14,
+                                "value": "Electric Items - Mixed"
+                            },
+                            "Electric Items - Small": {
+                                "index": 15,
+                                "value": "Electric Items - Small"
+                            },
+                            "Metal Cans - Aluminium": {
+                                "index": 18,
+                                "value": "Metal Cans - Aluminium"
+                            },
+                            "Metal Foil - Aluminium": {
+                                "index": 21,
+                                "value": "Metal Foil - Aluminium"
+                            },
+                            "Organic - Garden waste": {
+                                "index": 25,
+                                "value": "Organic - Garden waste"
+                            },
+                            "Construction - Asbestos": {
+                                "index": 2,
+                                "value": "Construction - Asbestos"
+                            },
+                            "Construction - Concrete": {
+                                "index": 5,
+                                "value": "Construction - Concrete"
+                            },
+                            "Commercial and industrial": {
+                                "index": 0,
+                                "value": "Commercial and industrial"
+                            },
+                            "Construction - Aggregates": {
+                                "index": 1,
+                                "value": "Construction - Aggregates"
+                            },
+                            "Construction - Insulation": {
+                                "index": 6,
+                                "value": "Construction - Insulation"
+                            },
+                            "Electric Items - Batteries": {
+                                "index": 11,
+                                "value": "Electric Items - Batteries"
+                            },
+                            "Construction - Plasterboard": {
+                                "index": 8,
+                                "value": "Construction - Plasterboard"
+                            },
+                            "Organic - Food and drink waste": {
+                                "index": 23,
+                                "value": "Organic - Food and drink waste"
+                            },
+                            "Organic - Food and garden waste": {
+                                "index": 24,
+                                "value": "Organic - Food and garden waste"
+                            },
+                            "Electric Items - Fridges and Freezers": {
+                                "index": 12,
+                                "value": "Electric Items - Fridges and Freezers"
                             }
                         },
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-landfill-type",
                         "validation": [
                             {
                                 "regex": "",
@@ -4412,7 +4191,7 @@
                         "index": 1,
                         "label": "Quantity",
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-landfill-quantity",
                         "validation": [
                             {
                                 "regex": "",
@@ -4507,6 +4286,10 @@
                         "index": 0,
                         "label": "Waste Type",
                         "options": {
+                            "Organic - Garden waste": {
+                                "index": 2,
+                                "value": "Organic - Garden waste"
+                            },
                             "Organic - Food and drink waste": {
                                 "index": 0,
                                 "value": "Organic - Food and drink waste"
@@ -4514,14 +4297,10 @@
                             "Organic - Food and garden waste": {
                                 "index": 1,
                                 "value": "Organic - Food and garden waste"
-                            },
-                            "Organic - Garden waste": {
-                                "index": 2,
-                                "value": "Organic - Garden waste"
                             }
                         },
                         "required": false,
-                        "indicator": "",
+                        "indicator": "waste-anaerobic-type",
                         "validation": [
                             {
                                 "regex": "",
@@ -4534,6 +4313,23 @@
                         "index": 1,
                         "label": "Quantity",
                         "required": false,
+                        "indicator": "waste-anaerobic-quantity",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column3": {
+                        "type": "text",
+                        "index": 2,
+                        "label": "Unit",
+                        "required": false,
                         "indicator": "",
                         "validation": [
                             {
@@ -4545,6 +4341,192 @@
                             "cellRef": "",
                             "sheetName": ""
                         }
+                    },
+                    "column4": {
+                        "type": "text",
+                        "index": 3,
+                        "label": "Treatment Method",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column5": {
+                        "type": "text",
+                        "index": 4,
+                        "label": "Diversion %",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    },
+                    "column6": {
+                        "type": "text",
+                        "index": 5,
+                        "label": "Distance (km)",
+                        "required": false,
+                        "indicator": "",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ],
+                        "xlsxMapping": {
+                            "cellRef": "",
+                            "sheetName": ""
+                        }
+                    }
+                },
+                "helpText": "",
+                "required": false
+            },
+            "question1780301576896": {
+                "type": "hTable",
+                "index": 1,
+                "order": 2,
+                "title": "Waste Recycled - Open-loop",
+                "options": {
+                    "column1": {
+                        "type": "dropdown",
+                        "index": 0,
+                        "label": "Waste Type",
+                        "options": {
+                            "Construction - Aggregates": {
+                                "index": 0,
+                                "value": "Construction - Aggregates"
+                            },
+                            "Construction - Asphalt": {
+                                "index": 1,
+                                "value": "Construction - Asphalt"
+                            },
+                            "Construction - Bricks": {
+                                "index": 2,
+                                "value": "Construction - Bricks"
+                            },
+                            "Construction - Concrete": {
+                                "index": 3,
+                                "value": "Construction - Concrete"
+                            },
+                            "Construction - Mixed": {
+                                "index": 4,
+                                "value": "Construction - Mixed"
+                            },
+                            "Electric Items - Batteries": {
+                                "index": 5,
+                                "value": "Electric Items - Batteries"
+                            },
+                            "Electric Items - Fridges and Freezers": {
+                                "index": 6,
+                                "value": "Electric Items - Fridges and Freezers"
+                            },
+                            "Electric Items - Large": {
+                                "index": 7,
+                                "value": "Electric Items - Large"
+                            },
+                            "Electric Items - Mixed": {
+                                "index": 8,
+                                "value": "Electric Items - Mixed"
+                            },
+                            "Electric Items - Small": {
+                                "index": 9,
+                                "value": "Electric Items - Small"
+                            },
+                            "Glass": {
+                                "index": 10,
+                                "value": "Glass"
+                            },
+                            "Metal Cans - Aluminium": {
+                                "index": 11,
+                                "value": "Metal Cans - Aluminium"
+                            },
+                            "Metal Cans - Mixed": {
+                                "index": 12,
+                                "value": "Metal Cans - Mixed"
+                            },
+                            "Metal Cans - Steel": {
+                                "index": 13,
+                                "value": "Metal Cans - Steel"
+                            },
+                            "Metal Foil - Aluminium": {
+                                "index": 14,
+                                "value": "Metal Foil - Aluminium"
+                            },
+                            "Metal Scrap": {
+                                "index": 15,
+                                "value": "Metal Scrap"
+                            },
+                            "Plastics - Film": {
+                                "index": 16,
+                                "value": "Plastics - Film"
+                            },
+                            "Plastics - HDPE": {
+                                "index": 17,
+                                "value": "Plastics - HDPE"
+                            },
+                            "Plastics - LDPE": {
+                                "index": 18,
+                                "value": "Plastics - LDPE"
+                            },
+                            "Plastics - Mixed": {
+                                "index": 19,
+                                "value": "Plastics - Mixed"
+                            },
+                            "Plastics - PET": {
+                                "index": 20,
+                                "value": "Plastics - PET"
+                            },
+                            "Plastics - PP": {
+                                "index": 21,
+                                "value": "Plastics - PP"
+                            },
+                            "Plastics - PS": {
+                                "index": 22,
+                                "value": "Plastics - PS"
+                            },
+                            "Plastics - PVC": {
+                                "index": 23,
+                                "value": "Plastics - PVC"
+                            }
+                        },
+                        "required": false,
+                        "indicator": "waste-openloop-type",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
+                    },
+                    "column2": {
+                        "step": 1,
+                        "type": "number",
+                        "index": 1,
+                        "label": "Quantity",
+                        "required": false,
+                        "indicator": "waste-openloop-quantity",
+                        "validation": [
+                            {
+                                "regex": "",
+                                "errorMessage": ""
+                            }
+                        ]
                     },
                     "column3": {
                         "type": "text",

@@ -10212,819 +10212,1209 @@
         },
         {
             "id": "EN001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Energy use for owned or controlled equipment'&&type=='Natural Gas'&&unit=='kWh'",
             "function": "return [{source:'defra-2025',indicator:\"Fuels/Gaseous fuels/Natural gas\",scope:1,category:'Direct Energy',uom:'kWh'}]"
         },
         {
             "id": "EN002",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Energy use for owned or controlled equipment'&&type=='Electricity'&&unit=='kWh'",
             "function": "return [{source:'defra-2025',indicator:\"UK electricity/Electricity generated/Electricity: UK/kWh\",scope:2,category:'Purchased Electricity',uom:'kWh'}]"
         },
         {
             "id": "EN003",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Energy use for owned or controlled equipment'&&type=='Diesel'&&unit=='l'",
             "function": "return [{source:'defra-2025',indicator:\"Fuels/Liquid fuels/Diesel (100% mineral diesel)\",scope:1,category:'Direct Energy',uom:'l'}]"
         },
         {
             "id": "EN004",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Energy use for owned or controlled equipment'&&type=='Petrol'&&unit=='l'",
             "function": "return [{source:'defra-2025',indicator:\"Fuels/Liquid fuels/Petrol (100% mineral petrol)\",scope:1,category:'Direct Energy',uom:'l'}]"
         },
         {
             "id": "EN005",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Energy use for owned or controlled equipment'&&type=='Gas Oil'&&unit=='l'",
             "function": "return [{source:'defra-2025',indicator:\"Fuels/Liquid fuels/Gas oil\",scope:1,category:'Direct Energy',uom:'l'}]"
         },
         {
             "id": "EN006",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Energy use for owned or controlled equipment'&&type=='LPG'&&unit=='kWh'",
             "function": "return [{source:'defra-2025',indicator:\"Fuels/Gaseous fuels/LPG\",scope:1,category:'Direct Energy',uom:'kWh'}]"
         },
         {
             "id": "EN007",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Energy use for owned or controlled equipment'&&type=='LPG'&&unit=='l'",
             "function": "return [{source:'defra-2025',indicator:\"Fuels/Gaseous fuels/LPG\",scope:1,category:'Direct Energy',uom:'l'}]"
         },
         {
             "id": "AR001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Air'&&type=='Flight Domestic'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Freight flights/Domestic, to/from UK/Without RF\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- freight flights/Domestic, to/from UK/Without RF\",scope:3,category:'WTT'}]"
         },
         {
             "id": "AR002",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Air'&&type=='Flight Short-haul'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Freight flights/Short-haul, to/from UK/Without RF\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- freight flights/Short-haul, to/from UK/Without RF\",scope:3,category:'WTT'}]"
         },
         {
             "id": "AR003",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Air'&&type=='Flight Long-haul'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Freight flights/Long-haul, to/from UK/Without RF\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- freight flights/Long-haul, to/from UK/Without RF\",scope:3,category:'WTT'}]"
         },
         {
             "id": "AR004",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Air'&&type=='Flight International'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Freight flights/International, to/from non-UK/Without RF\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- freight flights/International, to/from non-UK/Without RF\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Van Class I'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Vans/Class I (up to 1.305 tonnes)/Diesel\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- vans/Class I (up to 1.305 tonnes)/Diesel\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO001i",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Van Class II'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Vans/Class II (1.305 to 1.74 tonnes)/Diesel\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- vans/Class II (1.305 to 1.74 tonnes)/Diesel\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO001ii",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Van Class III'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Vans/Class III (1.74 to 3.5 tonnes)/Diesel\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- vans/Class III (1.74 to 3.5 tonnes)/Diesel\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO004",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Van'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Vans/Average (up to 3.5 tonnes)/Diesel\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- vans/Average (up to 3.5 tonnes)/Diesel\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO005",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV Rigid (>3.5 - 7.5 tonnes)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/Rigid (>3.5 - 7.5 tonnes)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/Rigid (>3.5 - 7.5 tonnes)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO006",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV Rigid (>7.5 tonnes-17 tonnes)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/Rigid (>7.5 tonnes-17 tonnes)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/Rigid (>7.5 tonnes-17 tonnes)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO007",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV Rigid (>17 tonnes)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/Rigid (>17 tonnes)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/Rigid (>17 tonnes)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO008",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV Rigid All'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/All rigids/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/All rigids/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO009",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV Articulated (>3.5 - 33t)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/Articulated (>3.5 - 33t)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/Articulated (>3.5 - 33t)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO010",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV Articulated (>33t)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/Articulated (>33t)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/Articulated (>33t)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO011",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV Articulated All'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/All artics/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/All artics/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO012",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='HGV All'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV (all diesel)/All HGVs/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV (all diesel)/All HGVs/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO013",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV Rigid (>3.5 - 7.5 tonnes)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/Rigid (>3.5 - 7.5 tonnes)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/Rigid (>3.5 - 7.5 tonnes)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO014",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV Rigid (>7.5 tonnes-17 tonnes)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/Rigid (>7.5 tonnes-17 tonnes)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/Rigid (>7.5 tonnes-17 tonnes)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO015",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV Rigid (>17 tonnes)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/Rigid (>17 tonnes)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/Rigid (>17 tonnes)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO016",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV Rigid All'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/All rigids/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/All rigids/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO017",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV Articulated (>3.5 - 33t)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/Articulated (>3.5 - 33t)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/Articulated (>3.5 - 33t)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO018",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV Articulated (>33t)'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/Articulated (>33t)/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/Articulated (>33t)/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO019",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV Articulated All'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/All artics/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/All artics/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RO020",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Road'&&type=='Refrigerated HGV All'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/HGV refrigerated (all diesel)/All HGVs/Average laden\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- HGV refrigerated (all diesel)/All HGVs/Average laden\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Cargo Ship Bulk'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Cargo ship/Bulk carrier/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- cargo ship/Bulk carrier/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE002",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Cargo Ship General'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Cargo ship/General cargo/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- cargo ship/General cargo/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE003",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Cargo Ship Container'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Cargo ship/Container ship/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- cargo ship/Container ship/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE004",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Cargo Ship Vehicle'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Cargo ship/Vehicle transport/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- cargo ship/Vehicle transport/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE005",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Cargo Ship RoRo'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Cargo ship/RoRo-Ferry/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- cargo ship/RoRo-Ferry/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE006",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Cargo Ship Large RoPax'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Cargo ship/Large RoPax ferry/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- cargo ship/Large RoPax ferry/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE007",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Cargo Ship Refrigerated'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Cargo ship/Refrigerated cargo/All dwt\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- cargo ship/Refrigerated cargo/All dwt\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE008",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Tanker Crude'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Sea tanker/Crude tanker/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- sea tanker/Crude tanker/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE009",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Tanker Products'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Sea tanker/Products tanker/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- sea tanker/Products tanker/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE010",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Tanker Chemical'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Sea tanker/Chemical tanker/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- sea tanker/Chemical tanker/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE011",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Tanker LNG'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Sea tanker/LNG tanker/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- sea tanker/LNG tanker/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "SE012",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Sea'&&type=='Tanker LPG'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Sea tanker/LPG Tanker/Average\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- sea tanker/LPG tanker/Average\",scope:3,category:'WTT'}]"
         },
         {
             "id": "RA001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Inbound Transport - Rail'&&type=='Train'&&unit=='kg-km'",
             "function": "return [{source:'defra-2025',indicator:\"Freighting goods/Rail/Freight train\",scope:3,category:'Upstream Transportation and Distribution'},{source:'defra-2025',indicator:\"WTT- delivery vehs & freight/WTT- rail/Freight train\",scope:3,category:'WTT'}]"
         },
         {
             "id": "FB001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Beef'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Beef - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB002",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Poultry'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0','indicator': 'Food & Beverage/Alternative Meat/Poultry/Other Animal Species - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB003",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Lamb'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Lamb - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB004",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Pork'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Pork - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB005",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Fish'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Fish - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB006",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Dairy - Milk'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Milk (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB007",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Dairy - Cheese'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Cheese (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB008",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Dairy - Butter'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Butter (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB009",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Eggs'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/In Shell Table Eggs/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB010",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Grains'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Grains/Flour/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB011",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Bread'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Bread/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB012",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Fruits'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Fruits - Unprepared/Unprocessed (Fresh)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB013",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Vegetables'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB014",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Legumes'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Edible Legume Crops/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB015",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Oils'&&unit=='litre'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Oils Edible/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'litre'}]"
         },
         {
             "id": "FB016",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Sugar'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Sugars/Sugar Substitute Products/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB017",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Ready Meals'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/All Vegetarian Ready Meals/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "FB018",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Food Product Emissions'&&type=='Snacks'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Sweet Snack Bars/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Beer'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Beer/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV003",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Wine - Still'&&unit=='litre'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Wine - Still/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'litre'}]"
         },
         {
             "id": "BV004",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Wine - Sparkling'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Wine - Sparkling/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV005",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Spirits'&&unit=='kg'",
             "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Alcoholic Beverages – Spirits/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV006",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Cider'&&unit=='kg'",
             "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Alcoholic Beverages – Cider/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV007",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Soft Drinks'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Drinks Flavoured - Ready to Drink/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV008",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Juice'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Fruit Juice - Ready to Drink (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV009",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Water - Bottled'&&unit=='kg'",
             "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Non Alcoholic Beverages – Bottled Water/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV010",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Coffee'&&unit=='kg'",
             "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Coffee - Ground Beans/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "BV011",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Supplier Beverage Product Emissions'&&type=='Tea'&&unit=='kg'",
             "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Non Alcoholic Beverages – Tea/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
         },
         {
             "id": "EC001",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Small car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC002",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Medium car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC003",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Large car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC004",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Petrol'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC005",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Small car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC006",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Medium car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC007",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Large car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC008",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Diesel'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC009",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Hybrid'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC010",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Plug-in Hybrid Electric Vehicle'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC011",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Battery Electric Vehicle'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC012",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Unknown'&&unit=='km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown',scope:3,category:'Business travel - land',uom:'km'}]"
         },
         {
             "id": "EC013",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Small car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC014",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Medium car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC015",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Large car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC016",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Petrol'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Petrol',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC017",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Small car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Small car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC018",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Medium car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Medium car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC019",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Large car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Large car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC020",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Diesel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Diesel',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC021",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Hybrid'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Hybrid',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC022",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Plug-in Hybrid Electric Vehicle'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Plug-in Hybrid Electric Vehicle',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC023",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Battery Electric Vehicle'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Battery Electric Vehicle',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC024",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Average car - Unknown Fuel'&&unit=='miles'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Cars (by size)/Average car/Unknown',scope:3,category:'Business travel - land',uom:'miles'}]"
         },
         {
             "id": "EC025",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='National rail'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/National rail',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
         },
         {
             "id": "EC026",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='International Rail (Eurostar)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/International rail',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
         },
         {
             "id": "EC027",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='Light Rail / Tram'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/Light rail and tram',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
         },
         {
             "id": "EC028",
-            "realm": "experienz",
+            "realm": "",
             "query": "(activity=='Employee Commuting - Vehicle'||activity=='Long-Distance Business Travel')&&type=='London Underground'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- land/Rail/London Underground',scope:3,category:'Business travel - land',uom:'passenger-km'}]"
         },
         {
             "id": "EC029",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Short-haul, to/from UK - Economy class (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Economy class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EC030",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Short-haul, to/from UK - Business class (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Business class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EC031",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Short-haul, to/from UK - Average passenger (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Short-haul, to/from UK/Average passenger',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EC032",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Long-haul, to/from UK - Economy class (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Economy class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EC033",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Long-haul, to/from UK - Premium economy class (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Premium economy class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EC034",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Long-haul, to/from UK - Business class (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Business class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EC035",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Long-haul, to/from UK - First class (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/First class',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EC036",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Long-Distance Business Travel'&&type=='Long-haul, to/from UK - Average passenger (With RF)'&&unit=='passenger-km'",
             "function": "return [{source:'defra-2025',indicator:'Employee Commuting/Staff Travel/Business travel- air/Flights/Long-haul, to/from UK/Average passenger',scope:3,category:'Business travel - air',uom:'passenger.km'}]"
         },
         {
             "id": "EA001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Employee Accommodation'&&type=='Hotel - UK'&&unit=='room-night'",
             "function": "return [{source:'defra-2025',indicator:'Staff Travel/Hotel stay/UK/Hotel - UK',scope:3,category:'Hotel stay',uom:'room-night'}]"
         },
         {
             "id": "EA002",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Employee Accommodation'&&type=='Self-Catering / Apartment'&&unit=='room-night'",
             "function": "return [{source:'defra-2025',indicator:'Staff Travel/Hotel stay/UK/Self-Catering / Apartment',scope:3,category:'Hotel stay',uom:'room-night'}]"
         },
         {
             "id": "EA003",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Employee Accommodation'&&type=='Hostel / Budget'&&unit=='room-night'",
             "function": "return [{source:'defra-2025',indicator:'Staff Travel/Hotel stay/UK/Hostel / Budget',scope:3,category:'Hotel stay',uom:'room-night'}]"
         },
         {
             "id": "WR001",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Aggregates'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Aggregates',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR002",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Asphalt'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Asphalt',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR003",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Bricks'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Bricks',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR004",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Concrete'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Concrete',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR005",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Construction - Mixed'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Construction - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR006",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Batteries'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Batteries',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR007",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Fridges and Freezers'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Fridges and Freezers',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR008",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Large'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Large',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR009",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Mixed'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR010",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Electric Items - Small'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Electric Items - Small',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR011",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Glass'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Glass',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR012",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Cans - Aluminium'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Cans - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR013",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Cans - Mixed'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Cans - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR014",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Cans - Steel'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Cans - Steel',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR015",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Foil - Aluminium'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Foil - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR016",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Metal Scrap'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Metal Scrap',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR017",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - Film'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - Film',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR018",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - HDPE'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - HDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR019",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - LDPE'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - LDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR020",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - Mixed'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR021",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PET'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PET',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR022",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PP'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PP',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR023",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PS'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PS',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR024",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - PVC'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - PVC',scope:3,category:'Waste disposal',uom:'tonne'}]"
         },
         {
             "id": "WR025",
-            "realm": "experienz",
+            "realm": "",
             "query": "activity=='Waste Recycled - Open-loop'&&type=='Plastics - Rigid'&&unit=='tonne'",
             "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Open-loop/Plastics - Rigid',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL001",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Books'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Books',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL002",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Clothes'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Clothes',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL003",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Aggregates'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Aggregates',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL004",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Asphalt'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Asphalt',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL005",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Concrete'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Concrete',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL006",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Insulation'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Insulation',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL007",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Metals'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Metals',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL008",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Mineral oil'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Mineral oil',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL009",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL010",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Plasterboard'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Plasterboard',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL011",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Soils'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Soils',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL012",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Tyres'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Tyres',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL013",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Construction - Wood'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Construction - Wood',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL014",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Glass'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Glass',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL015",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Metal Cans - Aluminium'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Metal Cans - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL016",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Metal Cans - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Metal Cans - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL017",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Metal Cans - Steel'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Metal Cans - Steel',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL018",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Metal Foil - Aluminium'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Metal Foil - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL019",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Metal Scrap'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Metal Scrap',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL020",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Paper - Board'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Paper - Board',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL021",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Paper - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Paper - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL022",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Paper - Sheet'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Paper - Sheet',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL023",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - Film'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - Film',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL024",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - HDPE'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - HDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL025",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - LDPE'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - LDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL026",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL027",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - PET'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - PET',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL028",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - PP'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - PP',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL029",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - PS'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - PS',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL030",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - PVC'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - PVC',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WCL031",
+            "realm": "",
+            "query": "activity=='Waste Recycled - Closed-loop'&&type=='Plastics - Rigid'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Recycled - Closed-loop/Plastics - Rigid',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI001",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Books'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Books',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI002",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Clothes'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Clothes',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI003",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Commercial and industrial'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Commercial and industrial',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI004",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Construction - Mineral oil'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Construction - Mineral oil',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI005",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Construction - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Construction - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI006",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Construction - Wood'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Construction - Wood',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI007",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Electric Items - Large'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Electric Items - Large',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI008",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Electric Items - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Electric Items - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI009",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Electric Items - Small'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Electric Items - Small',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI010",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Glass'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Glass',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI011",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Household residual'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Household residual',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI012",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Metal Cans - Aluminium'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Metal Cans - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI013",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Metal Cans - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Metal Cans - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI014",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Metal Cans - Steel'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Metal Cans - Steel',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI015",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Metal Foil - Aluminium'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Metal Foil - Aluminium',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI016",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Metal Scrap'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Metal Scrap',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI017",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Organic - Food and drink waste'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Organic - Food and drink waste',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI018",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Organic - Food and garden waste'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Organic - Food and garden waste',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI019",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Organic - Garden waste'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Organic - Garden waste',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI020",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Paper - Board'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Paper - Board',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI021",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Paper - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Paper - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI022",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Paper - Sheet'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Paper - Sheet',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI023",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - Film'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - Film',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI024",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - HDPE'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - HDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI025",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - LDPE'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - LDPE',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI026",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - Mixed'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - Mixed',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI027",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - PET'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - PET',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI028",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - PP'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - PP',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI029",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - PS'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - PS',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI030",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - PVC'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - PVC',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WI031",
+            "realm": "",
+            "query": "activity=='Waste Incineration with Energy Recovery'&&type=='Plastics - Rigid'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Incineration with Energy Recovery/Plastics - Rigid',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WA001",
+            "realm": "",
+            "query": "activity=='Waste Disposal - Anaerobic digestion'&&type=='Organic - Food and drink waste'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Disposal - Anaerobic digestion/Organic - Food and drink waste',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WA002",
+            "realm": "",
+            "query": "activity=='Waste Disposal - Anaerobic digestion'&&type=='Organic - Food and garden waste'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Disposal - Anaerobic digestion/Organic - Food and garden waste',scope:3,category:'Waste disposal',uom:'tonne'}]"
+        },
+        {
+            "id": "WA003",
+            "realm": "",
+            "query": "activity=='Waste Disposal - Anaerobic digestion'&&type=='Organic - Garden waste'&&unit=='tonne'",
+            "function": "return [{source:'defra-2025',indicator:'Waste/Waste Disposal - Anaerobic digestion/Organic - Garden waste',scope:3,category:'Waste disposal',uom:'tonne'}]"
         }
     ],
     "emissionFactorResolve": [
@@ -11050,9 +11440,15 @@
         },
         {
             "id": "0_3",
-            "realm": "experienz",
+            "realm": "",
             "query": "steps.emissionFactorResolve?.some(efr=>efr.data?.length===2)",
             "function": "stepData=[];activity.steps.emissionFactorResolve.forEach((efr,efrIdx)=>{if(efr.data&&efr.data.length===2){const f1=efr.data[0]?.factor||1;const f2=efr.data[1]?.factor||1;const combined=(activity.amount*f1)+(activity.amount*f2);stepData.push({efrIdx:efrIdx,gtrIdx:efr.data[0]?.gtrIdx,efrDataIdx:0,factor1:f1,factor2:f2,ghgEmission:combined,indicator:`${efr.data[0]?.indicator} + ${efr.data[1]?.indicator}`,unitConversion:efr.data[0]?.unitConversion})}});return stepData"
+        },
+        {
+            "id": "0_4",
+            "realm": "",
+            "query": "activity.activity?.includes('Allocated to THIS EVENT') && activity.system_props.indicators?.scope1_emissions",
+            "function": "const s1 = parseFloat(activity.system_props.indicators.scope1_emissions.response); const spend = parseFloat(activity.system_props.indicators.event_spend.response); const rev = parseFloat(activity.system_props.indicators.total_company_revenue.response); activity.amount = s1 * (spend/rev); activity.steps.calculate = [{id:'allocate_calculate',data:[{ghgEmission:activity.amount}]}];"
         }
     ],
     "postCustomize": [
@@ -11067,6 +11463,12 @@
             "realm": "",
             "query": "system_props.extractor.metadata?.sector",
             "function": "activity.system_props.external.sector = activity.system_props.extractor.metadata.sector"
+        },
+        {
+            "id": "0_3",
+            "realm": "",
+            "query": "system_props.extractor.metadata?.event",
+            "function": "activity.system_props.external.event = activity.system_props.extractor.metadata.event"
         },
         {
             "id": "16_2",
