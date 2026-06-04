@@ -230,5 +230,53 @@
       "amount": "amount",
       "unit": "'tonne'"
     }
+  },
+  {
+    "indicators": {
+      "scope1_emissions": "scope1_emissions",
+      "event_spend": "event_spend",
+      "total_company_revenue": "total_company_revenue"
+    },
+    "extract": {
+      "activity": "'Scope 1 Allocated to THIS EVENT (tCO₂e)'",
+      "amount": "scope1_emissions * (event_spend / total_company_revenue)",
+      "unit": "'tCO₂e'"
+    }
+  },
+  {
+    "indicators": {
+      "scope2_location_emissions": "scope2_location_emissions",
+      "event_spend": "event_spend",
+      "total_company_revenue": "total_company_revenue"
+    },
+    "extract": {
+      "activity": "'Scope 2 (Location) Allocated to THIS EVENT (tCO₂e)'",
+      "amount": "scope2_location_emissions * (event_spend / total_company_revenue)",
+      "unit": "'tCO₂e'"
+    }
+  },
+  {
+    "indicators": {
+      "scope2_market_emissions": "scope2_market_emissions",
+      "event_spend": "event_spend",
+      "total_company_revenue": "total_company_revenue"
+    },
+    "extract": {
+      "activity": "'Scope 2 (Market) Allocated to THIS EVENT (tCO₂e)'",
+      "amount": "scope2_market_emissions * (event_spend / total_company_revenue)",
+      "unit": "'tCO₂e'"
+    }
+  },
+  {
+    "indicators": {
+      "energy_onsite_type": "type",
+      "energy_onsite_quantity": "amount"
+    },
+    "extract": {
+      "activity": "'On-site Equipment Energy & Fuel Consumption'",
+      "type": "{'Diesel (100% mineral diesel)':'Diesel','Diesel (average biofuel blend)':'Diesel','Gas oil':'Gas Oil','LPG':'LPG',' Petrol (100% mineral petrol)':'Petrol','Natural gas':'Natural Gas','Electricity':'Electricity'}[type] ?? type",
+      "amount": "amount",
+      "unit": "{'Electricity':'kWh','Natural gas':'kWh','Diesel (100% mineral diesel)':'l','Diesel (average biofuel blend)':'l','Gas oil':'l','LPG':'l',' Petrol (100% mineral petrol)':'l'}[type] ?? 'l'"
+    }
   }
 ]
