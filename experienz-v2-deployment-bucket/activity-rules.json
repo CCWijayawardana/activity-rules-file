@@ -10073,6 +10073,18 @@
             "function": "return [{source:\"defra-2025\",indicator:\"Homeworking/Homeworking (office equipment + heating)\",scope:3,category:\"Employee Commuting\"}]"
         },
         {
+            "id": "30_0075",
+            "realm": "",
+            "query": "activity=='Electricity Use'&&type=='Purchased from Grid'",
+            "function": "return [{source:\"defra-2025\",indicator:\"UK electricity/Electricity generated/Electricity: UK/kWh\",scope:2,category:\"Purchased Electricity\"},{source:\"defra-2025\",indicator:\"Transmission and distribution/T&D- UK electricity/Electricity: UK/kWh\",scope:3,category:\"Fuel- and Energy-related Activities\"},{source:\"defra-2025\",indicator:\"WTT- UK electricity/WTT- UK electricity (T&D)/Electricity: UK/kWh\",scope:3,category:\"Fuel- and Energy-related Activities\"},{source:\"defra-2025\",indicator:\"WTT- UK electricity/WTT- UK electricity (generation)/Electricity: UK/kWh\",scope:3,category:\"Fuel- and Energy-related Activities\"}]"
+        },
+        {
+            "id": "30_0076",
+            "realm": "",
+            "query": "activity=='Generation of Electricity'&&type=='Solar'&&system_props.external?.region=='SL'",
+            "function": "return [{source:\"defra-2025\",indicator:\"-\",scope:2,category:\"Generated Electricity\"}]"
+        },
+        {
             "id": "sil_0001",
             "realm": "silverstone",
             "query": "activity=='Electricity Use'&&type=='Purchased from Grid'",
