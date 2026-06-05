@@ -278,5 +278,18 @@
       "amount": "amount",
       "unit": "{'Electricity':'kWh','Natural gas':'kWh','Diesel (100% mineral diesel)':'l','Diesel (average biofuel blend)':'l','Gas oil':'l','LPG':'l',' Petrol (100% mineral petrol)':'l'}[type] ?? 'l'"
     }
+  },
+  {
+    "indicators": {
+      "refrigerant_type": "type",
+      "refrigerant_amount": "amount"
+    },
+    "extract": {
+      "activity": "'Onsite Energy Use'",
+      "type": "{'HFC-134a':'HFC-134a','HFC-32':'HFC-32','R410A':'R410A (HFC blend)','R407C':'R407C (HFC blend)','R404A':'R404A (HFC blend)','Carbon dioxide (R744)':'Carbon dioxide (R744)'}[type] ?? type",
+      "amount": "amount",
+      "unit": "'kg'",
+      "category": "'Refrigerants'"
+    }
   }
 ]

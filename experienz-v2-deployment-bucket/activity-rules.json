@@ -11461,6 +11461,42 @@
             "realm": "",
             "query": "activity.activity?.includes('Allocated to THIS EVENT') && activity.system_props.indicators?.scope1_emissions",
             "function": "const s1 = parseFloat(activity.system_props.indicators.scope1_emissions.response); const spend = parseFloat(activity.system_props.indicators.event_spend.response); const rev = parseFloat(activity.system_props.indicators.total_company_revenue.response); activity.amount = s1 * (spend/rev); activity.steps.calculate = [{id:'allocate_calculate',data:[{ghgEmission:activity.amount}]}];"
+        },
+        {
+            "id": "RF001",
+            "realm": "experienz",
+            "query": "activity=='Onsite Energy Use'&&type=='HFC-134a'&&unit=='kg'",
+            "function": "return [{source:'defra-2025',indicator:'Onsite Energy Use/Refrigerants/HFC-134a',scope:1,category:'Kyoto protocol products',uom:'kg'}]"
+        },
+        {
+            "id": "RF002",
+            "realm": "experienz",
+            "query": "activity=='Onsite Energy Use'&&type=='HFC-32'&&unit=='kg'",
+            "function": "return [{source:'defra-2025',indicator:'Onsite Energy Use/Refrigerants/HFC-32',scope:1,category:'Kyoto protocol products',uom:'kg'}]"
+        },
+        {
+            "id": "RF003",
+            "realm": "experienz",
+            "query": "activity=='Onsite Energy Use'&&type=='R410A'&&unit=='kg'",
+            "function": "return [{source:'defra-2025',indicator:'Onsite Energy Use/Refrigerants/R410A (HFC blend)',scope:1,category:'Blends',uom:'kg'}]"
+        },
+        {
+            "id": "RF004",
+            "realm": "experienz",
+            "query": "activity=='Onsite Energy Use'&&type=='R407C'&&unit=='kg'",
+            "function": "return [{source:'defra-2025',indicator:'Onsite Energy Use/Refrigerants/R407C (HFC blend)',scope:1,category:'Blends',uom:'kg'}]"
+        },
+        {
+            "id": "RF005",
+            "realm": "experienz",
+            "query": "activity=='Onsite Energy Use'&&type=='R404A'&&unit=='kg'",
+            "function": "return [{source:'defra-2025',indicator:'Onsite Energy Use/Refrigerants/R404A (HFC blend)',scope:1,category:'Blends',uom:'kg'}]"
+        },
+        {
+            "id": "RF006",
+            "realm": "experienz",
+            "query": "activity=='Onsite Energy Use'&&type=='Carbon dioxide (R744)'&&unit=='kg'",
+            "function": "return [{source:'defra-2025',indicator:'Onsite Energy Use/Refrigerants/Carbon dioxide (R744)',scope:1,category:'Kyoto protocol products',uom:'kg'}]"
         }
     ],
     "postCustomize": [

@@ -290600,5 +290600,203 @@
         },
         "originalFactor": 8.98311,
         "originalUom": "kg"
+    },
+    {
+        "createdAt": 1780600000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1300,
+        "indicator": "Onsite Energy Use/Refrigerants/HFC-134a",
+        "uom": "kg",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "556",
+            "ID": "3_200_2026_3_1",
+            "Scope": "Scope 1",
+            "Level 1": "Refrigerant & other",
+            "Level 2": "Kyoto protocol products",
+            "Level 3": "HFC-134a",
+            "Level 4": "",
+            "UOM": "kg",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "1300"
+        },
+        "unitConversion": {
+            "inputAmount": 1,
+            "inputUnit": "kg",
+            "outputUnit": "tonne",
+            "multiplier": 0.001,
+            "originalFactor": 1300,
+            "finalUnit": "kg"
+        },
+        "originalFactor": "1300",
+        "originalUom": "kg"
+    },
+    {
+        "createdAt": 1780600000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 677,
+        "indicator": "Onsite Energy Use/Refrigerants/HFC-32",
+        "uom": "kg",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "544",
+            "ID": "3_200_2014_3_1",
+            "Scope": "Scope 1",
+            "Level 1": "Refrigerant & other",
+            "Level 2": "Kyoto protocol products",
+            "Level 3": "HFC-32",
+            "Level 4": "",
+            "UOM": "kg",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "677"
+        },
+        "unitConversion": {
+            "inputAmount": 1,
+            "inputUnit": "kg",
+            "outputUnit": "tonne",
+            "multiplier": 0.001,
+            "originalFactor": 677,
+            "finalUnit": "kg"
+        },
+        "originalFactor": "677",
+        "originalUom": "kg"
+    },
+    {
+        "createdAt": 1780600000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1924,
+        "indicator": "Onsite Energy Use/Refrigerants/R410A (HFC blend)",
+        "uom": "kg",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "688",
+            "ID": "3_201_2158_3_1",
+            "Scope": "Scope 1",
+            "Level 1": "Refrigerant & other",
+            "Level 2": "Blends",
+            "Level 3": "R410A",
+            "Level 4": "",
+            "UOM": "kg",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "1924"
+        },
+        "unitConversion": {
+            "inputAmount": 1,
+            "inputUnit": "kg",
+            "outputUnit": "tonne",
+            "multiplier": 0.001,
+            "originalFactor": 1924,
+            "finalUnit": "kg"
+        },
+        "originalFactor": "1924",
+        "originalUom": "kg"
+    },
+    {
+        "createdAt": 1780600000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1624,
+        "indicator": "Onsite Energy Use/Refrigerants/R407C (HFC blend)",
+        "uom": "kg",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "667",
+            "ID": "3_201_2137_3_1",
+            "Scope": "Scope 1",
+            "Level 1": "Refrigerant & other",
+            "Level 2": "Blends",
+            "Level 3": "R407C",
+            "Level 4": "",
+            "UOM": "kg",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "1624"
+        },
+        "unitConversion": {
+            "inputAmount": 1,
+            "inputUnit": "kg",
+            "outputUnit": "tonne",
+            "multiplier": 0.001,
+            "originalFactor": 1624,
+            "finalUnit": "kg"
+        },
+        "originalFactor": "1624",
+        "originalUom": "kg"
+    },
+    {
+        "createdAt": 1780600000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 3943,
+        "indicator": "Onsite Energy Use/Refrigerants/R404A (HFC blend)",
+        "uom": "kg",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "652",
+            "ID": "3_201_2122_3_1",
+            "Scope": "Scope 1",
+            "Level 1": "Refrigerant & other",
+            "Level 2": "Blends",
+            "Level 3": "R404A",
+            "Level 4": "",
+            "UOM": "kg",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "3943"
+        },
+        "unitConversion": {
+            "inputAmount": 1,
+            "inputUnit": "kg",
+            "outputUnit": "tonne",
+            "multiplier": 0.001,
+            "originalFactor": 3943,
+            "finalUnit": "kg"
+        },
+        "originalFactor": "3943",
+        "originalUom": "kg"
+    },
+    {
+        "createdAt": 1780600000000,
+        "source": {
+            "internal": "defra-2025",
+            "external": "https://assets.publishing.service.gov.uk/media/6846b6ea57f3515d9611f0dd/ghg-conversion-factors-2025-flat-format.xlsx"
+        },
+        "factor": 1,
+        "indicator": "Onsite Energy Use/Refrigerants/Carbon dioxide (R744)",
+        "uom": "kg",
+        "originalSourceData": {
+            "_sheet": "Factors by Category",
+            "_row": "532",
+            "ID": "3_200_2002_3_1",
+            "Scope": "Scope 1",
+            "Level 1": "Refrigerant & other",
+            "Level 2": "Kyoto protocol products",
+            "Level 3": "Carbon dioxide",
+            "Level 4": "",
+            "UOM": "kg",
+            "GHG/Unit": "kg CO2e",
+            "GHG Conversion Factor 2025": "1"
+        },
+        "unitConversion": {
+            "inputAmount": 1,
+            "inputUnit": "kg",
+            "outputUnit": "tonne",
+            "multiplier": 0.001,
+            "originalFactor": 1,
+            "finalUnit": "kg"
+        },
+        "originalFactor": "1",
+        "originalUom": "kg"
     }
 ]
