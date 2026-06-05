@@ -2590,7 +2590,7 @@
                 "options": {
                     "Aggregated commuting data": {
                         "index": 0,
-                        "value": "Aggregated commuting data"
+                        "value": "Aggregated daily staff commuting and business travel data"
                     },
                     "Individual commuting data (one row per employee)": {
                         "index": 1,
@@ -4615,7 +4615,7 @@
                             }
                         },
                         "required": false,
-                        "indicator": "",
+                        "indicator": "refrigerant_type",
                         "validation": [
                             {
                                 "regex": "",
@@ -4629,7 +4629,7 @@
                         "index": 1,
                         "label": "Estimated Leakage (kg)",
                         "required": false,
-                        "indicator": "",
+                        "indicator": "refrigerant_amount",
                         "validation": [
                             {
                                 "regex": "",
@@ -4646,7 +4646,7 @@
     "section19": {
         "index": 7,
         "order": 8,
-        "title": "Daily Staff Commuting — Aggregated totals",
+        "title": "Daily Staff Commuting and Business Traveling — Aggregated totals",
         "guidance": "",
         "helpText": "",
         "condition": {
@@ -4660,7 +4660,7 @@
                 "type": "hTable",
                 "index": 0,
                 "order": 1,
-                "title": "Daily Staff Commuting — Aggregated totals",
+                "title": "Daily Staff Commuting and Business Traveling — Aggregated totals",
                 "options": {
                     "column1": {
                         "step": 1,
