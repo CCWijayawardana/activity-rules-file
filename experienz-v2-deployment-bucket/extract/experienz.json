@@ -24,7 +24,6 @@
     "extract": {
       "activity": "'Supplier Food Product Emissions'",
       "type": "{'Beef – Unprepared/Unprocessed':'Beef','Lamb – Unprepared/Unprocessed':'Lamb','Pork – Unprepared/Unprocessed':'Pork','Poultry – Unprepared/Unprocessed (Other Animal Species proxy)':'Poultry','Fish – Unprepared/Unprocessed':'Fish','Milk (Perishable)':'Dairy - Milk','Cheese (Perishable)':'Dairy - Cheese','Butter (Perishable)':'Dairy - Butter','In Shell Table Eggs':'Eggs','Grains/Flour':'Grains','Bread':'Bread','Fruits – Unprepared/Unprocessed (Fresh)':'Fruits','Vegetables (Non Leaf) – Unprepared/Unprocessed (Fresh)':'Vegetables','Edible Legume Crops':'Legumes','Oils Edible':'Oils','Sugars/Sugar Substitute Products':'Sugar','All Vegetarian Ready Meals':'Ready Meals','Sweet Snack Bars':'Snacks'}[product_type] ?? product_type",
-      "product_type": "{'Beef – Unprepared/Unprocessed':'Beef','Lamb – Unprepared/Unprocessed':'Lamb','Pork – Unprepared/Unprocessed':'Pork','Poultry – Unprepared/Unprocessed (Other Animal Species proxy)':'Poultry','Fish – Unprepared/Unprocessed':'Fish','Milk (Perishable)':'Dairy - Milk','Cheese (Perishable)':'Dairy - Cheese','Butter (Perishable)':'Dairy - Butter','In Shell Table Eggs':'Eggs','Grains/Flour':'Grains','Bread':'Bread','Fruits – Unprepared/Unprocessed (Fresh)':'Fruits','Vegetables (Non Leaf) – Unprepared/Unprocessed (Fresh)':'Vegetables','Edible Legume Crops':'Legumes','Oils Edible':'Oils','Sugars/Sugar Substitute Products':'Sugar','All Vegetarian Ready Meals':'Ready Meals','Sweet Snack Bars':'Snacks'}[product_type] ?? product_type",
       "amount": "quantity",
       "unit": "{'kg':'kg','liters':'litre','units':'units','portions':'portions'}[unit] ?? unit"
     }
@@ -41,7 +40,6 @@
     "extract": {
       "activity": "'Supplier Beverage Product Emissions'",
       "type": "{'Beer (Draught)':'Beer','Beer (Bottled)':'Beer','Wine (Still)':'Wine - Still','Wine (Sparkling)':'Wine - Sparkling','Spirits':'Spirits','Cider':'Cider','Soft Drinks':'Soft Drinks','Juice':'Juice','Water (Bottled)':'Water - Bottled','Coffee':'Coffee','Tea':'Tea'}[product_type] ?? product_type",
-      "product_type": "{'Beer (Draught)':'Beer','Beer (Bottled)':'Beer','Wine (Still)':'Wine - Still','Wine (Sparkling)':'Wine - Sparkling','Spirits':'Spirits','Cider':'Cider','Soft Drinks':'Soft Drinks','Juice':'Juice','Water (Bottled)':'Water - Bottled','Coffee':'Coffee','Tea':'Tea'}[product_type] ?? product_type",
       "amount": "quantity",
       "unit": "{'kg':'kg','liters':'litre','units':'units','portions':'portions'}[unit] ?? unit"
     }
@@ -126,7 +124,7 @@
     },
     "extract": {
       "activity": "'Employee Commuting - Vehicle'",
-      "type": "{'Petrol (Small)':'Small car - Petrol','Petrol (Medium)':'Medium car - Petrol','Petrol (Large)':'Large car - Petrol','Petrol (Average)':'Average car - Petrol','Diesel (Small)':'Small car - Diesel','Diesel (Medium)':'Medium car - Diesel','Diesel (Large)':'Large car - Diesel','Diesel (Average)':'Average car - Diesel','Hybrid (Average)':'Average car - Hybrid','Plug-in Hybrid Electric':'Average car - Plug-in Hybrid Electric Vehicle','Battery Electric':'Average car - Battery Electric Vehicle','Average (Unknown Fuel)':'Average car - Unknown','National rail':'National rail','International Rail (Eurostar)':'International Rail (Eurostar)','Light Rail / Tram':'Light Rail / Tram','London Underground':'London Underground'}[type] ?? type",
+      "type": "{'Small car (Petrol)':'Small car - Petrol','Medium car (Petrol)':'Medium car - Petrol','Large car (Petrol)':'Large car - Petrol','Average car (Petrol)':'Average car - Petrol','Small car (Diesel)':'Small car - Diesel','Medium car (Diesel)':'Medium car - Diesel','Large car (Diesel)':'Large car - Diesel','Average car (Diesel)':'Average car - Diesel','Average car (Hybrid)':'Average car - Hybrid','Average car (Plug-in Hybrid Electric Vehicle)':'Average car - Plug-in Hybrid Electric Vehicle','Average car (Battery Electric Vehicle)':'Average car - Battery Electric Vehicle','Average car (Unknown)':'Average car - Unknown','National rail':'National rail','International rail':'International Rail (Eurostar)','Light rail and tram':'Light Rail / Tram','London Underground':'London Underground'}[type] ?? type",
       "amount": "(working_days - overnight_stays) * commute_distance",
       "unit": "{'kms':'km','miles':'miles','passenger.kms':'passenger-km'}[unit] ?? unit",
       "system": "({region: \"experienz-logistics\"})"
@@ -142,7 +140,7 @@
     },
     "extract": {
       "activity": "'Long-Distance Business Travel'",
-      "type": "{'Air Short-haul - Economy':'Short-haul, to/from UK - Economy class (With RF)','Air Short-haul - Business':'Short-haul, to/from UK - Business class (With RF)','Air Short-haul - Average':'Short-haul, to/from UK - Average passenger (With RF)','Air Long-haul - Economy':'Long-haul, to/from UK - Economy class (With RF)','Air Long-haul - Premium Economy':'Long-haul, to/from UK - Premium economy class (With RF)','Air Long-haul - Business':'Long-haul, to/from UK - Business class (With RF)','Air Long-haul - First':'Long-haul, to/from UK - First class (With RF)','Air Long-haul - Average':'Long-haul, to/from UK - Average passenger (With RF)', 'Petrol (Small)':'Small car - Petrol','Petrol (Medium)':'Medium car - Petrol','Petrol (Large)':'Large car - Petrol','Petrol (Average)':'Average car - Petrol','Diesel (Small)':'Small car - Diesel','Diesel (Medium)':'Medium car - Diesel','Diesel (Large)':'Large car - Diesel','Diesel (Average)':'Average car - Diesel','Hybrid (Average)':'Average car - Hybrid','Plug-in Hybrid Electric':'Average car - Plug-in Hybrid Electric Vehicle','Battery Electric':'Average car - Battery Electric Vehicle','Average (Unknown Fuel)':'Average car - Unknown','National rail':'National rail','International Rail (Eurostar)':'International Rail (Eurostar)','Light Rail / Tram':'Light Rail / Tram','London Underground':'London Underground'}[type] ?? type",
+      "type": "{'Short-haul, to/from UK - Economy class (With RF)':'Short-haul, to/from UK - Economy class (With RF)','Short-haul, to/from UK - Business class (With RF)':'Short-haul, to/from UK - Business class (With RF)','Short-haul, to/from UK - Average passenger (With RF)':'Short-haul, to/from UK - Average passenger (With RF)','Long-haul, to/from UK - Economy class (With RF)':'Long-haul, to/from UK - Economy class (With RF)','Long-haul, to/from UK - Premium economy class (With RF)':'Long-haul, to/from UK - Premium economy class (With RF)','Long-haul, to/from UK - Business class (With RF)':'Long-haul, to/from UK - Business class (With RF)','Long-haul, to/from UK - First class (With RF)':'Long-haul, to/from UK - First class (With RF)','Long-haul, to/from UK - Average passenger (With RF)':'Long-haul, to/from UK - Average passenger (With RF)','Small car (Petrol)':'Small car - Petrol','Medium car (Petrol)':'Medium car - Petrol','Large car (Petrol)':'Large car - Petrol','Average car (Petrol)':'Average car - Petrol','Small car (Diesel)':'Small car - Diesel','Medium car (Diesel)':'Medium car - Diesel','Large car (Diesel)':'Large car - Diesel','Average car (Diesel)':'Average car - Diesel','Average car (Hybrid)':'Average car - Hybrid','Average car (Plug-in Hybrid Electric Vehicle)':'Average car - Plug-in Hybrid Electric Vehicle','Average car (Battery Electric Vehicle)':'Average car - Battery Electric Vehicle','Average car (Unknown)':'Average car - Unknown','National rail':'National rail','International rail':'International Rail (Eurostar)','Light rail and tram':'Light Rail / Tram','London Underground':'London Underground'}[type] ?? type",
       "amount": "(staff_count ?? 1) * (amount ?? 0) * (return_trips ?? 1) * 2",
       "unit": "{'passenger.kms':'passenger-km','passenger-kms':'passenger-km','kms':'km','miles':'miles'}[unit] ?? unit"
     }
@@ -285,11 +283,33 @@
       "refrigerant_amount": "amount"
     },
     "extract": {
-      "activity": "'Onsite Energy Use'",
-      "type": "{'HFC-134a':'HFC-134a','HFC-32':'HFC-32','R410A':'R410A (HFC blend)','R407C':'R407C (HFC blend)','R404A':'R404A (HFC blend)','Carbon dioxide (R744)':'Carbon dioxide (R744)'}[type] ?? type",
+      "activity": "'Onsite Energy Use/Refrigerants'",
+      "type": "{'HFC-134a':'HFC-134a','HFC-32':'HFC-32','R410A (HFC blend)':'R410A','R407C (HFC blend)':'R407C','R404A (HFC blend)':'R404A','Carbon dioxide (R744)':'Carbon dioxide (R744)'}[type] ?? type",
       "amount": "amount",
-      "unit": "'kg'",
-      "category": "'Refrigerants'"
+      "unit": "'kg'"
+    }
+  },
+  {
+    "indicators": {
+      "structure_type": "structure_type",
+      "struc_own_status": "ownership_status",
+      "struc_mat_type": "material_type",
+      "struc_amount": "amount",
+      "struc_unit": "unit",
+      "struc_lifespan": "lifespan",
+      "struc_recycled": "recycled_content"
+    },
+    "extract": {
+      "activity": "'Supplier Temporary Structures'",
+      "type": "structure_type",
+      "amount": "amount",
+      "unit": "{'kg':'kg','m²':'m²'}[unit] ?? unit",
+      "custom": {
+        "ownership_status": "{'Purchase outright':'Purchase outright','Purchase used':'Purchase used','Hired outright':'Hired outright','Hired used':'Hired used'}[ownership_status] ?? ownership_status",
+        "material_type": "material_type",
+        "expected_lifespan_uses": "lifespan",
+        "recycled_content_percent": "recycled_content"
+      }
     }
   }
 ]
