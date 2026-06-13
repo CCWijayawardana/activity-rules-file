@@ -1,0 +1,172 @@
+{
+    "rules": [
+        {
+            "id": "FB001",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Beef'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Beef - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB002",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Poultry'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0','indicator': 'Food & Beverage/Alternative Meat/Poultry/Other Animal Species - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB003",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Lamb'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Lamb - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB004",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Pork'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Pork - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB005",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Fish'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Fish - Unprepared/Unprocessed/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB006",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Dairy - Milk'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Milk (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB007",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Dairy - Cheese'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Cheese (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB008",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Dairy - Butter'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Butter (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB009",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Eggs'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/In Shell Table Eggs/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB010",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Grains'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Grains/Flour/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB011",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Bread'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Bread/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB012",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Fruits'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Fruits - Unprepared/Unprocessed (Fresh)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB013",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Vegetables'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB014",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Legumes'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Edible Legume Crops/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB015",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Oils'&&unit=='litre'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Oils Edible/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'litre'}]"
+        },
+        {
+            "id": "FB016",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Sugar'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Sugars/Sugar Substitute Products/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB017",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Ready Meals'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/All Vegetarian Ready Meals/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "FB018",
+            "realm": "",
+            "query": "activity=='Supplier Food Product Emissions'&&type=='Snacks'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Sweet Snack Bars/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV001",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Beer'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Beer/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV003",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Wine - Still'&&unit=='litre'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Wine - Still/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'litre'}]"
+        },
+        {
+            "id": "BV004",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Wine - Sparkling'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Wine - Sparkling/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV005",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Spirits'&&unit=='kg'",
+            "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Alcoholic Beverages – Spirits/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV006",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Cider'&&unit=='kg'",
+            "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Alcoholic Beverages – Cider/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV007",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Soft Drinks'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Drinks Flavoured - Ready to Drink/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV008",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Juice'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Fruit Juice - Ready to Drink (Perishable)/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV009",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Water - Bottled'&&unit=='kg'",
+            "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Non Alcoholic Beverages – Bottled Water/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV010",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Coffee'&&unit=='kg'",
+            "function": "return [{source:'wrap-v2.0',indicator:'Food & Beverage/Coffee - Ground Beans/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        },
+        {
+            "id": "BV011",
+            "realm": "",
+            "query": "activity=='Supplier Beverage Product Emissions'&&type=='Tea'&&unit=='kg'",
+            "function": "return [{source:'agribalyse-3.2',indicator:'Food & Beverage/Non Alcoholic Beverages – Tea/Average / Mixed',scope:3,category:'Purchased Goods and Services',uom:'kg'}]"
+        }
+    ]
+}

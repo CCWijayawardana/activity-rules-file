@@ -1,0 +1,872 @@
+{
+    "factors": [
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 16.369,
+            "indicator": "Food & Beverage/Beef - Unprepared/Unprocessed/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "23",
+                "ID": "FB.WRAP_0022",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Beef - Unprepared/Unprocessed",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "16.369"
+            },
+            "unitConversion": {
+                "id": "1",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "16.369",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 13.898,
+            "indicator": "Food & Beverage/Lamb - Unprepared/Unprocessed/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "118",
+                "ID": "FB.WRAP_0117",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Lamb - Unprepared/Unprocessed",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "13.898"
+            },
+            "unitConversion": {
+                "id": "2",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "13.898",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 11.2244,
+            "indicator": "Food & Beverage/Pork - Unprepared/Unprocessed/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "156",
+                "ID": "FB.WRAP_0155",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Pork - Unprepared/Unprocessed",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "11.2244"
+            },
+            "unitConversion": {
+                "id": "3",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "11.2244",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 4.1,
+            "indicator": "Food & Beverage/Alternative Meat/Poultry/Other Animal Species - Unprepared/Unprocessed/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "9",
+                "ID": "FB.WRAP_0008",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Alternative Meat/Poultry/Other Animal Species - Unprepared/Unprocessed",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "4.1"
+            },
+            "unitConversion": {
+                "id": "4",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "4.1",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 5.2484,
+            "indicator": "Food & Beverage/Fish - Unprepared/Unprocessed/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "101",
+                "ID": "FB.WRAP_0100",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Fish - Unprepared/Unprocessed",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "5.2484"
+            },
+            "unitConversion": {
+                "id": "5",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "5.2484",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 2.1896,
+            "indicator": "Food & Beverage/Milk (Perishable)/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "131",
+                "ID": "FB.WRAP_0130",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Milk (Perishable)",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "2.1896"
+            },
+            "unitConversion": {
+                "id": "6",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "2.1896",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 6.2293,
+            "indicator": "Food & Beverage/Cheese (Perishable)/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "58",
+                "ID": "FB.WRAP_0057",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Cheese (Perishable)",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "6.2293"
+            },
+            "unitConversion": {
+                "id": "7",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "6.2293",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 4.9079,
+            "indicator": "Food & Beverage/Butter (Perishable)/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "49",
+                "ID": "FB.WRAP_0048",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Butter (Perishable)",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "4.9079"
+            },
+            "unitConversion": {
+                "id": "8",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "4.9079",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 3.9069,
+            "indicator": "Food & Beverage/In Shell Table Eggs/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "116",
+                "ID": "FB.WRAP_0115",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "In Shell Table Eggs",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "3.9069"
+            },
+            "unitConversion": {
+                "id": "9",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "3.9069",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 2.4432,
+            "indicator": "Food & Beverage/Grains/Flour/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "110",
+                "ID": "FB.WRAP_0109",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Grains/Flour",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "2.4432"
+            },
+            "unitConversion": {
+                "id": "10",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "2.4432",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 0.7754,
+            "indicator": "Food & Beverage/Bread/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "41",
+                "ID": "FB.WRAP_0040",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Bread",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "0.7754"
+            },
+            "unitConversion": {
+                "id": "11",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "0.7754",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 0.7403,
+            "indicator": "Food & Beverage/Fruits - Unprepared/Unprocessed (Fresh)/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "105",
+                "ID": "FB.WRAP_0104",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Fruits - Unprepared/Unprocessed (Fresh)",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "0.7403"
+            },
+            "unitConversion": {
+                "id": "12",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "0.7403",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 0.3258,
+            "indicator": "Food & Beverage/Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh)/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "213",
+                "ID": "FB.WRAP_0212",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Vegetables (Non Leaf) - Unprepared/Unprocessed (Fresh)",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "0.3258"
+            },
+            "unitConversion": {
+                "id": "13",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "0.3258",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 1.5714,
+            "indicator": "Food & Beverage/Edible Legume Crops/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "96",
+                "ID": "FB.WRAP_0095",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Edible Legume Crops",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.5714"
+            },
+            "unitConversion": {
+                "id": "14",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "1.5714",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 4.4547,
+            "indicator": "Food & Beverage/Oils Edible/Average / Mixed",
+            "uom": "litre",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "137",
+                "ID": "FB.WRAP_0136",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Oils Edible",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "litre",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "4.4547"
+            },
+            "unitConversion": {
+                "id": "15",
+                "sourceUnit": "litre",
+                "targetUnit": "litre",
+                "factor": 1
+            },
+            "originalFactor": "4.4547",
+            "originalUom": "litre"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 1.2716,
+            "indicator": "Food & Beverage/Sugars/Sugar Substitute Products/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "190",
+                "ID": "FB.WRAP_0189",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Sugars/Sugar Substitute Products",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.2716"
+            },
+            "unitConversion": {
+                "id": "16",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "1.2716",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 1.1813,
+            "indicator": "Food & Beverage/All Vegetarian Ready Meals/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "8",
+                "ID": "FB.WRAP_0007",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "All Vegetarian Ready Meals",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.1813"
+            },
+            "unitConversion": {
+                "id": "17",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "1.1813",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 2.6897,
+            "indicator": "Food & Beverage/Sweet Snack Bars/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "195",
+                "ID": "FB.WRAP_0194",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Sweet Snack Bars",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "2.6897"
+            },
+            "unitConversion": {
+                "id": "18",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "2.6897",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 1.0607,
+            "indicator": "Food & Beverage/Beer/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "29",
+                "ID": "FB.WRAP_0028",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Beer",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.0607"
+            },
+            "unitConversion": {
+                "id": "19",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "1.0607",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 1.1093,
+            "indicator": "Food & Beverage/Wine - Still/Average / Mixed",
+            "uom": "litre",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "226",
+                "ID": "FB.WRAP_0225",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Wine - Still",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "litre",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.1093"
+            },
+            "unitConversion": {
+                "id": "21",
+                "sourceUnit": "litre",
+                "targetUnit": "litre",
+                "factor": 1
+            },
+            "originalFactor": "1.1093",
+            "originalUom": "litre"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 1.1093,
+            "indicator": "Food & Beverage/Wine - Sparkling/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "225",
+                "ID": "FB.WRAP_0224",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Wine - Sparkling",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.1093"
+            },
+            "unitConversion": {
+                "id": "22",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "1.1093",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "agribalyse-3.2",
+                "external": "https://agribalyse.fr/"
+            },
+            "factor": 1.26,
+            "indicator": "Food & Beverage/Alcoholic Beverages \u2013 Spirits/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "AGRIBALYSE3.2_Tableur_produits_alimentaires_PublieAOUT25",
+                "_row": "",
+                "ID": "AGRI.WHISKY_RUM",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Alcoholic Beverages \u2013 Spirits",
+                "Level 3": "Whisky / Rum proxy",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.26"
+            },
+            "unitConversion": {
+                "id": "23",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "1.26",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "agribalyse-3.2",
+                "external": "https://agribalyse.fr/"
+            },
+            "factor": 1.33,
+            "indicator": "Food & Beverage/Alcoholic Beverages – Cider/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "AGRIBALYSE3.2_Tableur_produits_alimentaires_PublieAOUT25",
+                "_row": "",
+                "ID": "AGRI.CIDER",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Alcoholic Beverages – Cider",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "1.33"
+            },
+            "unitConversion": {
+                "id": "24",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "1.33",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 0.5385,
+            "indicator": "Food & Beverage/Drinks Flavoured - Ready to Drink/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "94",
+                "ID": "FB.WRAP_0093",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Drinks Flavoured - Ready to Drink",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "0.5385"
+            },
+            "unitConversion": {
+                "id": "25",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "0.5385",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 0.7437,
+            "indicator": "Food & Beverage/Fruit Juice - Ready to Drink (Perishable)/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "104",
+                "ID": "FB.WRAP_0103",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Fruit Juice - Ready to Drink (Perishable)",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "0.7437"
+            },
+            "unitConversion": {
+                "id": "26",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "0.7437",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "agribalyse-3.2",
+                "external": "https://agribalyse.fr/"
+            },
+            "factor": 0.377,
+            "indicator": "Food & Beverage/Non Alcoholic Beverages – Bottled Water/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "AGRIBALYSE3.2_Tableur_produits_alimentaires_PublieAOUT25",
+                "_row": "",
+                "ID": "AGRI.WATER_BOTTLED",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Non Alcoholic Beverages – Bottled Water",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "0.377"
+            },
+            "unitConversion": {
+                "id": "27",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "0.377",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "wrap-v2.0",
+                "external": "https://wrap.org.uk/sites/default/files/2025-08/WRAP-Emission-Factor-Database-v2.0.xlsx"
+            },
+            "factor": 16.9182,
+            "indicator": "Food & Beverage/Coffee - Ground Beans/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "EF_Repository_WRAP",
+                "_row": "78",
+                "ID": "FB.WRAP_0077",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Coffee - Ground Beans",
+                "Level 3": "Average / Mixed",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "16.9182"
+            },
+            "unitConversion": {
+                "id": "28",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "16.9182",
+            "originalUom": "kg"
+        },
+        {
+            "createdAt": 1769246385012,
+            "source": {
+                "internal": "agribalyse-3.2",
+                "external": "https://agribalyse.fr/"
+            },
+            "factor": 0.0436,
+            "indicator": "Food & Beverage/Non Alcoholic Beverages – Tea/Average / Mixed",
+            "uom": "kg",
+            "originalSourceData": {
+                "_sheet": "AGRIBALYSE3.2_Tableur_produits_alimentaires_PublieAOUT25",
+                "_row": "",
+                "ID": "AGRI.TEA",
+                "Scope": "Scope 3",
+                "Level 1": "Food & Beverage",
+                "Level 2": "Non Alcoholic Beverages – Tea",
+                "Level 3": "Brewed, without sugar",
+                "Level 4": "Cradle-to-Processing-Gate (plus Transport)",
+                "UOM": "kg",
+                "GHG/Unit": "kg CO2e",
+                "GHG Conversion Factor 2025": "0.0436"
+            },
+            "unitConversion": {
+                "id": "29",
+                "sourceUnit": "kg",
+                "targetUnit": "kg",
+                "factor": 1
+            },
+            "originalFactor": "0.0436",
+            "originalUom": "kg"
+        }
+    ]
+}

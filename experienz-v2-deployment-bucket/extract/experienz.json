@@ -25,7 +25,7 @@
       "activity": "'Supplier Food Product Emissions'",
       "type": "{'Beef – Unprepared/Unprocessed':'Beef','Lamb – Unprepared/Unprocessed':'Lamb','Pork – Unprepared/Unprocessed':'Pork','Poultry – Unprepared/Unprocessed (Other Animal Species proxy)':'Poultry','Fish – Unprepared/Unprocessed':'Fish','Milk (Perishable)':'Dairy - Milk','Cheese (Perishable)':'Dairy - Cheese','Butter (Perishable)':'Dairy - Butter','In Shell Table Eggs':'Eggs','Grains/Flour':'Grains','Bread':'Bread','Fruits – Unprepared/Unprocessed (Fresh)':'Fruits','Vegetables (Non Leaf) – Unprepared/Unprocessed (Fresh)':'Vegetables','Edible Legume Crops':'Legumes','Oils Edible':'Oils','Sugars/Sugar Substitute Products':'Sugar','All Vegetarian Ready Meals':'Ready Meals','Sweet Snack Bars':'Snacks'}[product_type] ?? product_type",
       "amount": "quantity",
-      "unit": "{'kg':'kg','liters':'litre','units':'units','portions':'portions'}[unit] ?? unit"
+      "unit": "{'kg':'kg','litres':'litre','units':'units','portions':'portions'}[unit] ?? unit"
     }
   },
   {
@@ -39,9 +39,9 @@
     },
     "extract": {
       "activity": "'Supplier Beverage Product Emissions'",
-      "type": "{'Beer (Draught)':'Beer','Beer (Bottled)':'Beer','Wine (Still)':'Wine - Still','Wine (Sparkling)':'Wine - Sparkling','Spirits':'Spirits','Cider':'Cider','Soft Drinks':'Soft Drinks','Juice':'Juice','Water (Bottled)':'Water - Bottled','Coffee':'Coffee','Tea':'Tea'}[product_type] ?? product_type",
+      "type": "{'Beer':'Beer','Wine – Still':'Wine - Still','Wine – Sparkling':'Wine - Sparkling','Spirits (Whisky/Rum proxy)':'Spirits','Cider':'Cider','Drinks Flavoured – Ready to Drink':'Soft Drinks','Fruit Juice – Ready to Drink (Perishable)':'Juice','Water – Bottled':'Water - Bottled','Coffee – Ground Beans':'Coffee','Tea – Brewed':'Tea'}[product_type] ?? product_type",
       "amount": "quantity",
-      "unit": "{'kg':'kg','liters':'litre','units':'units','portions':'portions'}[unit] ?? unit"
+      "unit": "{'kg':'kg','litres':'litre','units':'units','portions':'portions'}[unit] ?? unit"
     }
   },
   {

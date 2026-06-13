@@ -1,0 +1,44 @@
+[
+  {
+    "id": "EN001",
+    "realm": "",
+    "query": "(activity=='Supplier Energy use for owned or controlled equipment'||activity=='On-site Equipment Energy & Fuel Consumption')&&type=='Natural Gas'&&unit=='kWh'",
+    "function": "return [{source:'defra-2025',indicator:\"Fuels/Gaseous fuels/Natural gas\",scope:1,category:'Direct Energy',uom:'kWh'}]"
+  },
+  {
+    "id": "EN002",
+    "realm": "",
+    "query": "(activity=='Supplier Energy use for owned or controlled equipment'||activity=='On-site Equipment Energy & Fuel Consumption')&&type=='Electricity'&&unit=='kWh'",
+    "function": "return [{source:'defra-2025',indicator:\"UK electricity/Electricity generated/Electricity: UK/kWh\",scope:2,category:'Purchased Electricity',uom:'kWh'}]"
+  },
+  {
+    "id": "EN003",
+    "realm": "",
+    "query": "(activity=='Supplier Energy use for owned or controlled equipment'||activity=='On-site Equipment Energy & Fuel Consumption')&&type=='Diesel'&&unit=='l'",
+    "function": "return [{source:'defra-2025',indicator:\"Fuels/Liquid fuels/Diesel (100% mineral diesel)\",scope:1,category:'Direct Energy',uom:'l'}]"
+  },
+  {
+    "id": "EN004",
+    "realm": "",
+    "query": "(activity=='Supplier Energy use for owned or controlled equipment'||activity=='On-site Equipment Energy & Fuel Consumption')&&type=='Petrol'&&unit=='l'",
+    "function": "return [{source:'defra-2025',indicator:\"Fuels/Liquid fuels/Petrol (100% mineral petrol)\",scope:1,category:'Direct Energy',uom:'l'}]"
+  },
+  {
+    "id": "EN005",
+    "realm": "",
+    "query": "(activity=='Supplier Energy use for owned or controlled equipment'||activity=='On-site Equipment Energy & Fuel Consumption')&&type=='Gas Oil'&&unit=='l'",
+    "function": "return [{source:'defra-2025',indicator:\"Fuels/Liquid fuels/Gas oil\",scope:1,category:'Direct Energy',uom:'l'}]"
+  },
+  {
+    "id": "EN006",
+    "realm": "",
+    "query": "(activity=='Supplier Energy use for owned or controlled equipment'||activity=='On-site Equipment Energy & Fuel Consumption')&&type=='LPG'&&unit=='kWh'",
+    "function": "return [{source:'defra-2025',indicator:\"Fuels/Gaseous fuels/LPG\",scope:1,category:'Direct Energy',uom:'kWh'}]"
+  },
+  {
+    "id": "EN007",
+    "realm": "",
+    "query": "(activity=='Supplier Energy use for owned or controlled equipment'||activity=='On-site Equipment Energy & Fuel Consumption')&&type=='LPG'&&unit=='l'",
+    "function": "return [{source:'defra-2025',indicator:\"Fuels/Gaseous fuels/LPG\",scope:1,category:'Direct Energy',uom:'l'}]"
+  }
+]
